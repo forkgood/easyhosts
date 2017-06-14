@@ -42,7 +42,8 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 
 
 ***其他文件：***
-**log.txt**：最新检测时间以此文件显示时间为准
+
+**log.txt**：最新检测时间（更新周期以此文件为准）
 
 检测周期为30分钟，本 Github 项目中的所有规则只会在上游Hosts发生变化时自动与Github同步，同步周期往往超过30分钟。
 
