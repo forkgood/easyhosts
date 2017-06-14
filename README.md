@@ -19,11 +19,11 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 
 ***常规增强 Hosts：(racaljk 常用网站 + sy618 Google Play 下载源 + sy618 Youtube 视频源)***
 
-**hosts.txt**：常规增强 Hosts 规则，适用于Android/iOS/Windows/Mac OS/Linux等。
+**[hosts.txt][2]**：常规增强 Hosts 规则，适用于Android/iOS/Windows/Mac OS/Linux等。
 
-**dnsmasq.txt**：常规增强 dnsmasq规则，适用于 Linux 及 OpenWrt，路由器可用。
+**[dnsmasq.txt][3]**：常规增强 dnsmasq规则，适用于 Linux 及 OpenWrt，路由器可用。
 
-**surge.txt**：常规增强 Surge 规则，适用于Surge/Shadowrocket等各种代理软件。
+**[surge.txt][4]**：常规增强 Surge 规则，适用于Surge/Shadowrocket等各种代理软件。
 
 
 ----------
@@ -31,11 +31,11 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 
 ***去广告增强 Hosts：(racaljk + sy618 Google Play 下载源 + sy618 Youtube 视频源 + vokins 去广告源)***
 
-**hosts-noad.txt**：去广告增强 Hosts 规则，适用于Android/iOS/Windows/Mac
+**[hosts-noad.txt][5]**：去广告增强 Hosts 规则，适用于Android/iOS/Windows/Mac
 
-**dnsmasq-noad.txt**：去广告增强 dnsmasq规则，适用于 Linux 及 OpenWrt，路由器可用。
+**[dnsmasq-noad.txt][6]**：去广告增强 dnsmasq规则，适用于 Linux 及 OpenWrt，路由器可用。
 
-**surge-noad.txt**：去广告增强 Surge 规则，适用于Surge/Shadowrocket等各种代理软件。
+**[surge-noad.txt][7]**：去广告增强 Surge 规则，适用于Surge/Shadowrocket等各种代理软件。
 
 
 ----------
@@ -55,11 +55,17 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 
 
 # 感谢
-[racaljk][2] / [sy618][3] / [vokins][4] / [景文互联][5]
+[racaljk][8] / [sy618][9] / [vokins][10] / [景文互联][11]
 
 
   [1]: https://windows.cat
-  [2]: https://github.com/racaljk/hosts
-  [3]: https://github.com/sy618/hosts
-  [4]: https://github.com/vokins/yhosts
-  [5]: https://www.jwdns.com/
+  [2]: https://windows.cat/hosts.txt
+  [3]: https://windows.cat/dnsmasq.txt
+  [4]: https://windows.cat/surge.txt
+  [5]: https://windows.cat/hosts-noad.txt
+  [6]: https://windows.cat/dnsmasq-noad.txt
+  [7]: https://windows.cat/surge-noad.txt
+  [8]: https://github.com/racaljk/hosts
+  [9]: https://github.com/sy618/hosts
+  [10]: https://github.com/vokins/yhosts
+  [11]: https://www.jwdns.com/
