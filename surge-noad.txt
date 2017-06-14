@@ -4,8 +4,8 @@
 # Special Features:Support Google Play/Youtube Video/AdBlock
 # Thanks:racaljk - sy618 - vokins
 # Integration By Jonvi
-
-# Copyright (c) 2014-2017, racaljk.
+# Github:https://github.com/forkgood/easyhosts
+# # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
 # Last updated: 2017-06-14
 
