@@ -29,7 +29,7 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 ----------
 
 
-***去广告增强 Hosts：(racaljk + sy618 Google Play 下载源 + sy618 Youtube 视频源 + vokins 去广告源)***
+***去广告增强 Hosts：(racaljk 常用网站 + sy618 Google Play 下载源 + sy618 Youtube 视频源 + vokins 去广告源)***
 
 **[hosts-noad.txt][5]**：去广告增强 Hosts 规则，适用于Android/iOS/Windows/Mac
 
@@ -47,7 +47,7 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 
 检测周期为30分钟，本 Github 项目中的所有规则只会在上游Hosts发生变化时自动与Github同步，同步周期往往超过30分钟。
 
-**hosts.tar.gz**：含所有规则的压缩包文件
+**hosts.tar.gz**：包含所有规则的压缩包文件
 
 **windows_hosts_manager_tools.zip**：Windows Hosts 管理工具(批处理)
 
