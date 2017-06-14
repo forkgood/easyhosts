@@ -424,6 +424,8 @@ address=/alt4.gmail-smtp-in.l.google.com/216.58.200.33
 
 # Google Start
 address=/com.google/216.58.200.33	
+address=/domains.google/216.58.200.33	
+address=/environment.google/216.58.200.33	
 address=/google.com/216.58.200.33	
 address=/google.com.af/216.58.200.33	
 address=/google.com.ag/216.58.200.33	
@@ -3839,6 +3841,10 @@ address=/youtubei.googleapis.com/61.91.161.217
 address=/youtube-ui.l.google.com/61.91.161.217	
 address=/www.youtube-nocookie.com/61.91.161.217	
 # Youtube End
+
+# Resilio Sync Start
+address=/config.getsync.com/54.230.143.112	
+# Resilio Sync End
 
 # Modified Hosts End
 ##—————play—————

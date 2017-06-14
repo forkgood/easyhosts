@@ -424,6 +424,8 @@
 
 # Google Start
 216.58.200.33	com.google
+216.58.200.33	domains.google
+216.58.200.33	environment.google
 216.58.200.33	google.com
 216.58.200.33	google.com.af
 216.58.200.33	google.com.ag
@@ -3839,6 +3841,10 @@
 61.91.161.217	youtube-ui.l.google.com
 61.91.161.217	www.youtube-nocookie.com
 # Youtube End
+
+# Resilio Sync Start
+54.230.143.112	config.getsync.com
+# Resilio Sync End
 
 # Modified Hosts End
 ##—————play—————
