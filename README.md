@@ -11,7 +11,7 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 注意：Hosts方式访问以上站点，大部分**只允许以HTTPS方式打开**。
 
 # 文件说明
-更多说明请访问 Easyhost 项目主页：[https://windows.cat][1]
+更多说明请访问 easyhosts 项目主页：[https://windows.cat][1]
 
 
 ----------
