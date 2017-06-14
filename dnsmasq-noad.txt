@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-14
+# Last updated: 2017-06-15
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3842,6 +3842,7 @@ address=/www.youtube-nocookie.com/61.91.161.217
 
 # Resilio Sync Start
 address=/config.getsync.com/54.230.143.112	
+address=/update.getsync.com/54.230.143.112	
 # Resilio Sync End
 
 # Modified Hosts End
