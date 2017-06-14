@@ -7389,7 +7389,7 @@ r18---sn-p5qs7n7s.googlevideo.com = 219.76.4.11
 r19---sn-p5qs7n7s.googlevideo.com = 219.76.4.11	
 r20---sn-p5qs7n7s.googlevideo.com = 219.76.4.11	
 
-#version=201706141153
+#version=201706142028
 #url=https://github.com/vokins/yhosts
 localhost = 127.0.0.1	
 ip6-localhost = ::1	
@@ -8498,8 +8498,6 @@ api.adv.ott.cibntv.net = 127.0.0.1
 agn.aty.cp45.ott.cibntv.net = 127.0.0.1	
 m.aty.cp45.ott.cibntv.net = 127.0.0.1	
 mmg.aty.cp45.ott.cibntv.net = 127.0.0.1	
-push.ott.sohu.com = 127.0.0.1	
-ottpush.itc.cn = 127.0.0.1	
 g.dtv.cn.miaozhen.com = 127.0.0.1	
 ssv.admaster.com.cn = 127.0.0.1	
 vyk.admaster.com.cn = 127.0.0.1	

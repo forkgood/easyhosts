@@ -7388,7 +7388,7 @@ address=/r18---sn-p5qs7n7s.googlevideo.com/219.76.4.11
 address=/r19---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 address=/r20---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 
-#version=201706141153
+#version=201706142028
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -8497,8 +8497,6 @@ address=/api.adv.ott.cibntv.net/127.0.0.1
 address=/agn.aty.cp45.ott.cibntv.net/127.0.0.1	
 address=/m.aty.cp45.ott.cibntv.net/127.0.0.1	
 address=/mmg.aty.cp45.ott.cibntv.net/127.0.0.1	
-address=/push.ott.sohu.com/127.0.0.1	
-address=/ottpush.itc.cn/127.0.0.1	
 address=/g.dtv.cn.miaozhen.com/127.0.0.1	
 address=/ssv.admaster.com.cn/127.0.0.1	
 address=/vyk.admaster.com.cn/127.0.0.1	
