@@ -12,7 +12,7 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 
 # 文件说明
 
-*常规增强 Hosts：(racaljk 常用网站 + sy618 Google Play 下载源 + sy618 Youtube 视频源)*
+***常规增强 Hosts：(racaljk 常用网站 + sy618 Google Play 下载源 + sy618 Youtube 视频源)***
 
 **hosts.txt**：常规增强 Hosts 规则，适用于Android/iOS/Windows/Mac OS/Linux等。
 
@@ -21,7 +21,7 @@ Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下�
 **surge.txt**：常规增强 Surge 规则，适用于Surge/Shadowrocket等各种代理软件。
 
 
-*去广告增强 Hosts：(racaljk + sy618 Google Play 下载源 + sy618 Youtube 视频源 + vokins 去广告源)*
+***去广告增强 Hosts：(racaljk + sy618 Google Play 下载源 + sy618 Youtube 视频源 + vokins 去广告源)***
 
 **hosts-noad.txt**：去广告增强 Hosts 规则，适用于Android/iOS/Windows/Mac
 
