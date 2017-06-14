@@ -1,12 +1,12 @@
 # easyhosts
 基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端。
 
-每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载
+每 30 分钟 自动同步一次 Github 最新可用项目并提供打包下载。
 
 # hosts 支持站点
 目前支持访问以下网域，具体自行搜索规则文件：
 
-Google 全家桶,Facebook,Instagram,Twitter,Tumblr,Youtube视频,Google Play下载等。
+Google 全家桶，Facebook，Instagram，Twitter，Tumblr，Youtube视频，Google Play下载等。
 
 注意：Hosts方式访问以上站点，大部分**只允许以HTTPS方式打开**。
 
