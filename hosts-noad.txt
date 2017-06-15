@@ -3440,6 +3440,11 @@
 104.20.39.14	www.psiphon.ca
 # Psiphon End
 
+# Resilio Sync Start
+54.230.143.112	config.getsync.com
+54.230.143.112	update.getsync.com
+# Resilio Sync End
+
 # slideshare Start
 103.20.93.138	www.slideshare.net
 103.20.93.138	slideshare.net
@@ -3839,11 +3844,6 @@
 61.91.161.217	youtube-ui.l.google.com
 61.91.161.217	www.youtube-nocookie.com
 # Youtube End
-
-# Resilio Sync Start
-54.230.143.112	config.getsync.com
-54.230.143.112	update.getsync.com
-# Resilio Sync End
 
 # Modified Hosts End
 ##—————play—————
