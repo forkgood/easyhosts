@@ -7389,7 +7389,7 @@ address=/r18---sn-p5qs7n7s.googlevideo.com/219.76.4.11
 address=/r19---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 address=/r20---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 
-#version=20170617 850
+#version=20170617 911
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -7815,7 +7815,6 @@ address=/re.m.jd.com/127.0.0.1
 address=/stat.m.jd.com/127.0.0.1	
 address=/union.click.jd.com/127.0.0.1	
 address=/union.m.jd.com/127.0.0.1	
-address=/dc2.jd.com/127.0.0.1	
 address=/dl.2345.com/127.0.0.1	
 address=/download.2345.com/127.0.0.1	
 address=/g.wan.2345.com/127.0.0.1	

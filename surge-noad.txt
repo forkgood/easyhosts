@@ -7390,7 +7390,7 @@ r18---sn-p5qs7n7s.googlevideo.com = 219.76.4.11
 r19---sn-p5qs7n7s.googlevideo.com = 219.76.4.11	
 r20---sn-p5qs7n7s.googlevideo.com = 219.76.4.11	
 
-#version=20170617 850
+#version=20170617 911
 #url=https://github.com/vokins/yhosts
 localhost = 127.0.0.1	
 ip6-localhost = ::1	
@@ -7816,7 +7816,6 @@ re.m.jd.com = 127.0.0.1
 stat.m.jd.com = 127.0.0.1	
 union.click.jd.com = 127.0.0.1	
 union.m.jd.com = 127.0.0.1	
-dc2.jd.com = 127.0.0.1	
 dl.2345.com = 127.0.0.1	
 download.2345.com = 127.0.0.1	
 g.wan.2345.com = 127.0.0.1	
