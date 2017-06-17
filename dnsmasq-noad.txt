@@ -7389,7 +7389,7 @@ address=/r18---sn-p5qs7n7s.googlevideo.com/219.76.4.11
 address=/r19---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 address=/r20---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 
-#version=201706162309
+#version=20170617 805
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -7445,6 +7445,8 @@ address=/updates-s3.binaryage.com/127.0.0.1
 address=/cbs.wondershare.com/127.0.0.1	
 address=/macplatform.wondershare.com/127.0.0.1	
 address=/platform.wondershare.com/127.0.0.1	
+address=/nos.netease.com/127.0.0.1	
+address=/cms-bucket.nosdn.127.net/127.0.0.1	
 address=/log.yex.youdao.com/127.0.0.1	
 address=/gorgon.youdao.com/127.0.0.1	
 address=/impservice.dictapp.youdao.com/127.0.0.1	
