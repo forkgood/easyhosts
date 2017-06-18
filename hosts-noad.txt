@@ -7396,7 +7396,7 @@
 219.76.4.11 r19---sn-p5qs7n7s.googlevideo.com
 219.76.4.11 r20---sn-p5qs7n7s.googlevideo.com
 
-#version=201706182326
+#version=201706182346
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -7452,8 +7452,9 @@
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 macplatform.wondershare.com
 127.0.0.1 platform.wondershare.com
+127.0.0.1 e-p4p.163.com
+127.0.0.1 nex.163.com
 127.0.0.1 nos.netease.com
-127.0.0.1 cms-bucket.nosdn.127.net
 127.0.0.1 log.yex.youdao.com
 127.0.0.1 gorgon.youdao.com
 127.0.0.1 impservice.dictapp.youdao.com
@@ -10827,7 +10828,6 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
-127.0.0.1 m.24haitao.net
 127.0.0.1 www.legozu.com
 127.0.0.1 www.k3bos.com
 127.0.0.1 img.qdscgj.com
