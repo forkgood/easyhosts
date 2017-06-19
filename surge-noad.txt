@@ -3442,8 +3442,10 @@ www.psiphon.ca = 104.20.39.14
 # Psiphon End
 
 # Resilio Sync Start
-config.getsync.com = 54.230.143.112	
-update.getsync.com = 54.230.143.112	
+config.getsync.com = 52.85.69.35	
+update.getsync.com = 52.85.69.35	
+www.getsync.com = 52.85.69.166	
+getsync.com = 52.85.69.73	
 # Resilio Sync End
 
 # slideshare Start
@@ -3845,13 +3847,6 @@ youtubei.googleapis.com = 61.91.161.217
 youtube-ui.l.google.com = 61.91.161.217	
 www.youtube-nocookie.com = 61.91.161.217	
 # Youtube End
-
-# Resilio Sync Start
-config.getsync.com = 52.85.69.35	
-update.getsync.com = 52.85.69.35	
-www.getsync.com = 52.85.69.166	
-getsync.com = 52.85.69.73	
-# Resilio Sync End
 
 # Modified Hosts End
 ##—————play—————
