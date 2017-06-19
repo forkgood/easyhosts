@@ -400,6 +400,7 @@
 
 # Github Start
 192.30.253.118	gist.github.com
+151.101.72.249	global-ssl.fastly.net
 # Github End
 
 # Gmail web Start

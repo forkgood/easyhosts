@@ -398,6 +398,7 @@ address=/flipboard.helpshift.com/184.169.141.161
 
 # Github Start
 address=/gist.github.com/192.30.253.118	
+address=/global-ssl.fastly.net/151.101.72.249	
 # Github End
 
 # Gmail web Start
