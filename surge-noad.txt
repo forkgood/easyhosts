@@ -7393,7 +7393,7 @@ r18---sn-p5qs7n7s.googlevideo.com = 219.76.4.11
 r19---sn-p5qs7n7s.googlevideo.com = 219.76.4.11	
 r20---sn-p5qs7n7s.googlevideo.com = 219.76.4.11	
 
-#version=201706192028
+#version=20170620 938
 #url=https://github.com/vokins/yhosts
 localhost = 127.0.0.1	
 ip6-localhost = ::1	
@@ -7815,7 +7815,6 @@ tejia.taobao.com = 127.0.0.1
 tui.taobao.com = 127.0.0.1	
 tyh.taobao.com = 127.0.0.1	
 jx.tmall.com = 127.0.0.1	
-c-nfa.jd.com = 127.0.0.1	
 ccc.x.jd.com = 127.0.0.1	
 click.jr.jd.com = 127.0.0.1	
 img.x.jd.com = 127.0.0.1	
