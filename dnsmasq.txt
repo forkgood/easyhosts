@@ -3382,6 +3382,29 @@ address=/skyapi.onedrive.live.com/104.44.88.28
 address=/outlook.live.com/13.107.42.11	
 # OneDrive End
 
+# Opera mini Start
+address=/mini5.opera-mini.net/107.167.115.253	
+address=/mini5-1.opera-mini.net/107.167.115.241	
+address=/mini5-2.opera-mini.net/107.167.115.242	
+address=/global-4-lvs-colossus-2.opera-mini.net/107.167.115.242	
+address=/mini5-6.opera-mini.net/107.167.115.238	
+address=/mini5-7.opera-mini.net/107.167.115.239	
+address=/mini5-8.opera-mini.net/107.167.115.240	
+address=/mini5cn.opera-mini.net/111.11.6.118	
+address=/mini5cn-1.opera-mini.net/111.11.6.118	
+address=/n14-03-01.opera-mini.net/185.26.180.102	
+address=/cust-demo-test-7.opera-mini.net/82.145.210.217	
+address=/helio-cust.opera-mini.net/107.167.115.253	
+address=/s35-13.opera-mini.net/107.167.97.236	
+address=/global-turbo2-1.opera-mini.net/37.228.107.241	
+address=/a13-08-01.opera-mini.net/37.228.111.170	
+address=/a25-06-11.opera-mini.net/107.167.108.184	
+address=/global-4-lvs-odra-1.opera-mini.net/185.26.181.241	
+address=/global-4-lvs-turing-2.opera-mini.net/82.145.209.242	
+address=/cdn0.opera-mini.net/37.228.107.239	
+address=/global-turbo-2-lvs-turing.opera-mini.net/82.145.209.251	
+# Opera mini End
+
 # pinterest Start
 address=/pinterest.com/151.101.64.84	
 address=/www.pinterest.com/151.101.64.84	

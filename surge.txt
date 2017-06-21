@@ -3383,6 +3383,29 @@ skyapi.onedrive.live.com = 104.44.88.28
 outlook.live.com = 13.107.42.11	
 # OneDrive End
 
+# Opera mini Start
+mini5.opera-mini.net = 107.167.115.253	
+mini5-1.opera-mini.net = 107.167.115.241	
+mini5-2.opera-mini.net = 107.167.115.242	
+global-4-lvs-colossus-2.opera-mini.net = 107.167.115.242	
+mini5-6.opera-mini.net = 107.167.115.238	
+mini5-7.opera-mini.net = 107.167.115.239	
+mini5-8.opera-mini.net = 107.167.115.240	
+mini5cn.opera-mini.net = 111.11.6.118	
+mini5cn-1.opera-mini.net = 111.11.6.118	
+n14-03-01.opera-mini.net = 185.26.180.102	
+cust-demo-test-7.opera-mini.net = 82.145.210.217	
+helio-cust.opera-mini.net = 107.167.115.253	
+s35-13.opera-mini.net = 107.167.97.236	
+global-turbo2-1.opera-mini.net = 37.228.107.241	
+a13-08-01.opera-mini.net = 37.228.111.170	
+a25-06-11.opera-mini.net = 107.167.108.184	
+global-4-lvs-odra-1.opera-mini.net = 185.26.181.241	
+global-4-lvs-turing-2.opera-mini.net = 82.145.209.242	
+cdn0.opera-mini.net = 37.228.107.239	
+global-turbo-2-lvs-turing.opera-mini.net = 82.145.209.251	
+# Opera mini End
+
 # pinterest Start
 pinterest.com = 151.101.64.84	
 www.pinterest.com = 151.101.64.84	
