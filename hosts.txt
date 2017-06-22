@@ -2974,6 +2974,10 @@
 216.239.38.21	www.madewithcode.com
 # Google:Made the code for girls Start End
 
+# Google:Fit Start
+216.58.200.33	lax28s01-in-f10.1e100.net
+# Google:Fit End
+
 # HumbleBundle Start
 5.153.35.171	humble.pubnub.com
 198.41.186.33	humblebundle.com

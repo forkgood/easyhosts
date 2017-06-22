@@ -2973,6 +2973,10 @@ madewithcode.com = 216.239.38.21
 www.madewithcode.com = 216.239.38.21	
 # Google:Made the code for girls Start End
 
+# Google:Fit Start
+lax28s01-in-f10.1e100.net = 216.58.200.33	
+# Google:Fit End
+
 # HumbleBundle Start
 humble.pubnub.com = 5.153.35.171	
 humblebundle.com = 198.41.186.33	
