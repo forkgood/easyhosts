@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-21
+# Last updated: 2017-06-22
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3382,17 +3382,33 @@ address=/outlook.live.com/13.107.42.11
 
 # Opera mini Start
 address=/mini5.opera-mini.net/107.167.115.253	
+address=/gameloft.com.minil.beta.opera-mini.net/107.167.115.253	
+address=/opx.opera.com.mini5-9.opera-mini.net/107.167.115.253	
+address=/m.tiket.com.mini5-5.opera-mini.net/107.167.115.253	
+address=/sharp-cust.opera-mini.net/107.167.115.253	
+address=/opx.opera.com.mini5-7.opera-mini.net/107.167.115.253	
+address=/wapshop.gameloft.com.minil.beta.opera-mini.net/107.167.115.253	
+address=/wapdemon.beta.opera-mini.net/107.167.115.253	
+address=/proxytubo.appspot.com.beta.opera-mini.net/107.167.115.253	
+address=/skype.com.mini5-1.opera-mini.net/107.167.115.253	
+address=/com.indosat.com.mini5-1.opera-mini.net/107.167.115.253	
+address=/nokia-s40-12-cust.opera-mini.net/107.167.115.253	
+address=/fly-cust.opera-mini.net/107.167.115.253	
 address=/mini5-1.opera-mini.net/107.167.115.241	
+address=/labs1-turbo-1.beta.opera-mini.net/107.167.115.241	
 address=/mini5-2.opera-mini.net/107.167.115.242	
 address=/global-4-lvs-colossus-2.opera-mini.net/107.167.115.242	
 address=/mini5-6.opera-mini.net/107.167.115.238	
 address=/mini5-7.opera-mini.net/107.167.115.239	
 address=/mini5-8.opera-mini.net/107.167.115.240	
+address=/global-4-lvs-colossus-8.opera-mini.net/107.167.115.240	
 address=/mini5cn.opera-mini.net/111.11.6.118	
 address=/mini5cn-1.opera-mini.net/111.11.6.118	
 address=/n14-03-01.opera-mini.net/185.26.180.102	
 address=/cust-demo-test-7.opera-mini.net/82.145.210.217	
 address=/helio-cust.opera-mini.net/107.167.115.253	
+address=/10.9.labs1-turbo.beta.opera-mini.net/107.167.115.253	
+address=/opx.opera.com.turbo-5.beta.opera-mini.net/107.167.115.253	
 address=/s35-13.opera-mini.net/107.167.97.236	
 address=/global-turbo2-1.opera-mini.net/37.228.107.241	
 address=/a13-08-01.opera-mini.net/37.228.111.170	
@@ -3400,7 +3416,32 @@ address=/a25-06-11.opera-mini.net/107.167.108.184
 address=/global-4-lvs-odra-1.opera-mini.net/185.26.181.241	
 address=/global-4-lvs-turing-2.opera-mini.net/82.145.209.242	
 address=/cdn0.opera-mini.net/37.228.107.239	
+address=/sitecheck2.opera-mini.net/37.228.107.239	
 address=/global-turbo-2-lvs-turing.opera-mini.net/82.145.209.251	
+address=/n24-05-01.opera-mini.net/141.0.12.125	
+address=/global-4-lvs-turing-8.opera-mini.net/82.145.211.251	
+address=/sitecheck2.opera-mini.net/37.228.107.239	
+address=/n19-04-08.opera-mini.net/82.145.223.56	
+address=/s22-01-08.opera-mini.net/107.167.99.181	
+address=/s23-03-02.opera-mini.net/107.167.103.4	
+address=/n08-07-07.opera-mini.net/82.145.220.251	
+address=/n24-05-02.opera-mini.net/141.0.12.126	
+address=/global-4-lvs-odra-2.opera-mini.net/185.26.181.242	
+address=/opera10beta-turbo.opera-mini.net/185.26.182.62	
+address=/z01-09-01.opera-mini.net/82.145.208.44	
+address=/s20-15.opera-mini.net/107.167.96.210	
+address=/global-4-lvs-odra.opera-mini.net/185.26.181.253	
+address=/z38-09.opera-mini.net/82.145.211.56	
+address=/z24-10.opera-mini.net/82.145.211.9	
+address=/af.opera-mini.net/37.228.107.239	
+address=/a06-05-08-v04.opera-mini.net/37.228.109.141	
+address=/sitecheck.opera-mini.net/107.167.110.211	
+address=/global-max-1.opera-mini.net/107.167.113.209	
+address=/n11-07-07.opera-mini.net/82.145.221.193	
+address=/global-4-lvs-hopper.opera-mini.net/37.228.107.253	
+address=/global-turbo2.opera-mini.net/111.11.6.120	
+address=/z21-09.opera-mini.net/82.145.210.168	
+address=/z24-02.opera-mini.net/82.145.211.1	
 # Opera mini End
 
 # pinterest Start
