@@ -7469,7 +7469,7 @@ address=/r18---sn-p5qs7n7s.googlevideo.com/219.76.4.11
 address=/r19---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 address=/r20---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 
-#version=201706232206
+#version=201706241407
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -10958,6 +10958,8 @@ address=/j.bjlanjin.com/127.0.0.1
 address=/m.966886.org/127.0.0.1	
 address=/vip.968228.org/127.0.0.1	
 address=/m78.xhydrs.cn/127.0.0.1	
+address=/s.huayi65.com/127.0.0.1	
+address=/im1.56zzw.com/127.0.0.1	
 address=/m.hfsteel.net/127.0.0.1	
 address=/www.6kwan.com/127.0.0.1	
 address=/i.xyqsnc.com/127.0.0.1	
