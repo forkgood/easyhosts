@@ -7469,7 +7469,7 @@ address=/r18---sn-p5qs7n7s.googlevideo.com/219.76.4.11
 address=/r19---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 address=/r20---sn-p5qs7n7s.googlevideo.com/219.76.4.11	
 
-#version=201706261900
+#version=201706262243
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -7912,7 +7912,6 @@ address=/g.wan.2345.com/127.0.0.1
 address=/jifendownload.2345.cn/127.0.0.1	
 address=/openbox.mobilem.360.cn/127.0.0.1	
 address=/hot.m.shouji.360tpcdn.com/127.0.0.1	
-address=/down.360safe.com/127.0.0.1	
 address=/ini.update.360safe.com/127.0.0.1	
 address=/inst.360safe.com/127.0.0.1	
 address=/pdown.stat.360safe.com/127.0.0.1	
