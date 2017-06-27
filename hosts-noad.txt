@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-06-26
+# Last updated: 2017-06-27
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -212,7 +212,7 @@
 104.16.100.29	cfl.dropboxstatic.com
 54.230.125.126	cf.dropboxstatic.com
 162.125.32.10	dbxlocal.dropboxstatic.com
-162.25.32.6	log.getdropbox.com
+162.125.32.6	log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
