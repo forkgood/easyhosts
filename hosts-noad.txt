@@ -7469,7 +7469,7 @@
 219.76.4.11 r19---sn-p5qs7n7s.googlevideo.com
 219.76.4.11 r20---sn-p5qs7n7s.googlevideo.com
 
-#version=201706262344
+#version=201706271635
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -9849,6 +9849,8 @@
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 127.0.0.1 www.xxeden.com
+127.0.0.1 huan.yxhxs.com
+127.0.0.1 m.hmyangshengji.com
 127.0.0.1 xi.xztms.com
 127.0.0.1 hen.smxay.com
 127.0.0.1 m.huananb.com
@@ -10349,6 +10351,7 @@
 127.0.0.1 m.xul478.com
 127.0.0.1 m.papajia55.com
 127.0.0.1 m.runiman.com
+127.0.0.1 www.cnzhqs.com
 127.0.0.1 e.feifish66.com
 127.0.0.1 e.maibahe300cc.com
 127.0.0.1 e.cnzzlink.com
@@ -10359,6 +10362,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 m.netko0o.com
 127.0.0.1 m.jifeidandar.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
@@ -10373,6 +10377,8 @@
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 drsw.m.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 m.jnsdkjzs.com
+127.0.0.1 e.jnsdkjzs.com
 127.0.0.1 e.kafka8.com
 127.0.0.1 m.kafka8.com
 127.0.0.1 s.xm9178.com
@@ -10896,6 +10902,8 @@
 127.0.0.1 img2.rzcyx.com
 127.0.0.1 img3.rzcyx.com
 127.0.0.1 in.htjsk.com
+127.0.0.1 in.nwwap.com
+127.0.0.1 s.nwwap.com
 127.0.0.1 js.lieqitianxia.cn
 127.0.0.1 cc.xaepgyy.com
 127.0.0.1 e.gythsg.com
@@ -11217,6 +11225,7 @@
 127.0.0.1 image.139y.com
 127.0.0.1 malacca.inveno.com
 127.0.0.1 ssplog.geekwide.cn
+127.0.0.1 m.96mob.com
 127.0.0.1 c.tkd777.cn
 127.0.0.1 s.3333309.cn
 127.0.0.1 js.lpshl.com
