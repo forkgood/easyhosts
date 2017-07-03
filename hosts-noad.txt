@@ -557,14 +557,24 @@
 216.58.200.33	gcr.io
 216.58.200.33	www.gcr.io
 216.58.200.33	console.firebase.google.com
-216.58.200.33	cloudusersettings-pa.clients6.google.com
+216.58.200.33	appengine.clients6.google.com
+216.58.200.33	bigtableadmin.clients6.google.com
+216.58.200.33	clouddebugger.clients6.google.com
 216.58.200.33	cloudconfig.clients6.google.com
-216.58.200.33	firebasestorage.clients6.google.com
-216.58.200.33	firebaserules.clients6.google.com
+216.58.200.33	cloudpersonalization-pa.clients6.google.com
+216.58.200.33	cloudsupport.clients6.google.com
+216.58.200.33	cloudusersettings-pa.clients6.google.com
+216.58.200.33	dataflow.clients6.google.com
+216.58.200.33	datahub.clients6.google.com
 216.58.200.33	firebasedurablelinks-pa.clients6.google.com
+216.58.200.33	firebaserules.clients6.google.com
+216.58.200.33	firebasestorage.clients6.google.com
 216.58.200.33	gcmcontextualcampaign-pa.clients6.google.com
-216.58.200.33	mobilesdk-pa.clients6.google.com
+216.58.200.33	logging.clients6.google.com
+216.58.200.33	memcache.clients6.google.com
+216.58.200.33	ml.clients6.google.com
 216.58.200.33	mobilecrashreporting.clients6.google.com
+216.58.200.33	mobilesdk-pa.clients6.google.com
 216.58.200.33	reminders-pa.clients6.google.com
 216.58.200.33	linkhelp.clients.google.com
 216.58.200.33	upload.clients.google.com
@@ -800,11 +810,12 @@
 216.58.200.33	google-code-prettify.googlecode.com
 216.58.200.33	www.googlesource.com
 216.58.200.33	cloud.google.com
+216.58.200.33	console.cloud.google.com
 216.58.200.33	ogs.google.com
 216.58.200.33	packages.cloud.google.com
-216.58.200.33	console.cloud.google.com
-216.58.200.33	status.cloud.google.com
 216.58.200.33	ssh.cloud.google.com
+216.58.200.33	status.cloud.google.com
+216.58.200.33	storage.cloud.google.com
 216.58.200.33	developers.google.com
 216.58.200.33	cloudssh.developers.google.com
 216.58.200.33	codelabs.developers.google.com
@@ -979,6 +990,7 @@
 216.58.200.33	safebrowsing.clients.google.com
 216.58.200.33	safebrowsing-cache.google.com
 216.58.200.33	sandbox.google.com
+216.58.200.33	googleapis.sandbox.google.com
 216.58.200.33	scholar.google.com
 216.58.200.33	scholar.google.com.tw
 216.58.200.33	sites.google.com
@@ -1266,6 +1278,7 @@
 
 # Googleapis Start
 216.58.200.33	chart.apis.google.com
+216.58.200.33	explorer.apis.google.com
 216.58.200.33	googleapis.com
 216.58.200.33	www.googleapis.com
 216.58.200.33	ajax.googleapis.com
@@ -2968,9 +2981,9 @@
 64.233.188.188	gcm.googleapis.com
 64.233.188.188	gcm.l.google.com
 64.233.188.188	gcm-xmpp.googleapis.com
-64.233.188.188	gcm-http.googleapis.com
 64.233.188.188	gcm-preprod.l.google.com
 64.233.188.188	gcm-preprod.googleapis.com
+216.58.200.33	gcm-http.googleapis.com
 # Google:gcm End
 
 # Goole:duo Start
