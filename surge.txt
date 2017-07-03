@@ -3003,11 +3003,11 @@ tsa01s08-in-f10.1e100.net = 216.58.200.33
 # Google:Fit End
 
 # HumbleBundle Start
-humble.pubnub.com = 5.153.35.171	
-humblebundle.com = 198.41.186.33	
+humble.pubnub.com = 54.249.82.177	
+humblebundle.com = 104.20.35.236	
 humblebundle-a.akamaihd.net = 203.69.81.33	
 pubnub.com = 52.36.140.12	
-www.humblebundle.com = 74.125.34.32	
+www.humblebundle.com = 216.58.200.243	
 # HumbleBundle End
 
 # imgur Start
@@ -3402,7 +3402,7 @@ int.nyt.com = 184.84.127.110
 
 # OneDrive Start
 api.onedrive.com = 204.79.197.213	
-api.onedrive.com = 2.17.58.51	
+api.onedrive.live.com = 2.17.58.51	
 onedrive.live.com = 204.79.197.217	
 skyweb.skyprod.akadns.net = 204.79.197.217	
 webedgegeo.skyprod.akadns.net = 204.79.197.217	
