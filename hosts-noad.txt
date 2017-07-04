@@ -3547,6 +3547,28 @@
 52.203.245.216	developers.pinterest.com
 # pinterest End
 
+# Periscope Start
+52.193.42.51	pscp.tv
+52.193.42.51	www.pscp.tv
+52.11.126.129	channels.pscp.tv
+52.32.74.235	proxsee.pscp.tv
+13.32.194.196	assets.pscp.tv
+13.32.194.196	prod-profile.pscp.tv
+13.32.194.196	prod-thumbnail.pscp.tv
+151.101.2.93	prod-video-ap-northeast-1.pscp.tv
+151.101.2.93	prod-video-ap-southeast-1.pscp.tv
+151.101.2.93	prod-video-ap-southeast-2.pscp.tv
+151.101.2.93	prod-video-eu-central-1.pscp.tv
+151.101.2.93	prod-video-eu-west-1.pscp.tv
+151.101.2.93	prod-video-us-east-1.pscp.tv
+151.101.2.93	prod-video-us-west-1.pscp.tv
+151.101.2.93	prod-video-us-west-2.pscp.tv
+151.101.2.93	prod-video-sa-east-1.pscp.tv
+52.28.70.96	prod-chatman-ancillary-eu-central-1.pscp.tv
+52.5.25.47	prod-chatman-ancillary-us-east-1.pscp.tv
+52.26.41.23	prod-chatman-ancillary-us-west-2.pscp.tv
+# Periscope End
+
 # Psiphon Start
 54.239.168.4	psiphon3.com
 54.239.168.4	www.psiphon3.com
