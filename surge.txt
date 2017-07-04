@@ -9,7 +9,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-03
+# Last updated: 2017-07-04
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -301,6 +301,15 @@ scontent-b-sin.xx.fbcdn.net = 157.240.7.35
 static.xx.fbcdn.net = 157.240.7.35	
 static.thefacebook.com = 157.240.7.35	
 attachment.fbsbx.com = 157.240.7.35	
+messenger.com = 157.240.7.35	
+www.messenger.com = 157.240.7.35	
+0-edge-chat.messenger.com = 157.240.7.35	
+1-edge-chat.messenger.com = 157.240.7.35	
+2-edge-chat.messenger.com = 157.240.7.35	
+3-edge-chat.messenger.com = 157.240.7.35	
+4-edge-chat.messenger.com = 157.240.7.35	
+5-edge-chat.messenger.com = 157.240.7.35	
+6-edge-chat.messenger.com = 157.240.7.35	
 snaptu-z.facebook.com = 31.13.95.33	
 snaptu-p1.facebook.com = 31.13.95.33	
 snaptu-p2.facebook.com = 31.13.95.33	

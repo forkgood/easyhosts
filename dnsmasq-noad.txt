@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-03
+# Last updated: 2017-07-04
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -298,6 +298,15 @@ address=/scontent-b-sin.xx.fbcdn.net/157.240.7.35
 address=/static.xx.fbcdn.net/157.240.7.35	
 address=/static.thefacebook.com/157.240.7.35	
 address=/attachment.fbsbx.com/157.240.7.35	
+address=/messenger.com/157.240.7.35	
+address=/www.messenger.com/157.240.7.35	
+address=/0-edge-chat.messenger.com/157.240.7.35	
+address=/1-edge-chat.messenger.com/157.240.7.35	
+address=/2-edge-chat.messenger.com/157.240.7.35	
+address=/3-edge-chat.messenger.com/157.240.7.35	
+address=/4-edge-chat.messenger.com/157.240.7.35	
+address=/5-edge-chat.messenger.com/157.240.7.35	
+address=/6-edge-chat.messenger.com/157.240.7.35	
 address=/snaptu-z.facebook.com/31.13.95.33	
 address=/snaptu-p1.facebook.com/31.13.95.33	
 address=/snaptu-p2.facebook.com/31.13.95.33	
