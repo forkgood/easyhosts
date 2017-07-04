@@ -3915,37 +3915,37 @@
 # Yahoo End
 
 # Youtube Start
-61.91.161.217	youtube.com
-61.91.161.217	www.youtube.com
-61.91.161.217	ads.youtube.com
-61.91.161.217	au.youtube.com
-61.91.161.217	ca.youtube.com
-61.91.161.217	de.youtube.com
-61.91.161.217	jp.youtube.com
-61.91.161.217	ru.youtube.com
-61.91.161.217	tw.youtube.com
-61.91.161.217	uk.youtube.com
-61.91.161.217	accounts.youtube.com
-61.91.161.217	analytics.youtube.com
-61.91.161.217	apiblog.youtube.com
-61.91.161.217	creatoracademy.youtube.com
-61.91.161.217	m.youtube.com
-61.91.161.217	s.youtube.com
-61.91.161.217	gdata.youtube.com
-61.91.161.217	gaming.youtube.com
-61.91.161.217	help.youtube.com
-61.91.161.217	img.youtube.com
-61.91.161.217	insight.youtube.com
-61.91.161.217	upload.youtube.com
-61.91.161.217	redirector.c.youtube.com
-61.91.161.217	stage.gdata.youtube.com
-61.91.161.217	tv.youtube.com
-61.91.161.217	uploads.stage.gdata.youtube.com
-61.91.161.217	youtube.googleblog.com
-61.91.161.217	youtube.googleapis.com
-61.91.161.217	youtubei.googleapis.com
-61.91.161.217	youtube-ui.l.google.com
-61.91.161.217	www.youtube-nocookie.com
+172.217.26.46	youtube.com
+172.217.26.46	www.youtube.com
+172.217.26.46	ads.youtube.com
+172.217.26.46	au.youtube.com
+172.217.26.46	ca.youtube.com
+172.217.26.46	de.youtube.com
+172.217.26.46	jp.youtube.com
+172.217.26.46	ru.youtube.com
+172.217.26.46	tw.youtube.com
+172.217.26.46	uk.youtube.com
+172.217.26.46	accounts.youtube.com
+172.217.26.46	analytics.youtube.com
+172.217.26.46	apiblog.youtube.com
+172.217.26.46	creatoracademy.youtube.com
+172.217.26.46	m.youtube.com
+172.217.26.46	s.youtube.com
+172.217.26.46	gdata.youtube.com
+172.217.26.46	gaming.youtube.com
+172.217.26.46	help.youtube.com
+172.217.26.46	img.youtube.com
+172.217.26.46	insight.youtube.com
+172.217.26.46	upload.youtube.com
+172.217.26.46	redirector.c.youtube.com
+172.217.26.46	stage.gdata.youtube.com
+172.217.26.46	tv.youtube.com
+172.217.26.46	uploads.stage.gdata.youtube.com
+172.217.26.46	youtube.googleblog.com
+172.217.26.46	youtube.googleapis.com
+172.217.26.46	youtubei.googleapis.com
+172.217.26.46	youtube-ui.l.google.com
+172.217.26.46	www.youtube-nocookie.com
 # Youtube End
 
 # Modified Hosts End
