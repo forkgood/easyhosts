@@ -3649,16 +3649,17 @@ address=/desktop.telegram.org/149.154.167.99
 address=/core.telegram.org/149.154.167.99	
 address=/macos.telegram.org/149.154.167.99	
 address=/web.telegram.org/149.154.167.120	
-address=/aurora.web.telegram.org/149.154.175.115	
-address=/aurora-1.web.telegram.org/149.154.175.115	
-address=/flora.web.telegram.org/149.154.175.22	
-address=/flora-1.web.telegram.org/149.154.175.22	
+address=/venus.web.telegram.org/149.154.167.57	
 address=/pluto.web.telegram.org/149.154.175.16	
 address=/pluto-1.web.telegram.org/149.154.175.16	
-address=/venus.web.telegram.org/149.154.175.24	
-address=/venus-1.web.telegram.org/149.154.175.24	
-address=/vesta.web.telegram.org/149.154.175.124	
-address=/vesta-1.web.telegram.org/149.154.175.124	
+address=/venus.web.telegram.org/149.154.167.24	
+address=/venus-1.web.telegram.org/149.154.167.24	
+address=/aurora.web.telegram.org/149.154.175.115	
+address=/aurora-1.web.telegram.org/149.154.175.115	
+address=/vesta.web.telegram.org/149.154.167.124	
+address=/vesta-1.web.telegram.org/149.154.167.124	
+address=/flora.web.telegram.org/149.154.171.22	
+address=/flora-1.web.telegram.org/149.154.171.22	
 # telegram End
 
 # thebodyshop Start
