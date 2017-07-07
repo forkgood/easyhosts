@@ -8,7 +8,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-05
+# Last updated: 2017-07-07
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3691,17 +3691,19 @@
 154.35.132.70	consensus-health.torproject.org
 154.35.132.70	deb.torproject.org
 154.35.132.70	dist.torproject.org
+154.35.132.70	extra.torproject.org
 154.35.132.70	gettor.torproject.org
 154.35.132.70	help.torproject.org
 154.35.132.70	onion.torproject.org
 154.35.132.70	ooni.torproject.org
 154.35.132.70	research.torproject.org
 154.35.132.70	spec.torproject.org
+154.35.132.70	stem.torproject.org
 154.35.132.70	tb-manual.torproject.org
 154.35.132.70	wiki.torproject.org
 82.195.75.101	archive.torproject.org
 82.195.75.101	media.torproject.org
-138.201.14.196	blog.torproject.org
+23.185.0.2	blog.torproject.org
 78.47.38.229	bridges.torproject.org
 138.201.14.212	check.torproject.org
 138.201.14.216	collector.torproject.org
@@ -3718,7 +3720,6 @@
 52.70.141.81	explorer.ooni.torproject.org
 138.201.14.203	people.torproject.org
 138.201.212.230	rt.torproject.org
-78.47.38.231	stem.torproject.org
 78.47.38.231	storm.torproject.org
 138.201.14.206	svn.torproject.org
 138.201.212.227	trac.torproject.org

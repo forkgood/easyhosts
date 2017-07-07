@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-05
+# Last updated: 2017-07-07
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3689,17 +3689,19 @@ address=/cloud.torproject.org/154.35.132.70
 address=/consensus-health.torproject.org/154.35.132.70	
 address=/deb.torproject.org/154.35.132.70	
 address=/dist.torproject.org/154.35.132.70	
+address=/extra.torproject.org/154.35.132.70	
 address=/gettor.torproject.org/154.35.132.70	
 address=/help.torproject.org/154.35.132.70	
 address=/onion.torproject.org/154.35.132.70	
 address=/ooni.torproject.org/154.35.132.70	
 address=/research.torproject.org/154.35.132.70	
 address=/spec.torproject.org/154.35.132.70	
+address=/stem.torproject.org/154.35.132.70	
 address=/tb-manual.torproject.org/154.35.132.70	
 address=/wiki.torproject.org/154.35.132.70	
 address=/archive.torproject.org/82.195.75.101	
 address=/media.torproject.org/82.195.75.101	
-address=/blog.torproject.org/138.201.14.196	
+address=/blog.torproject.org/23.185.0.2	
 address=/bridges.torproject.org/78.47.38.229	
 address=/check.torproject.org/138.201.14.212	
 address=/collector.torproject.org/138.201.14.216	
@@ -3716,7 +3718,6 @@ address=/onionoo.torproject.org/78.47.38.227
 address=/explorer.ooni.torproject.org/52.70.141.81	
 address=/people.torproject.org/138.201.14.203	
 address=/rt.torproject.org/138.201.212.230	
-address=/stem.torproject.org/78.47.38.231	
 address=/storm.torproject.org/78.47.38.231	
 address=/svn.torproject.org/138.201.14.206	
 address=/trac.torproject.org/138.201.212.227	
