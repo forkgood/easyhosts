@@ -8,7 +8,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-08
+# Last updated: 2017-07-09
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -4219,6 +4219,68 @@ address=/r17---sn-i3b7knl7.googlevideo.com/74.125.171.86
 address=/r18---sn-i3b7knl7.googlevideo.com/74.125.171.87	
 address=/r19---sn-i3b7knl7.googlevideo.com/74.125.171.88	
 address=/r20---sn-i3b7knl7.googlevideo.com/74.125.171.89	
+address=/r1---sn-i3b7kn76.googlevideo.com/74.125.102.103	
+address=/r2---sn-i3b7kn76.googlevideo.com/74.125.102.104	
+address=/r3---sn-i3b7kn76.googlevideo.com/74.125.102.105	
+address=/r4---sn-i3b7kn76.googlevideo.com/74.125.102.106	
+address=/r5---sn-i3b7kn76.googlevideo.com/74.125.102.107	
+address=/r6---sn-i3b7kn76.googlevideo.com/74.125.102.108	
+address=/r1---sn-i3b7kn76.googlevideo.com/74.125.102.103	
+address=/r2---sn-i3b7kn76.googlevideo.com/74.125.102.104	
+address=/r3---sn-i3b7kn76.googlevideo.com/74.125.102.105	
+address=/r4---sn-i3b7kn76.googlevideo.com/74.125.102.106	
+address=/r5---sn-i3b7kn76.googlevideo.com/74.125.102.107	
+address=/r6---sn-i3b7kn76.googlevideo.com/74.125.102.108	
+address=/r1---sn-i3b7kn7r.googlevideo.com/74.125.106.23	
+address=/r2---sn-i3b7kn7r.googlevideo.com/74.125.106.24	
+address=/r3---sn-i3b7kn7r.googlevideo.com/74.125.106.25	
+address=/r4---sn-i3b7kn7r.googlevideo.com/74.125.106.26	
+address=/r5---sn-i3b7kn7r.googlevideo.com/74.125.106.27	
+address=/r6---sn-i3b7kn7r.googlevideo.com/74.125.106.28	
+address=/r1---sn-i3b7kn7d.googlevideo.com/74.125.102.119	
+address=/r2---sn-i3b7kn7d.googlevideo.com/74.125.102.120	
+address=/r3---sn-i3b7kn7d.googlevideo.com/74.125.102.121	
+address=/r4---sn-i3b7kn7d.googlevideo.com/74.125.102.122	
+address=/r5---sn-i3b7kn7d.googlevideo.com/74.125.102.123	
+address=/r6---sn-i3b7kn7d.googlevideo.com/74.125.102.124	
+address=/r1---sn-i3b7kn7y.googlevideo.com/74.125.106.230	
+address=/r2---sn-i3b7kn7y.googlevideo.com/74.125.106.231	
+address=/r3---sn-i3b7kn7y.googlevideo.com/74.125.106.232	
+address=/r4---sn-i3b7kn7y.googlevideo.com/74.125.106.233	
+address=/r5---sn-i3b7kn7y.googlevideo.com/74.125.106.234	
+address=/r6---sn-i3b7kn7y.googlevideo.com/74.125.106.235	
+address=/r7---sn-i3b7kn7y.googlevideo.com/74.125.106.236	
+address=/r8---sn-i3b7kn7y.googlevideo.com/74.125.106.237	
+address=/r9---sn-i3b7kn7y.googlevideo.com/74.125.106.238	
+address=/r10---sn-i3b7kn7y.googlevideo.com/74.125.106.239	
+address=/r11---sn-i3b7kn7y.googlevideo.com/74.125.106.240	
+address=/r12---sn-i3b7kn7y.googlevideo.com/74.125.106.241	
+address=/r13---sn-i3b7kn7y.googlevideo.com/74.125.106.242	
+address=/r14---sn-i3b7kn7y.googlevideo.com/74.125.106.243	
+address=/r15---sn-i3b7kn7y.googlevideo.com/74.125.106.244	
+address=/r16---sn-i3b7kn7y.googlevideo.com/74.125.106.245	
+address=/r17---sn-i3b7kn7y.googlevideo.com/74.125.106.246	
+address=/r18---sn-i3b7kn7y.googlevideo.com/74.125.106.247	
+address=/r19---sn-i3b7kn7y.googlevideo.com/74.125.106.248	
+address=/r20---sn-i3b7kn7y.googlevideo.com/74.125.106.249	
+address=/r1---sn-i3b7kn7s.googlevideo.com/74.125.102.71	
+address=/r2---sn-i3b7kn7s.googlevideo.com/74.125.102.72	
+address=/r3---sn-i3b7kn7s.googlevideo.com/74.125.102.73	
+address=/r4---sn-i3b7kn7s.googlevideo.com/74.125.102.74	
+address=/r5---sn-i3b7kn7s.googlevideo.com/74.125.102.75	
+address=/r6---sn-i3b7kn7s.googlevideo.com/74.125.102.76	
+address=/r1---sn-i3b7kn7z.googlevideo.com/74.125.102.87	
+address=/r2---sn-i3b7kn7z.googlevideo.com/74.125.102.88	
+address=/r3---sn-i3b7kn7z.googlevideo.com/74.125.102.89	
+address=/r4---sn-i3b7kn7z.googlevideo.com/74.125.102.90	
+address=/r5---sn-i3b7kn7z.googlevideo.com/74.125.102.91	
+address=/r6---sn-i3b7kn7z.googlevideo.com/74.125.102.92	
+address=/r1---sn-i3b7kn7k.googlevideo.com/74.125.106.7	
+address=/r2---sn-i3b7kn7k.googlevideo.com/74.125.106.8	
+address=/r3---sn-i3b7kn7k.googlevideo.com/74.125.106.9	
+address=/r4---sn-i3b7kn7k.googlevideo.com/74.125.106.10	
+address=/r5---sn-i3b7kn7k.googlevideo.com/74.125.106.11	
+address=/r6---sn-i3b7kn7k.googlevideo.com/74.125.106.12	
 # Google Video End
 
 # Modified Hosts End

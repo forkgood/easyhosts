@@ -8,7 +8,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-08
+# Last updated: 2017-07-09
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -4219,6 +4219,68 @@
 74.125.171.87	r18---sn-i3b7knl7.googlevideo.com
 74.125.171.88	r19---sn-i3b7knl7.googlevideo.com
 74.125.171.89	r20---sn-i3b7knl7.googlevideo.com
+74.125.102.103	r1---sn-i3b7kn76.googlevideo.com
+74.125.102.104	r2---sn-i3b7kn76.googlevideo.com
+74.125.102.105	r3---sn-i3b7kn76.googlevideo.com
+74.125.102.106	r4---sn-i3b7kn76.googlevideo.com
+74.125.102.107	r5---sn-i3b7kn76.googlevideo.com
+74.125.102.108	r6---sn-i3b7kn76.googlevideo.com
+74.125.102.103	r1---sn-i3b7kn76.googlevideo.com
+74.125.102.104	r2---sn-i3b7kn76.googlevideo.com
+74.125.102.105	r3---sn-i3b7kn76.googlevideo.com
+74.125.102.106	r4---sn-i3b7kn76.googlevideo.com
+74.125.102.107	r5---sn-i3b7kn76.googlevideo.com
+74.125.102.108	r6---sn-i3b7kn76.googlevideo.com
+74.125.106.23	r1---sn-i3b7kn7r.googlevideo.com
+74.125.106.24	r2---sn-i3b7kn7r.googlevideo.com
+74.125.106.25	r3---sn-i3b7kn7r.googlevideo.com
+74.125.106.26	r4---sn-i3b7kn7r.googlevideo.com
+74.125.106.27	r5---sn-i3b7kn7r.googlevideo.com
+74.125.106.28	r6---sn-i3b7kn7r.googlevideo.com
+74.125.102.119	r1---sn-i3b7kn7d.googlevideo.com
+74.125.102.120	r2---sn-i3b7kn7d.googlevideo.com
+74.125.102.121	r3---sn-i3b7kn7d.googlevideo.com
+74.125.102.122	r4---sn-i3b7kn7d.googlevideo.com
+74.125.102.123	r5---sn-i3b7kn7d.googlevideo.com
+74.125.102.124	r6---sn-i3b7kn7d.googlevideo.com
+74.125.106.230	r1---sn-i3b7kn7y.googlevideo.com
+74.125.106.231	r2---sn-i3b7kn7y.googlevideo.com
+74.125.106.232	r3---sn-i3b7kn7y.googlevideo.com
+74.125.106.233	r4---sn-i3b7kn7y.googlevideo.com
+74.125.106.234	r5---sn-i3b7kn7y.googlevideo.com
+74.125.106.235	r6---sn-i3b7kn7y.googlevideo.com
+74.125.106.236	r7---sn-i3b7kn7y.googlevideo.com
+74.125.106.237	r8---sn-i3b7kn7y.googlevideo.com
+74.125.106.238	r9---sn-i3b7kn7y.googlevideo.com
+74.125.106.239	r10---sn-i3b7kn7y.googlevideo.com
+74.125.106.240	r11---sn-i3b7kn7y.googlevideo.com
+74.125.106.241	r12---sn-i3b7kn7y.googlevideo.com
+74.125.106.242	r13---sn-i3b7kn7y.googlevideo.com
+74.125.106.243	r14---sn-i3b7kn7y.googlevideo.com
+74.125.106.244	r15---sn-i3b7kn7y.googlevideo.com
+74.125.106.245	r16---sn-i3b7kn7y.googlevideo.com
+74.125.106.246	r17---sn-i3b7kn7y.googlevideo.com
+74.125.106.247	r18---sn-i3b7kn7y.googlevideo.com
+74.125.106.248	r19---sn-i3b7kn7y.googlevideo.com
+74.125.106.249	r20---sn-i3b7kn7y.googlevideo.com
+74.125.102.71	r1---sn-i3b7kn7s.googlevideo.com
+74.125.102.72	r2---sn-i3b7kn7s.googlevideo.com
+74.125.102.73	r3---sn-i3b7kn7s.googlevideo.com
+74.125.102.74	r4---sn-i3b7kn7s.googlevideo.com
+74.125.102.75	r5---sn-i3b7kn7s.googlevideo.com
+74.125.102.76	r6---sn-i3b7kn7s.googlevideo.com
+74.125.102.87	r1---sn-i3b7kn7z.googlevideo.com
+74.125.102.88	r2---sn-i3b7kn7z.googlevideo.com
+74.125.102.89	r3---sn-i3b7kn7z.googlevideo.com
+74.125.102.90	r4---sn-i3b7kn7z.googlevideo.com
+74.125.102.91	r5---sn-i3b7kn7z.googlevideo.com
+74.125.102.92	r6---sn-i3b7kn7z.googlevideo.com
+74.125.106.7	r1---sn-i3b7kn7k.googlevideo.com
+74.125.106.8	r2---sn-i3b7kn7k.googlevideo.com
+74.125.106.9	r3---sn-i3b7kn7k.googlevideo.com
+74.125.106.10	r4---sn-i3b7kn7k.googlevideo.com
+74.125.106.11	r5---sn-i3b7kn7k.googlevideo.com
+74.125.106.12	r6---sn-i3b7kn7k.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
