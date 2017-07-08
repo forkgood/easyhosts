@@ -4134,6 +4134,26 @@ r17---sn-i3b7knek.googlevideo.com = 74.125.164.246
 r18---sn-i3b7knek.googlevideo.com = 74.125.164.247	
 r19---sn-i3b7knek.googlevideo.com = 74.125.164.248	
 r20---sn-i3b7knek.googlevideo.com = 74.125.164.249	
+r1---sn-i3b7kned.googlevideo.com = 74.125.164.198	
+r2---sn-i3b7kned.googlevideo.com = 74.125.164.199	
+r3---sn-i3b7kned.googlevideo.com = 74.125.164.200	
+r4---sn-i3b7kned.googlevideo.com = 74.125.164.201	
+r5---sn-i3b7kned.googlevideo.com = 74.125.164.202	
+r6---sn-i3b7kned.googlevideo.com = 74.125.164.203	
+r7---sn-i3b7kned.googlevideo.com = 74.125.164.204	
+r8---sn-i3b7kned.googlevideo.com = 74.125.164.205	
+r9---sn-i3b7kned.googlevideo.com = 74.125.164.206	
+r10---sn-i3b7kned.googlevideo.com = 74.125.164.207	
+r11---sn-i3b7kned.googlevideo.com = 74.125.164.208	
+r12---sn-i3b7kned.googlevideo.com = 74.125.164.209	
+r13---sn-i3b7kned.googlevideo.com = 74.125.164.210	
+r14---sn-i3b7kned.googlevideo.com = 74.125.164.211	
+r15---sn-i3b7kned.googlevideo.com = 74.125.164.212	
+r16---sn-i3b7kned.googlevideo.com = 74.125.164.213	
+r17---sn-i3b7kned.googlevideo.com = 74.125.164.214	
+r18---sn-i3b7kned.googlevideo.com = 74.125.164.215	
+r19---sn-i3b7kned.googlevideo.com = 74.125.164.216	
+r20---sn-i3b7kned.googlevideo.com = 74.125.164.217	
 # Google Video End
 
 # Modified Hosts End
