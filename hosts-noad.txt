@@ -4197,6 +4197,26 @@
 74.125.10.106	r4---sn-i3b7knl6.googlevideo.com
 74.125.10.107	r5---sn-i3b7knl6.googlevideo.com
 74.125.10.108	r6---sn-i3b7knl6.googlevideo.com
+74.125.171.70	r1---sn-i3b7knl7.googlevideo.com
+74.125.171.71	r2---sn-i3b7knl7.googlevideo.com
+74.125.171.72	r3---sn-i3b7knl7.googlevideo.com
+74.125.171.73	r4---sn-i3b7knl7.googlevideo.com
+74.125.171.74	r5---sn-i3b7knl7.googlevideo.com
+74.125.171.75	r6---sn-i3b7knl7.googlevideo.com
+74.125.171.76	r7---sn-i3b7knl7.googlevideo.com
+74.125.171.77	r8---sn-i3b7knl7.googlevideo.com
+74.125.171.78	r9---sn-i3b7knl7.googlevideo.com
+74.125.171.79	r10---sn-i3b7knl7.googlevideo.com
+74.125.171.80	r11---sn-i3b7knl7.googlevideo.com
+74.125.171.81	r12---sn-i3b7knl7.googlevideo.com
+74.125.171.82	r13---sn-i3b7knl7.googlevideo.com
+74.125.171.83	r14---sn-i3b7knl7.googlevideo.com
+74.125.171.84	r15---sn-i3b7knl7.googlevideo.com
+74.125.171.85	r16---sn-i3b7knl7.googlevideo.com
+74.125.171.86	r17---sn-i3b7knl7.googlevideo.com
+74.125.171.87	r18---sn-i3b7knl7.googlevideo.com
+74.125.171.88	r19---sn-i3b7knl7.googlevideo.com
+74.125.171.89	r20---sn-i3b7knl7.googlevideo.com
 # Google Video End
 
 # Modified Hosts End

@@ -4199,6 +4199,26 @@ address=/r3---sn-i3b7knl6.googlevideo.com/74.125.10.105
 address=/r4---sn-i3b7knl6.googlevideo.com/74.125.10.106	
 address=/r5---sn-i3b7knl6.googlevideo.com/74.125.10.107	
 address=/r6---sn-i3b7knl6.googlevideo.com/74.125.10.108	
+address=/r1---sn-i3b7knl7.googlevideo.com/74.125.171.70	
+address=/r2---sn-i3b7knl7.googlevideo.com/74.125.171.71	
+address=/r3---sn-i3b7knl7.googlevideo.com/74.125.171.72	
+address=/r4---sn-i3b7knl7.googlevideo.com/74.125.171.73	
+address=/r5---sn-i3b7knl7.googlevideo.com/74.125.171.74	
+address=/r6---sn-i3b7knl7.googlevideo.com/74.125.171.75	
+address=/r7---sn-i3b7knl7.googlevideo.com/74.125.171.76	
+address=/r8---sn-i3b7knl7.googlevideo.com/74.125.171.77	
+address=/r9---sn-i3b7knl7.googlevideo.com/74.125.171.78	
+address=/r10---sn-i3b7knl7.googlevideo.com/74.125.171.79	
+address=/r11---sn-i3b7knl7.googlevideo.com/74.125.171.80	
+address=/r12---sn-i3b7knl7.googlevideo.com/74.125.171.81	
+address=/r13---sn-i3b7knl7.googlevideo.com/74.125.171.82	
+address=/r14---sn-i3b7knl7.googlevideo.com/74.125.171.83	
+address=/r15---sn-i3b7knl7.googlevideo.com/74.125.171.84	
+address=/r16---sn-i3b7knl7.googlevideo.com/74.125.171.85	
+address=/r17---sn-i3b7knl7.googlevideo.com/74.125.171.86	
+address=/r18---sn-i3b7knl7.googlevideo.com/74.125.171.87	
+address=/r19---sn-i3b7knl7.googlevideo.com/74.125.171.88	
+address=/r20---sn-i3b7knl7.googlevideo.com/74.125.171.89	
 # Google Video End
 
 # Modified Hosts End
