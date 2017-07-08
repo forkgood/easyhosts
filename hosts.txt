@@ -8,7 +8,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-07
+# Last updated: 2017-07-08
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3982,6 +3982,17 @@
 172.217.26.46	youtube-ui.l.google.com
 172.217.26.46	www.youtube-nocookie.com
 # Youtube End
+
+# Google Video Start
+194.9.24.76	r1---sn-5uh5o-f5f6.googlevideo.com
+194.9.24.77	r2---sn-5uh5o-f5f6.googlevideo.com
+194.9.24.78	r3---sn-5uh5o-f5f6.googlevideo.com
+194.9.24.79	r4---sn-5uh5o-f5f6.googlevideo.com
+194.9.24.80	r5---sn-5uh5o-f5f6.googlevideo.com
+194.9.24.81	r6---sn-5uh5o-f5f6.googlevideo.com
+194.9.24.82	r7---sn-5uh5o-f5f6.googlevideo.com
+194.9.24.83	r8---sn-5uh5o-f5f6.googlevideo.com
+# Google Video End
 
 # Modified Hosts End
 ##—————play—————
