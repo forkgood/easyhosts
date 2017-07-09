@@ -3948,37 +3948,37 @@
 # Yahoo End
 
 # Youtube Start
-172.217.26.46	youtube.com
-172.217.26.46	www.youtube.com
-172.217.26.46	ads.youtube.com
-172.217.26.46	au.youtube.com
-172.217.26.46	ca.youtube.com
-172.217.26.46	de.youtube.com
-172.217.26.46	jp.youtube.com
-172.217.26.46	ru.youtube.com
-172.217.26.46	tw.youtube.com
-172.217.26.46	uk.youtube.com
-172.217.26.46	accounts.youtube.com
-172.217.26.46	analytics.youtube.com
-172.217.26.46	apiblog.youtube.com
-172.217.26.46	creatoracademy.youtube.com
-172.217.26.46	m.youtube.com
-172.217.26.46	s.youtube.com
-172.217.26.46	gdata.youtube.com
-172.217.26.46	gaming.youtube.com
-172.217.26.46	help.youtube.com
-172.217.26.46	img.youtube.com
-172.217.26.46	insight.youtube.com
-172.217.26.46	upload.youtube.com
-172.217.26.46	redirector.c.youtube.com
-172.217.26.46	stage.gdata.youtube.com
-172.217.26.46	tv.youtube.com
-172.217.26.46	uploads.stage.gdata.youtube.com
-172.217.26.46	youtube.googleblog.com
-172.217.26.46	youtube.googleapis.com
-172.217.26.46	youtubei.googleapis.com
-172.217.26.46	youtube-ui.l.google.com
-172.217.26.46	www.youtube-nocookie.com
+208.117.229.244	youtube.com
+208.117.229.244	www.youtube.com
+208.117.229.244	ads.youtube.com
+208.117.229.244	au.youtube.com
+208.117.229.244	ca.youtube.com
+208.117.229.244	de.youtube.com
+208.117.229.244	jp.youtube.com
+208.117.229.244	ru.youtube.com
+208.117.229.244	tw.youtube.com
+208.117.229.244	uk.youtube.com
+208.117.229.244	accounts.youtube.com
+208.117.229.244	analytics.youtube.com
+208.117.229.244	apiblog.youtube.com
+208.117.229.244	creatoracademy.youtube.com
+208.117.229.244	m.youtube.com
+208.117.229.244	s.youtube.com
+208.117.229.244	gdata.youtube.com
+208.117.229.244	gaming.youtube.com
+208.117.229.244	help.youtube.com
+208.117.229.244	img.youtube.com
+208.117.229.244	insight.youtube.com
+208.117.229.244	upload.youtube.com
+208.117.229.244	redirector.c.youtube.com
+208.117.229.244	stage.gdata.youtube.com
+208.117.229.244	tv.youtube.com
+208.117.229.244	uploads.stage.gdata.youtube.com
+208.117.229.244	youtube.googleblog.com
+208.117.229.244	youtube.googleapis.com
+208.117.229.244	youtubei.googleapis.com
+208.117.229.244	youtube-ui.l.google.com
+208.117.229.244	www.youtube-nocookie.com
 # Youtube End
 
 # Google Video Start
