@@ -4408,6 +4408,26 @@
 173.194.8.9	r4---sn-a5m7lnee.googlevideo.com
 173.194.8.10	r5---sn-a5m7lnee.googlevideo.com
 173.194.8.11	r6---sn-a5m7lnee.googlevideo.com
+173.194.26.230	r1---sn-a5m7lne7.googlevideo.com
+173.194.26.231	r2---sn-a5m7lne7.googlevideo.com
+173.194.26.232	r3---sn-a5m7lne7.googlevideo.com
+173.194.26.233	r4---sn-a5m7lne7.googlevideo.com
+173.194.26.234	r5---sn-a5m7lne7.googlevideo.com
+173.194.26.235	r6---sn-a5m7lne7.googlevideo.com
+173.194.26.236	r7---sn-a5m7lne7.googlevideo.com
+173.194.26.237	r8---sn-a5m7lne7.googlevideo.com
+173.194.26.238	r9---sn-a5m7lne7.googlevideo.com
+173.194.26.239	r10---sn-a5m7lne7.googlevideo.com
+173.194.26.240	r11---sn-a5m7lne7.googlevideo.com
+173.194.26.241	r12---sn-a5m7lne7.googlevideo.com
+173.194.26.242	r13---sn-a5m7lne7.googlevideo.com
+173.194.26.243	r14---sn-a5m7lne7.googlevideo.com
+173.194.26.244	r15---sn-a5m7lne7.googlevideo.com
+173.194.26.245	r16---sn-a5m7lne7.googlevideo.com
+173.194.26.246	r17---sn-a5m7lne7.googlevideo.com
+173.194.26.247	r18---sn-a5m7lne7.googlevideo.com
+173.194.26.248	r19---sn-a5m7lne7.googlevideo.com
+173.194.26.249	r20---sn-a5m7lne7.googlevideo.com
 # Google Video End
 
 # Modified Hosts End

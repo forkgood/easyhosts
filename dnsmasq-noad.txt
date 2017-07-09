@@ -4406,6 +4406,26 @@ address=/r3---sn-a5m7lnee.googlevideo.com/173.194.8.8
 address=/r4---sn-a5m7lnee.googlevideo.com/173.194.8.9	
 address=/r5---sn-a5m7lnee.googlevideo.com/173.194.8.10	
 address=/r6---sn-a5m7lnee.googlevideo.com/173.194.8.11	
+address=/r1---sn-a5m7lne7.googlevideo.com/173.194.26.230	
+address=/r2---sn-a5m7lne7.googlevideo.com/173.194.26.231	
+address=/r3---sn-a5m7lne7.googlevideo.com/173.194.26.232	
+address=/r4---sn-a5m7lne7.googlevideo.com/173.194.26.233	
+address=/r5---sn-a5m7lne7.googlevideo.com/173.194.26.234	
+address=/r6---sn-a5m7lne7.googlevideo.com/173.194.26.235	
+address=/r7---sn-a5m7lne7.googlevideo.com/173.194.26.236	
+address=/r8---sn-a5m7lne7.googlevideo.com/173.194.26.237	
+address=/r9---sn-a5m7lne7.googlevideo.com/173.194.26.238	
+address=/r10---sn-a5m7lne7.googlevideo.com/173.194.26.239	
+address=/r11---sn-a5m7lne7.googlevideo.com/173.194.26.240	
+address=/r12---sn-a5m7lne7.googlevideo.com/173.194.26.241	
+address=/r13---sn-a5m7lne7.googlevideo.com/173.194.26.242	
+address=/r14---sn-a5m7lne7.googlevideo.com/173.194.26.243	
+address=/r15---sn-a5m7lne7.googlevideo.com/173.194.26.244	
+address=/r16---sn-a5m7lne7.googlevideo.com/173.194.26.245	
+address=/r17---sn-a5m7lne7.googlevideo.com/173.194.26.246	
+address=/r18---sn-a5m7lne7.googlevideo.com/173.194.26.247	
+address=/r19---sn-a5m7lne7.googlevideo.com/173.194.26.248	
+address=/r20---sn-a5m7lne7.googlevideo.com/173.194.26.249	
 # Google Video End
 
 # Modified Hosts End
