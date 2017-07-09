@@ -7592,7 +7592,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/219.76.4.75
 address=/r4---sn-p5qs7n7s.googlevideo.com/219.76.4.75	
 address=/r6---sn-p5qs7n7s.googlevideo.com/219.76.4.75	
 
-#version=201707091703
+#version=201707092107
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -7795,8 +7795,6 @@ address=/cpro.baidustatic.com/127.0.0.1
 address=/cpro2.baidustatic.com/127.0.0.1	
 address=/dup.baidustatic.com/127.0.0.1	
 address=/ubmcmm.baidustatic.com/127.0.0.1	
-address=/afd.baidu.com/127.0.0.1	
-address=/als.baidu.com/127.0.0.1	
 address=/cpu.baidu.com/127.0.0.1	
 address=/hpd.baidu.com/127.0.0.1	
 address=/feed.baidu.com/127.0.0.1	
