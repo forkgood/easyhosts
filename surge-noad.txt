@@ -45,6 +45,7 @@ s3-us-west-2.amazonaws.com = 54.231.168.160
 github-cloud.s3.amazonaws.com = 52.216.80.48	
 github-com.s3.amazonaws.com = 54.231.40.3	
 github-production-release-asset-2e65be.s3.amazonaws.com = 54.231.49.104	
+github-production-user-asset-6210df.s3.amazonaws.com = 52.216.228.168	
 # Amazon AWS End
 
 # Android Start
@@ -7659,7 +7660,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 219.76.4.75
 r4---sn-p5qs7n7s.googlevideo.com = 219.76.4.75	
 r6---sn-p5qs7n7s.googlevideo.com = 219.76.4.75	
 
-#version=201707092107
+#version=201707101045
 #url=https://github.com/vokins/yhosts
 localhost = 127.0.0.1	
 ip6-localhost = ::1	
@@ -10286,6 +10287,7 @@ e.pubbirdf.com = 127.0.0.1
 tt.booktxt.net = 127.0.0.1	
 m.pubbirdf.com = 127.0.0.1	
 iiiiii.sharrysweb.com = 127.0.0.1	
+www.yxnbroot.com = 127.0.0.1	
 code.wantaico.com = 127.0.0.1	
 soft.chaomeng8.com = 127.0.0.1	
 mjs.csyymp4.com = 127.0.0.1	
@@ -11213,6 +11215,8 @@ s.wapadv.com = 127.0.0.1
 cdn1.res.nx5.com = 127.0.0.1	
 api.anti.wauee.com = 127.0.0.1	
 code.gutun.net = 127.0.0.1	
+m.12365chia.com = 127.0.0.1	
+www.khxxly.com = 127.0.0.1	
 wap.tanwan.com = 127.0.0.1	
 wei.cdcsjs.com = 127.0.0.1	
 m.ctsywy.com = 127.0.0.1	
