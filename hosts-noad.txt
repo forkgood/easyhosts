@@ -7659,7 +7659,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201707101045
+#version=201707111259
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8605,8 +8605,6 @@
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 a.stat.xiaomi.com
-127.0.0.1 abtest.mistat.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
