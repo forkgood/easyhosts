@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-10
+# Last updated: 2017-07-11
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -4493,6 +4493,14 @@ address=/r17---sn-a5m7lnel.googlevideo.com/173.194.8.54
 address=/r18---sn-a5m7lnel.googlevideo.com/173.194.8.55	
 address=/r19---sn-a5m7lnel.googlevideo.com/173.194.8.56	
 address=/r20---sn-a5m7lnel.googlevideo.com/173.194.8.57	
+address=/r1---sn-a8au-a5me.googlevideo.com/4.35.153.204	
+address=/r2---sn-a8au-a5me.googlevideo.com/4.35.153.205	
+address=/r3---sn-a8au-a5me.googlevideo.com/4.35.153.206	
+address=/r4---sn-a8au-a5me.googlevideo.com/4.35.153.207	
+address=/r5---sn-a8au-a5me.googlevideo.com/4.35.153.208	
+address=/r6---sn-a8au-a5me.googlevideo.com/4.35.153.209	
+address=/r7---sn-a8au-a5me.googlevideo.com/4.35.153.210	
+address=/r8---sn-a8au-a5me.googlevideo.com/4.35.153.211	
 # Google Video End
 
 # Modified Hosts End
