@@ -7719,7 +7719,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201707121246
+#version=201707121945
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8652,6 +8652,8 @@
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 news.mpush.qq.com
+127.0.0.1 canvas.gdt.qq.com
+127.0.0.1 pms.mb.qq.com
 127.0.0.1 mbrowser.news.haosou.com
 127.0.0.1 mbrowser.news.so.com
 127.0.0.1 mbs.hao.360.cn
@@ -10182,6 +10184,7 @@
 127.0.0.1 ulow.mingyangzhizun.com
 127.0.0.1 tmc.biquge.com.tw
 127.0.0.1 tmc.biquge.com
+127.0.0.1 tian.sycbbs.com
 127.0.0.1 m.qloer.com
 127.0.0.1 e.clubske.com
 127.0.0.1 m.clubske.com
