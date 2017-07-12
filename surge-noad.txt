@@ -7720,7 +7720,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 218.254.1.15
 r4---sn-p5qs7n7s.googlevideo.com = 218.254.1.15	
 r6---sn-p5qs7n7s.googlevideo.com = 218.254.1.15	
 
-#version=20170712 920
+#version=201707121246
 #url=https://github.com/vokins/yhosts
 localhost = 127.0.0.1	
 ip6-localhost = ::1	
@@ -9684,7 +9684,6 @@ j.nnsky.com = 127.0.0.1
 dd.022aifang.com = 127.0.0.1	
 fp.fraudmetrix.cn = 127.0.0.1	
 static.fraudmetrix.cn = 127.0.0.1	
-images2015.cnblogs.com = 127.0.0.1	
 erebor.douban.com = 127.0.0.1	
 cc.dace.hupu.com = 127.0.0.1	
 t1.hoopchina.com.cn = 127.0.0.1	
