@@ -7719,7 +7719,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201707121945
+#version=201707132320
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -9710,6 +9710,7 @@
 127.0.0.1 dol.tianya.cn
 127.0.0.1 click.tianyaui.com
 127.0.0.1 adimgs.xici.net
+127.0.0.1 1.xilu.com
 127.0.0.1 sugar.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
 127.0.0.1 adv.fjtv.net
@@ -10358,6 +10359,7 @@
 127.0.0.1 ywdp.baojijiecheng.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 dm.8800271.com.cn
 127.0.0.1 js412.nbhxgjz.com
 127.0.0.1 js412.wangdaizao.com
 127.0.0.1 u.diginavi.net
@@ -10560,6 +10562,8 @@
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
 127.0.0.1 s.m.xqingdou.com
+127.0.0.1 e.changhehengqi.com
+127.0.0.1 c.dzytjqcc.com
 127.0.0.1 www.dgfggy.com
 127.0.0.1 b.aowugame.com
 127.0.0.1 b.flyreading.cn
@@ -10700,6 +10704,7 @@
 127.0.0.1 www.yanjiele8.club
 127.0.0.1 img1.trxxn.com
 127.0.0.1 s.tianyucangqiong1.com
+127.0.0.1 s.gg0376.com
 127.0.0.1 y.5125129.com
 127.0.0.1 js3987.qsbz2011.com
 127.0.0.1 www.jystea.com
@@ -11204,6 +11209,7 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+127.0.0.1 www.sytcyf.com
 127.0.0.1 m.12365chia.com
 127.0.0.1 www.khxxly.com
 127.0.0.1 wap.tanwan.com
