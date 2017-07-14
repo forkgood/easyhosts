@@ -3924,7 +3924,7 @@
 119.161.14.17	up.flickr.com
 76.13.28.196	downloadr.flickr.com
 203.84.197.27	finance.yahoo.com
-203.84.197.27	hk.finance.yahoo.com0
+203.84.197.27	hk.finance.yahoo.com
 203.84.197.27	answers.yahoo.com
 203.84.197.27	hk.answers.yahoo.com
 203.84.197.27	tw.answers.yahoo.com
