@@ -1239,10 +1239,6 @@ polymer-project.org = 216.239.34.21
 www.polymer-project.org = 216.58.199.243	
 # Google End
 
-# Google 1e100 Start
-pl-in-f188.1e100.net = 74.125.135.188	
-# Google 1e100 End
-
 # gstatic Start
 geo0.ggpht.com = 173.194.223.202	
 geo1.ggpht.com = 173.194.223.202	

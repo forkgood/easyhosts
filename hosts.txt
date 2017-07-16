@@ -1240,10 +1240,6 @@
 216.58.199.243	www.polymer-project.org
 # Google End
 
-# Google 1e100 Start
-74.125.135.188	pl-in-f188.1e100.net
-# Google 1e100 End
-
 # gstatic Start
 173.194.223.202	geo0.ggpht.com
 173.194.223.202	geo1.ggpht.com
