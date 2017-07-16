@@ -1240,6 +1240,10 @@ address=/polymer-project.org/216.239.34.21
 address=/www.polymer-project.org/216.58.199.243	
 # Google End
 
+# Google 1e100 Start
+address=/pl-in-f188.1e100.net/74.125.135.188	
+# Google 1e100 End
+
 # gstatic Start
 address=/geo0.ggpht.com/173.194.223.202	
 address=/geo1.ggpht.com/173.194.223.202	
