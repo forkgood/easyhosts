@@ -8,7 +8,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-17
+# Last updated: 2017-07-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -1261,8 +1261,6 @@ address=/yt3.ggpht.com/173.194.223.202
 address=/yt4.ggpht.com/173.194.223.202	
 address=/accounts.gstatic.com/173.194.223.202	
 address=/maps.gstatic.com/173.194.223.202	
-address=/ssl.gstatic.com/173.194.223.202	
-address=/www.gstatic.com/173.194.223.202	
 address=/connectivitycheck.gstatic.com/173.194.223.202	
 address=/encrypted-tbn0.gstatic.com/173.194.223.202	
 address=/encrypted-tbn1.gstatic.com/173.194.223.202	

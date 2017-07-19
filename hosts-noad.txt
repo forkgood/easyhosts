@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-17
+# Last updated: 2017-07-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -1259,8 +1259,6 @@
 173.194.223.202	yt4.ggpht.com
 173.194.223.202	accounts.gstatic.com
 173.194.223.202	maps.gstatic.com
-173.194.223.202	ssl.gstatic.com
-173.194.223.202	www.gstatic.com
 173.194.223.202	connectivitycheck.gstatic.com
 173.194.223.202	encrypted-tbn0.gstatic.com
 173.194.223.202	encrypted-tbn1.gstatic.com
