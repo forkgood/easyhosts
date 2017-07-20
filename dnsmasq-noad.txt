@@ -8238,7 +8238,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/218.254.1.15
 address=/r4---sn-p5qs7n7s.googlevideo.com/218.254.1.15	
 address=/r6---sn-p5qs7n7s.googlevideo.com/218.254.1.15	
 
-#version=201707201807
+#version=201707201956
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -8666,7 +8666,6 @@ address=/cps.kaola.com/127.0.0.1
 address=/p.egou.com/127.0.0.1	
 address=/u.ctrip.com/127.0.0.1	
 address=/union.dangdang.com/127.0.0.1	
-address=/you.ctrip.com/127.0.0.1	
 address=/ju.taobao.com/127.0.0.1	
 address=/tejia.taobao.com/127.0.0.1	
 address=/tui.taobao.com/127.0.0.1	
