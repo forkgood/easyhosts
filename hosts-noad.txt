@@ -7717,7 +7717,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201707192025
+#version=201707201807
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8155,11 +8155,7 @@
 127.0.0.1 click.jr.jd.com
 127.0.0.1 img.x.jd.com
 127.0.0.1 jrclick.jd.com
-127.0.0.1 re.m.jd.com
 127.0.0.1 stat.m.jd.com
-127.0.0.1 union-click.jd.com
-127.0.0.1 union.click.jd.com
-127.0.0.1 union.m.jd.com
 127.0.0.1 dl.2345.com
 127.0.0.1 download.2345.com
 127.0.0.1 g.wan.2345.com
@@ -8612,6 +8608,7 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 beha.ksmobile.com
 127.0.0.1 wtradv.market.xiaomi.com
+127.0.0.1 cloudservice13.kingsoft-office-service.com
 127.0.0.1 counter.kingsoft.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 uid.ksosoft.com
@@ -8912,6 +8909,9 @@
 127.0.0.1 a.gzpinda.com
 127.0.0.1 abc.gzpinda.com
 127.0.0.1 dm.gzpinda.com
+127.0.0.1 bu01.zybang.com
+127.0.0.1 bu02.zybang.com
+127.0.0.1 img.zuoyebang.cc
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 shrek.6.cn
 127.0.0.1 ad.huajiao.com
@@ -10168,6 +10168,7 @@
 127.0.0.1 dadi.c0563.com
 127.0.0.1 m.haiwengji.net
 127.0.0.1 sj.uukanshu.com
+127.0.0.1 wu.dbwmjj.com
 127.0.0.1 zhong.hqgjcm.com
 127.0.0.1 jin.tajxgs.com
 127.0.0.1 ne.cdgxq.com
@@ -10366,6 +10367,7 @@
 127.0.0.1 ywdp.baojijiecheng.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 js412.hot-eam.com
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 js412.nbhxgjz.com
 127.0.0.1 js412.wangdaizao.com
@@ -10930,6 +10932,11 @@
 127.0.0.1 b.meiliyue.top
 127.0.0.1 apk.idate520.com
 127.0.0.1 yundingjiayuan.com
+127.0.0.1 p.heib10.top
+127.0.0.1 gmhq3r.baishouxin.cn
+127.0.0.1 js883.free-rc.com
+127.0.0.1 js883.wywsdx.com
+127.0.0.1 js.yh303030.com
 127.0.0.1 57.jtydbz.com
 127.0.0.1 j.bjyikao.org
 127.0.0.1 s1.mqsyz.com
@@ -10951,7 +10958,6 @@
 127.0.0.1 js384.rrsubway.com
 127.0.0.1 ads.passiontimes.hk
 127.0.0.1 g.meiliyue.top
-127.0.0.1 gmhq3r.baishouxin.cn
 127.0.0.1 mx4.weishiqiang.cn
 127.0.0.1 sod.onelink.me
 127.0.0.1 t.rrsubway.com
@@ -14133,6 +14139,7 @@
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 cdn.krxd.net
+127.0.0.1 connect.facebook.net
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 stats.wp.com
 127.0.0.1 rum-collector.pingdom.net
