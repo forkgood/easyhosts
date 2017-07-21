@@ -8238,7 +8238,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201707201956
+#version=201707211814
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8445,6 +8445,7 @@
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 cpu.baidu.com
+127.0.0.1 cpu-admin.baidu.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 feed.baidu.com
 127.0.0.1 dcps.nuomi.com
@@ -8605,6 +8606,7 @@
 127.0.0.1 eff.inte.sogou.com
 127.0.0.1 eff.lu.sogou.com
 127.0.0.1 ejzr.golden1.sogou.com
+127.0.0.1 feed.theta.sogou.com
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 inte.sogou.com
