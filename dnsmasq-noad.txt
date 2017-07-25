@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-20
+# Last updated: 2017-07-25
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -175,6 +175,7 @@ address=/api.dropboxapi.com/162.125.82.7
 address=/api-d.dropbox.com/162.125.32.5	
 address=/api.v.dropbox.com/162.125.32.13	
 address=/api-notify.dropbox.com/162.125.32.13	
+address=/aem.dropbox.com/52.84.243.64	
 address=/api-content.dropbox.com/162.125.1.8	
 address=/api-content-photos.dropbox.com/162.125.2.5	
 address=/blogs.dropbox.com/52.85.12.34	
@@ -206,6 +207,7 @@ address=/photos-5.dropbox.com/162.125.80.5
 address=/photos-6.dropbox.com/162.125.80.5	
 address=/photos-thumb.dropbox.com/162.125.80.5	
 address=/photos-thumb.x.dropbox.com/162.125.18.129	
+address=/paper.dropbox.com/162.125.2.3	
 address=/status.dropbox.com/52.85.12.41	
 address=/snapengage.dropbox.com/52.85.12.72	
 address=/dl.dropboxusercontent.com/162.125.2.6	
