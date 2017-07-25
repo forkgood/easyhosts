@@ -45,7 +45,7 @@
 54.231.168.160	s3-us-west-2.amazonaws.com
 52.216.80.48	github-cloud.s3.amazonaws.com
 54.231.40.3	github-com.s3.amazonaws.com
-54.231.49.104	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.20.171	github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.228.168	github-production-user-asset-6210df.s3.amazonaws.com
 # Amazon AWS End
 
