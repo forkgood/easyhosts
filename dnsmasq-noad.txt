@@ -4166,11 +4166,12 @@ address=/support.ixquick.com/37.0.89.57
 # telegram Start
 # As an alternative, you can use:
 # https://telegram.ustclug.org
-address=/telegram.org/149.154.167.99	
-address=/desktop.telegram.org/149.154.167.99	
-address=/core.telegram.org/149.154.167.99	
-address=/macos.telegram.org/149.154.167.99	
-address=/web.telegram.org/149.154.167.120	
+address=/telegram.org/149.154.166.142	
+address=/desktop.telegram.org/149.154.166.142	
+address=/core.telegram.org/149.154.166.142	
+address=/macos.telegram.org/149.154.166.142	
+address=/web.telegram.org/149.154.166.142	
+address=/api.telegram.org/149.154.167.216	
 address=/venus.web.telegram.org/149.154.167.57	
 address=/pluto.web.telegram.org/149.154.175.16	
 address=/pluto-1.web.telegram.org/149.154.175.16	

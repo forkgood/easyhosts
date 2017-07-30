@@ -4167,11 +4167,12 @@ support.ixquick.com = 37.0.89.57
 # telegram Start
 # As an alternative, you can use:
 # https://telegram.ustclug.org
-telegram.org = 149.154.167.99	
-desktop.telegram.org = 149.154.167.99	
-core.telegram.org = 149.154.167.99	
-macos.telegram.org = 149.154.167.99	
-web.telegram.org = 149.154.167.120	
+telegram.org = 149.154.166.142	
+desktop.telegram.org = 149.154.166.142	
+core.telegram.org = 149.154.166.142	
+macos.telegram.org = 149.154.166.142	
+web.telegram.org = 149.154.166.142	
+api.telegram.org = 149.154.167.216	
 venus.web.telegram.org = 149.154.167.57	
 pluto.web.telegram.org = 149.154.175.16	
 pluto-1.web.telegram.org = 149.154.175.16	
