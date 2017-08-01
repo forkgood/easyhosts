@@ -8421,7 +8421,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201708012153
+#version=201708012202
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8697,6 +8697,7 @@
 127.0.0.1 x.jd.com
 127.0.0.1 activity.m.duiba.com.cn
 127.0.0.1 embedlog.duiba.com.cn
+127.0.0.1 yun.duiba.com.cn
 127.0.0.1 www.duiba.com.cn
 127.0.0.1 m.maila88.com
 127.0.0.1 api.tatagou.com.cn
