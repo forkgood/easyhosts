@@ -6811,7 +6811,9 @@ address=/r3---sn-p5qs7n7s.gvt1.com/218.254.1.15
 address=/r5---sn-p5qs7n7s.gvt1.com/218.254.1.15	
 address=/r4---sn-p5qs7n7s.gvt1.com/218.254.1.15	
 address=/r6---sn-p5qs7n7s.gvt1.com/218.254.1.15	
-##—————youtube—————
+##—————YouTube—————
+address=/redirector.googlevideo.com/218.254.1.15	
+address=/manifest.googlevideo.com/218.254.1.15	
 address=/r1---sn-4g57knz7.googlevideo.com/218.254.1.15	
 address=/r2---sn-4g57knz7.googlevideo.com/218.254.1.15	
 address=/r3---sn-4g57knz7.googlevideo.com/218.254.1.15	
