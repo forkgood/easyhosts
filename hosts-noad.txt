@@ -8421,7 +8421,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201708011323
+#version=201708012153
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8698,7 +8698,6 @@
 127.0.0.1 activity.m.duiba.com.cn
 127.0.0.1 embedlog.duiba.com.cn
 127.0.0.1 www.duiba.com.cn
-127.0.0.1 yun.duiba.com.cn
 127.0.0.1 m.maila88.com
 127.0.0.1 api.tatagou.com.cn
 127.0.0.1 log.ttjx.tatagou.com.cn
@@ -10100,6 +10099,11 @@
 127.0.0.1 app.starschina.com
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 ssp.tadseeker.com
+127.0.0.1 mdrecv.app.cntvwb.cn
+127.0.0.1 sdapprecv.app.cntvwb.cn
+127.0.0.1 vdapprecv.app.cntvwb.cn
+127.0.0.1 cws-cctv.conviva.com
+127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 rtas.videocc.net
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
@@ -11515,6 +11519,7 @@
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 127.0.0.1 014.guangdongjiayue.com
+127.0.0.1 1.chcx.cn
 127.0.0.1 1.xytom.com
 127.0.0.1 114.duoermawj.cn
 127.0.0.1 1234xm.com
@@ -11534,9 +11539,6 @@
 127.0.0.1 888.jiuwanwang.com
 127.0.0.1 9990.spqsd.com
 127.0.0.1 99qqc.com
-127.0.0.1 1.chcx.cn
-127.0.0.1 code.ttpaper.com
-127.0.0.1 ai.xinju.cc
 127.0.0.1 9pkw.com
 127.0.0.1 a.198banjia.com
 127.0.0.1 a.baiy.net
@@ -11557,6 +11559,7 @@
 127.0.0.1 aec.shjk123.net
 127.0.0.1 afesd.zjytyz.com
 127.0.0.1 affiliategroove.com
+127.0.0.1 ai.xinju.cc
 127.0.0.1 aidaban.shushijiameng123.com
 127.0.0.1 ajax-googleapis.chexinet.com
 127.0.0.1 ajialive.com
@@ -11644,6 +11647,7 @@
 127.0.0.1 code.3shangyou.com
 127.0.0.1 code.gutun.net
 127.0.0.1 code.jojomu.com
+127.0.0.1 code.ttpaper.com
 127.0.0.1 code.wantaico.com
 127.0.0.1 count.qiqipower.com
 127.0.0.1 cp.ggyapp.com
@@ -12052,6 +12056,7 @@
 127.0.0.1 m.tuadong.com
 127.0.0.1 m.twldmx.com
 127.0.0.1 m.ucxxii.com
+127.0.0.1 m.uerzyr.cn
 127.0.0.1 m.umyai.com
 127.0.0.1 m.uzpmrbek.com
 127.0.0.1 m.vers80.com
@@ -12624,7 +12629,6 @@
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
 127.0.0.1 news.push.126.net
-127.0.0.1 b.bst.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 analytics.hz.netease.com
 127.0.0.1 statis.push.netease.com
