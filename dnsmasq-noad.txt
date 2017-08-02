@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-08-01
+# Last updated: 2017-08-02
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -4170,9 +4170,8 @@ address=/telegram.org/149.154.166.142
 address=/desktop.telegram.org/149.154.166.142	
 address=/core.telegram.org/149.154.166.142	
 address=/macos.telegram.org/149.154.166.142	
-address=/api.telegram.org/149.154.167.216	
 address=/web.telegram.org/149.154.166.142	
-address=/venus.web.telegram.org/149.154.167.57	
+address=/api.telegram.org/149.154.167.216	
 address=/pluto.web.telegram.org/149.154.175.16	
 address=/pluto-1.web.telegram.org/149.154.175.16	
 address=/venus.web.telegram.org/149.154.167.24	

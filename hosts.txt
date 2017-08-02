@@ -8,7 +8,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-08-01
+# Last updated: 2017-08-02
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -4172,9 +4172,8 @@
 149.154.166.142	desktop.telegram.org
 149.154.166.142	core.telegram.org
 149.154.166.142	macos.telegram.org
-149.154.167.216	api.telegram.org
 149.154.166.142	web.telegram.org
-149.154.167.57	venus.web.telegram.org
+149.154.167.216	api.telegram.org
 149.154.175.16	pluto.web.telegram.org
 149.154.175.16	pluto-1.web.telegram.org
 149.154.167.24	venus.web.telegram.org
