@@ -8,7 +8,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-08-02
+# Last updated: 2017-08-03
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3025,7 +3025,7 @@ address=/tsa01s08-in-f10.1e100.net/216.58.195.238
 # Google:Fit End
 
 # Google Play Start
-address=/redirector.gvt1.com/216.58.195.238	
+address=/redirector.gvt1.com/203.208.41.40	
 address=/r1---sn-5uh5o-f5f6.gvt1.com/194.9.24.76	
 address=/r2---sn-5uh5o-f5f6.gvt1.com/194.9.24.77	
 address=/r3---sn-5uh5o-f5f6.gvt1.com/194.9.24.78	
