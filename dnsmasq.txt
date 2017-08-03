@@ -4506,7 +4506,7 @@ address=/www.youtube-nocookie.com/216.58.195.238
 # Youtube End
 
 # Google Video Start
-address=/redirector.googlevideo.com/216.58.195.238	
+address=/redirector.googlevideo.com/203.208.41.40	
 address=/r1---sn-5uh5o-f5f6.googlevideo.com/194.9.24.76	
 address=/r2---sn-5uh5o-f5f6.googlevideo.com/194.9.24.77	
 address=/r3---sn-5uh5o-f5f6.googlevideo.com/194.9.24.78	

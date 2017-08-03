@@ -4505,7 +4505,7 @@ www.youtube-nocookie.com = 216.58.195.238
 # Youtube End
 
 # Google Video Start
-redirector.googlevideo.com = 216.58.195.238	
+redirector.googlevideo.com = 203.208.41.40	
 r1---sn-5uh5o-f5f6.googlevideo.com = 194.9.24.76	
 r2---sn-5uh5o-f5f6.googlevideo.com = 194.9.24.77	
 r3---sn-5uh5o-f5f6.googlevideo.com = 194.9.24.78	
