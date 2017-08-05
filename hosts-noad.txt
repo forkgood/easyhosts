@@ -6,7 +6,7 @@
 # Github:https://github.com/forkgood/easyhosts
 # # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-08-03
+# Last updated: 2017-08-05
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -34,12 +34,12 @@
 54.239.38.102	s3-console-us-standard.console.aws.amazon.com
 54.231.49.3	s3.amazonaws.com
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
-54.231.242.170	s3-ap-southeast-1.amazonaws.com
+52.219.40.49	s3-ap-southeast-1.amazonaws.com
 54.231.251.21	s3-ap-southeast-2.amazonaws.com
-54.231.193.37	s3-eu-central-1.amazonaws.com
+52.219.72.8	s3-eu-central-1.amazonaws.com
 52.218.16.140	s3-eu-west-1.amazonaws.com
 52.92.72.2	s3-sa-east-1.amazonaws.com
-54.231.236.6	s3-us-west-1.amazonaws.com
+54.231.235.37	s3-us-west-1.amazonaws.com
 54.231.168.160	s3-us-west-2.amazonaws.com
 52.216.80.48	github-cloud.s3.amazonaws.com
 54.231.40.3	github-com.s3.amazonaws.com
@@ -3542,6 +3542,10 @@
 4.35.153.210	r7---sn-a8au-a5me.gvt1.com
 4.35.153.211	r8---sn-a8au-a5me.gvt1.com
 # Google Play End
+
+# Heroku Start
+52.1.240.62	id.heroku.com
+# Heroku End
 
 # HumbleBundle Start
 54.249.82.177	humble.pubnub.com
