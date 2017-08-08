@@ -8437,7 +8437,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201708071506
+#version=201708081749
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -9321,6 +9321,9 @@
 127.0.0.1 www.jisucn.com
 127.0.0.1 rh.code.jjyx.com
 127.0.0.1 tv.code.jjyx.com
+127.0.0.1 nw5.jkjjkj.top
+127.0.0.1 p5.jkjjkj.top
+127.0.0.1 www5.jkjjkj.top
 127.0.0.1 f.jtxh.net
 127.0.0.1 v.jtxh.net
 127.0.0.1 ssp.jtxh.net
@@ -10510,6 +10513,7 @@
 127.0.0.1 iiehdh.wap.xxbiquge.com
 127.0.0.1 tsdhgdhe.wap.xxbiquge.com
 127.0.0.1 udhvgs.wap.xxbiquge.com
+127.0.0.1 xynhhbw.wap.xxbiquge.com
 127.0.0.1 s.tianyucangqiong1.com
 127.0.0.1 kyx.m.xinqing100.net
 127.0.0.1 ad.egou.com
@@ -11935,6 +11939,7 @@
 127.0.0.1 js.lpshl.com
 127.0.0.1 js.lyrymy.com
 127.0.0.1 js.mingxianshanghang.cn
+127.0.0.1 js.mkaqh.cn
 127.0.0.1 js.mstzym.com
 127.0.0.1 js.ojj258.com
 127.0.0.1 js.pxblmj.com
@@ -11943,6 +11948,9 @@
 127.0.0.1 js.qxjdlf.com
 127.0.0.1 js.srhtzx.com
 127.0.0.1 js.static.tebaidu.cn
+127.0.0.1 app.adbszs.com
+
+127.0.0.1 tu.zusrd.cn
 127.0.0.1 js.sxldyx.com
 127.0.0.1 js.wdad001.com
 127.0.0.1 js.willads.pw
