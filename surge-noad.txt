@@ -8438,7 +8438,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 218.254.1.15
 r4---sn-p5qs7n7s.googlevideo.com = 218.254.1.15	
 r6---sn-p5qs7n7s.googlevideo.com = 218.254.1.15	
 
-#version=201708092224
+#version=201708101554
 #url=https://github.com/vokins/yhosts
 localhost = 127.0.0.1	
 ip6-localhost = ::1	
@@ -9679,6 +9679,8 @@ app.shandjj.com = 127.0.0.1
 clkde.tradedoubler.com = 127.0.0.1	
 dorado.xiaojukeji.com = 127.0.0.1	
 tl.771tao.com = 127.0.0.1	
+ppiy.v5.yy.com = 127.0.0.1	
+page.v5.yy.com = 127.0.0.1	
 tj.koudaitong.com = 127.0.0.1	
 s.youzhuanhua.com = 127.0.0.1	
 hao.360.cn = 127.0.0.1	
