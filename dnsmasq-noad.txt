@@ -8437,7 +8437,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/218.254.1.15
 address=/r4---sn-p5qs7n7s.googlevideo.com/218.254.1.15	
 address=/r6---sn-p5qs7n7s.googlevideo.com/218.254.1.15	
 
-#version=201708101554
+#version=201708101936
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -11977,6 +11977,7 @@ address=/js412.wangdaizao.com/127.0.0.1
 address=/js43.hailiao520.com/127.0.0.1	
 address=/js658.ltcprtc.com/127.0.0.1	
 address=/js6882.gdskywings.com/127.0.0.1	
+address=/js739.scfatao.com/127.0.0.1	
 address=/js85.ibcda.org/127.0.0.1	
 address=/js883.chengzhao95511.com/127.0.0.1	
 address=/js883.dragoncent.com/127.0.0.1	

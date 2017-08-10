@@ -8437,7 +8437,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201708101554
+#version=201708101936
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -11977,6 +11977,7 @@
 127.0.0.1 js43.hailiao520.com
 127.0.0.1 js658.ltcprtc.com
 127.0.0.1 js6882.gdskywings.com
+127.0.0.1 js739.scfatao.com
 127.0.0.1 js85.ibcda.org
 127.0.0.1 js883.chengzhao95511.com
 127.0.0.1 js883.dragoncent.com
