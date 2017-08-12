@@ -8437,7 +8437,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201708111526
+#version=201708121742
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -9377,6 +9377,8 @@
 127.0.0.1 js.mnkan.com
 127.0.0.1 846.move7.com
 127.0.0.1 w6061.move7.com
+127.0.0.1 m.mrsasharingspace.com
+127.0.0.1 e.mrsasharingspace.com
 127.0.0.1 c.msltzer.cn
 127.0.0.1 s.msltzer.cn
 127.0.0.1 gafxa.code.mytanwan.com
@@ -11728,6 +11730,7 @@
 127.0.0.1 dspmy.ge95.com
 127.0.0.1 dwtn.nuion.cn
 127.0.0.1 dx01.daomengad.com
+127.0.0.1 dz2017.zdzxyplyt.com
 127.0.0.1 e.0313413.com
 127.0.0.1 e.968lele.com
 127.0.0.1 e.a907907.com
@@ -14000,6 +14003,9 @@
 127.0.0.1 lc.jiathis.com
 127.0.0.1 v2.jiathis.com
 127.0.0.1 v3.jiathis.com
+127.0.0.1 gg.ytbee.cn
+127.0.0.1 www.bjxiaohua.com
+127.0.0.1 www.jiaeasy.net
 127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn
 127.0.0.1 s.jpush.cn
