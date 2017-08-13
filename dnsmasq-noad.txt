@@ -8437,7 +8437,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/218.254.1.15
 address=/r4---sn-p5qs7n7s.googlevideo.com/218.254.1.15	
 address=/r6---sn-p5qs7n7s.googlevideo.com/218.254.1.15	
 
-#version=201708131745
+#version=201708131822
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -8580,7 +8580,6 @@ address=/redirect.simba.taobao.com/127.0.0.1
 address=/adashbc.ut.taobao.com/127.0.0.1	
 address=/adashxgc.ut.taobao.com/127.0.0.1	
 address=/acs4baichuan.m.taobao.com/127.0.0.1	
-address=/adash.m.taobao.com/127.0.0.1	
 address=/adashbc.m.taobao.com/127.0.0.1	
 address=/adashx.m.taobao.com/127.0.0.1	
 address=/c-adash.m.taobao.com/127.0.0.1	
