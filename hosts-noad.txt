@@ -8437,7 +8437,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201708161934
+#version=201708171736
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -11963,6 +11963,7 @@
 127.0.0.1 js.lpshl.com
 127.0.0.1 js.lyrymy.com
 127.0.0.1 js.mingxianshanghang.cn
+127.0.0.1 js.mjvrt.cn
 127.0.0.1 js.mkaqh.cn
 127.0.0.1 js.mstzym.com
 127.0.0.1 js.ojj258.com
@@ -12294,6 +12295,7 @@
 127.0.0.1 s.xiaobiaoucai.cn
 127.0.0.1 s.xmcxz.com
 127.0.0.1 s.xpqfc.com
+127.0.0.1 s.xz15801.com
 127.0.0.1 s.yanpoly.com
 127.0.0.1 s.yfycy.com
 127.0.0.1 s.yy58ju.com
@@ -15143,6 +15145,7 @@
 127.0.0.1 www.pj39330.bet
 127.0.0.1 www.pj39330.com
 127.0.0.1 www.pj5189.com
+127.0.0.1 www.tjsijia8888.com
 127.0.0.1 www.v00087.com
 127.0.0.1 www.v66v66.com
 127.0.0.1 www.ylwy168.com
