@@ -8437,7 +8437,7 @@
 218.254.1.15 r4---sn-p5qs7n7s.googlevideo.com
 218.254.1.15 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=20170905 912
+#version=20170905 932
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -9570,7 +9570,6 @@
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 hd.jiedaibao.com
 127.0.0.1 www.jiedaibao.com
-127.0.0.1 guanjia.qq.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 download.sj.qq.com
 127.0.0.1 c.gj.qq.com
@@ -9699,7 +9698,6 @@
 127.0.0.1 page.v5.yy.com
 127.0.0.1 tj.koudaitong.com
 127.0.0.1 s.youzhuanhua.com
-127.0.0.1 hao.360.cn
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
 127.0.0.1 m.hao123.com
