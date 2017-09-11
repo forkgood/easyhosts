@@ -8437,7 +8437,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/218.254.1.15
 address=/r4---sn-p5qs7n7s.googlevideo.com/218.254.1.15	
 address=/r6---sn-p5qs7n7s.googlevideo.com/218.254.1.15	
 
-#version=201709111347
+#version=201709112128
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -10884,6 +10884,7 @@ address=/100.admin5.com/127.0.0.1
 address=/eezdx.erc.18183.com/127.0.0.1	
 address=/outer.anquan.org/127.0.0.1	
 address=/static.anquan.org/127.0.0.1	
+address=/www.pikacn.com/127.0.0.1	
 address=/s1.hiapk.com/127.0.0.1	
 address=/s2.hiapk.com/127.0.0.1	
 address=/gg.blueidea.com/127.0.0.1	
