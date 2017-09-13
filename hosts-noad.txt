@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201709112128
+#version=201709131831
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -11046,6 +11046,8 @@
 127.0.0.1 un.52rkl.cn
 127.0.0.1 dmt.qcrx.cn
 127.0.0.1 jsym.qcrx.cn
+127.0.0.1 1.tuxi.com.cn
+127.0.0.1 2.tuxi.com.cn
 127.0.0.1 mip.yuelvxing.com
 127.0.0.1 bdjs.laonanren.com
 127.0.0.1 a1.yyfensi.com
@@ -11712,6 +11714,7 @@
 127.0.0.1 app.adbszs.com
 127.0.0.1 app.chnhtp.com
 127.0.0.1 app.ibaiducdn.com
+127.0.0.1 app.lz55.cn
 127.0.0.1 app.nterbx.com
 127.0.0.1 appcdn.ywjiawen.com
 127.0.0.1 azapp.whroses.com
@@ -11782,6 +11785,7 @@
 127.0.0.1 changan.bama555.com
 127.0.0.1 chi.cgxxmy.com
 127.0.0.1 chi.xajzqx.com
+127.0.0.1 chu.gznsyh.com
 127.0.0.1 chuantu.biz
 127.0.0.1 chuntian.xcpqb.cn
 127.0.0.1 ck.scltn.cn
@@ -11801,6 +11805,7 @@
 127.0.0.1 cp.gs307.com
 127.0.0.1 cpv-ads.ggytc.com
 127.0.0.1 crtl.322927.com
+127.0.0.1 cs1.doupocangqiong1.com
 127.0.0.1 csimg.zcxhl.com
 127.0.0.1 cycy.kxrxh.com
 127.0.0.1 cz2.rhgyg.com
@@ -11839,6 +11844,7 @@
 127.0.0.1 dl.img80.net
 127.0.0.1 dl.kinbest.cn
 127.0.0.1 dl.mbsea.com
+127.0.0.1 dlimg.lovfp.com
 127.0.0.1 dm.8800271.com.cn
 127.0.0.1 dm.fsyzcs.com
 127.0.0.1 dm.jinshasi.cn
@@ -11879,6 +11885,7 @@
 127.0.0.1 e.wevvt.com
 127.0.0.1 e.yanglaopt.net
 127.0.0.1 e.yidulive.net
+127.0.0.1 e.youyoumw.com
 127.0.0.1 e.zhuhaixiongyue.com
 127.0.0.1 e.zjkdaikuan.com
 127.0.0.1 ed.aijielang.cn
@@ -11949,6 +11956,7 @@
 127.0.0.1 hl.butou.cn
 127.0.0.1 hl.kuzu.com
 127.0.0.1 hl.quw18.com
+127.0.0.1 html.350.com
 127.0.0.1 huan.szrk3.com
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 huhu.jzm81.com
@@ -11961,6 +11969,8 @@
 127.0.0.1 i.xyqsnc.com
 127.0.0.1 i.zgzjjp.com
 127.0.0.1 i.zt-dq.com
+127.0.0.1 i2.akjunshi.com
+127.0.0.1 i5.akjunshi.com
 127.0.0.1 i5k3bm.wddyly.cn
 127.0.0.1 ico.58pic.com
 127.0.0.1 iiiiii.sharrysweb.com
@@ -12038,6 +12048,7 @@
 127.0.0.1 in.bmgan.com
 127.0.0.1 in.cbgss.com
 127.0.0.1 in.hqsjc.com
+127.0.0.1 in.qkptx.com
 127.0.0.1 ini.litingxin.cn
 127.0.0.1 ioa.hdkrs.com
 127.0.0.1 ioscdn.ywpod3.com
@@ -12221,6 +12232,7 @@
 127.0.0.1 m.czdqhyo1.net
 127.0.0.1 m.desaysmart.com
 127.0.0.1 m.detuns.com
+127.0.0.1 m.dierqingchun.com
 127.0.0.1 m.dilcn.net
 127.0.0.1 m.ever-lohas.com
 127.0.0.1 m.fengwanwl.com
@@ -12259,6 +12271,7 @@
 127.0.0.1 m.qqyue.top
 127.0.0.1 m.redmangokids.com
 127.0.0.1 m.represented.cn
+127.0.0.1 m.requested.cn
 127.0.0.1 m.resetgey.com
 127.0.0.1 m.riqu2015.com
 127.0.0.1 m.runiman.com
@@ -12286,6 +12299,7 @@
 127.0.0.1 m.ycsensornet.com
 127.0.0.1 m.yisloda.com
 127.0.0.1 m.yooli.com
+127.0.0.1 m.youyoumw.com
 127.0.0.1 m.zpoder.com
 127.0.0.1 m.zuyuewang.com
 127.0.0.1 m.zzczfreewifi.com
@@ -12410,6 +12424,7 @@
 127.0.0.1 s.456juhd.com
 127.0.0.1 s.6113371.com
 127.0.0.1 s.80sjw.com
+127.0.0.1 s.97kuaixiu.com
 127.0.0.1 s.9dcdn.cn
 127.0.0.1 s.ajuhd.com
 127.0.0.1 s.bmgan.com
@@ -12442,6 +12457,7 @@
 127.0.0.1 s.nvrentao8.com
 127.0.0.1 s.nyydj.com
 127.0.0.1 s.obaolu.net
+127.0.0.1 s.qkptx.com
 127.0.0.1 s.ryre.cn
 127.0.0.1 s.shbywsd.cn
 127.0.0.1 s.shiftrro.com
@@ -12561,6 +12577,7 @@
 127.0.0.1 tai.zwkssb.com
 127.0.0.1 tan.idcqi.com
 127.0.0.1 tb.code.twyxi.com
+127.0.0.1 td.xue63.com
 127.0.0.1 tf.caohua.com
 127.0.0.1 tg.1155t.cn
 127.0.0.1 tg.qzqywh.com
@@ -12588,6 +12605,7 @@
 127.0.0.1 tu.szefe.com
 127.0.0.1 tu.zusrd.cn
 127.0.0.1 txt.dongyihongbei.com
+127.0.0.1 tyjs.bjjz900.com
 127.0.0.1 u.diginavi.net
 127.0.0.1 u.luxinkm.com
 127.0.0.1 u.yiiwoo.com
@@ -12768,6 +12786,7 @@
 127.0.0.1 www.lhafy.com
 127.0.0.1 www.lhzgqc.com
 127.0.0.1 www.liangao.com
+127.0.0.1 www.lovfp.com
 127.0.0.1 www.lx167.com
 127.0.0.1 www.lynndollin.com
 127.0.0.1 www.lyztdz.com
@@ -12822,6 +12841,7 @@
 127.0.0.1 www.xbzzzx.com
 127.0.0.1 www.xiacai.com
 127.0.0.1 www.xiaoyq.com
+127.0.0.1 www.xue163.com
 127.0.0.1 www.xuefo365.cn
 127.0.0.1 www.xundefine.com
 127.0.0.1 www.xxkhh.com
@@ -12859,6 +12879,7 @@
 127.0.0.1 xue2b.meiti1.com
 127.0.0.1 xxlargepop.com
 127.0.0.1 y.5125129.com
+127.0.0.1 y.97kuaixiu.com
 127.0.0.1 y.dali517.com
 127.0.0.1 y.nvrentao8.com
 127.0.0.1 y.xm9178.com
