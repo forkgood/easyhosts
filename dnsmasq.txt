@@ -4,7 +4,7 @@
 # Thanks:racaljk - sy618 - vokins
 # Integration By Jonvi
 # Github:https://github.com/forkgood/easyhosts
-# 
+#  
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
