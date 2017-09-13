@@ -1,4 +1,4 @@
-EasyHosts 的 Github 项目一直以来都是根据上游Github Hosts 规则，在服务器上自动完成整合更新的，但是大陆网络环境复杂，Google 网域 IP 封锁严重，如果遇到无法访问Google网域的状况，可在 Issues 进行反馈，核实后我们将会尽快手动更新最新可用的 Google 网域 IP，以确保项目可用性，感谢网友反馈与关注，谢谢。
+Easy Hosts 项目一直以来都是根据上游 Github Hosts 规则，在服务器上无人工干预自动完成整合更新的，但是大陆网络环境复杂，Google 网域 IP 封锁严重，如果遇到无法访问Google网域的状况，可在 Issues 进行反馈，核实后我们将会尽快手动更新最新可用的 Google 网域 IP，以确保项目可用性，感谢网友反馈与关注，谢谢。
 
 # easyhosts
 基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端。
