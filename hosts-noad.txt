@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201709162258
+#version=201709171142
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -10943,6 +10943,8 @@
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
 127.0.0.1 stats.chinaz.com
+127.0.0.1 cdn.earnify.com
+127.0.0.1 union2.cnbetacdn.com
 127.0.0.1 analytics.jiuzhilan.com
 127.0.0.1 app.jiuzhilan.com
 127.0.0.1 cdn.jiuzhilan.com
@@ -12462,6 +12464,7 @@
 127.0.0.1 rc.szfaq.com
 127.0.0.1 re.fcrdb.com
 127.0.0.1 rfv.ws7j.com
+127.0.0.1 ri.zywhjd.com
 127.0.0.1 rj.huajingfood.cn
 127.0.0.1 rjs.niuxgame77.com
 127.0.0.1 rqyrejzd8ockwpio.imtimo.com
