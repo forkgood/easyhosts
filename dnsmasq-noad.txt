@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201709182125
+#version=201709182159
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -15175,7 +15175,6 @@ address=/eeaa.tly331.pw/127.0.0.1
 address=/fc56b.me/127.0.0.1	
 address=/girlcc.cc/127.0.0.1	
 address=/hjc1990.com/127.0.0.1	
-address=/img.alicdn.com/127.0.0.1	
 address=/imgc.cymzc.com/127.0.0.1	
 address=/imgp.cymzc.com/127.0.0.1	
 address=/jjaa.tly331.pw/127.0.0.1	
