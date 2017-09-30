@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=20170930 122
+#version=201709301809
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -9532,6 +9532,12 @@
 127.0.0.1 tw.find2c.com
 127.0.0.1 zxyjhx.gszy.edu.cn
 127.0.0.1 www.cnys.com
+127.0.0.1 eng.liveapp.cn
+127.0.0.1 mp.weixinbridge.com
+127.0.0.1 open.liveapp.cn
+127.0.0.1 www.360clg.cn
+127.0.0.1 www.cubcc.com
+127.0.0.1 www.yiqixiu.com
 127.0.0.1 yhd.com
 127.0.0.1 www.yhd.com
 127.0.0.1 www.hisense.cn
@@ -10938,6 +10944,7 @@
 127.0.0.1 ca.5173car.com
 127.0.0.1 cacaca.sp96878.com
 127.0.0.1 cache.xw126.com
+127.0.0.1 can.hbttcc.com
 127.0.0.1 cao.tc600.com
 127.0.0.1 cb.h5.coffeedak.cn
 127.0.0.1 cc.xaepgyy.com
@@ -11337,6 +11344,7 @@
 127.0.0.1 js6882.gdskywings.com
 127.0.0.1 js7022.gdskywings.com
 127.0.0.1 js7022.panzuoLuo.com
+127.0.0.1 js7129.shxqeps.com
 127.0.0.1 js739.scfatao.com
 127.0.0.1 js74.0937jyg.com
 127.0.0.1 js74.fate-xy.com
