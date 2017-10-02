@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201710021652
+#version=201710021701
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -11505,7 +11505,6 @@ address=/m.yooli.com/127.0.0.1
 address=/m.youyoumw.com/127.0.0.1	
 address=/m.zgjjkk.com/127.0.0.1	
 address=/m.zpoder.com/127.0.0.1	
-address=/m.zwda.com/127.0.0.1	
 address=/m.zzczfreewifi.com/127.0.0.1	
 address=/m2.qinsx.cn/127.0.0.1	
 address=/m3l823.wdalk.com/127.0.0.1	

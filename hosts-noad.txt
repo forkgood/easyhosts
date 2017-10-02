@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201710021652
+#version=201710021701
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -11505,7 +11505,6 @@
 127.0.0.1 m.youyoumw.com
 127.0.0.1 m.zgjjkk.com
 127.0.0.1 m.zpoder.com
-127.0.0.1 m.zwda.com
 127.0.0.1 m.zzczfreewifi.com
 127.0.0.1 m2.qinsx.cn
 127.0.0.1 m3l823.wdalk.com
