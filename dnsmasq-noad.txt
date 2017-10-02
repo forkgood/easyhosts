@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201710021701
+#version=201710021854
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -12728,6 +12728,7 @@ address=/creative.ltheanine.cn/127.0.0.1
 address=/eee.eh39.co/127.0.0.1	
 address=/312036.com/127.0.0.1	
 address=/www.wifijia.net/127.0.0.1	
+address=/toutiao.2haha.com/127.0.0.1	
 address=/info.yitsoftware.com/127.0.0.1	
 address=/adgeo.163.com/127.0.0.1	
 address=/iad.g.163.com/127.0.0.1	
