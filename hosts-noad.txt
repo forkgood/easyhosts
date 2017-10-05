@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201710051957
+#version=201710052023
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -9533,11 +9533,11 @@
 127.0.0.1 zxyjhx.gszy.edu.cn
 127.0.0.1 www.cnys.com
 127.0.0.1 eng.liveapp.cn
-127.0.0.1 mp.weixinbridge.com
 127.0.0.1 open.liveapp.cn
 127.0.0.1 www.360clg.cn
 127.0.0.1 www.cubcc.com
 127.0.0.1 www.yiqixiu.com
+127.0.0.1 m.ishangtong.com
 127.0.0.1 yhd.com
 127.0.0.1 www.yhd.com
 127.0.0.1 www.hisense.cn
@@ -11593,6 +11593,7 @@
 127.0.0.1 pic.pxstda.com
 127.0.0.1 pic.shadowsmell.com
 127.0.0.1 pic.shaidouzi.com
+127.0.0.1 pic.thzhd.wang
 127.0.0.1 pic.tzgmy.com
 127.0.0.1 pic.whdmny.com
 127.0.0.1 pic.wq425cj.com
@@ -12048,6 +12049,7 @@
 127.0.0.1 www.szyr474.com
 127.0.0.1 www.taobaobo5.com
 127.0.0.1 www.thyysj.com
+127.0.0.1 www.thztv.net
 127.0.0.1 www.tjhuajiantang.com
 127.0.0.1 www.trafficbaike1.com
 127.0.0.1 www.ttcdn.cn
