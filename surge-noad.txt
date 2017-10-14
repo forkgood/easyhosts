@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=20171014 110
+#version=20171015 143
 #url=https://github.com/vokins/yhosts
 localhost = 127.0.0.1	
 ip6-localhost = ::1	
@@ -13356,7 +13356,6 @@ i.huilixieye.net = 127.0.0.1
 img0.egou.com = 127.0.0.1	
 jct.maptu.cn = 127.0.0.1	
 m.7180443.com = 127.0.0.1	
-m.cnbeta.com = 127.0.0.1	
 mti.35kds.com = 127.0.0.1	
 new.ltheanine.cn = 127.0.0.1	
 parking.zunmi.cn = 127.0.0.1	
