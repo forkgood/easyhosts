@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=20171016 200
+#version=201710161349
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -10464,6 +10464,8 @@ address=/info.downsave.com/127.0.0.1
 address=/mini.jijiplayer.com/127.0.0.1	
 address=/txtad.jijiplayer.com/127.0.0.1	
 address=/hub5btmain.sandai.net/127.0.0.1	
+address=/hub5emu.sandai.net/127.0.0.1	
+address=/upgrade.xl9.xunlei.com/127.0.0.1	
 address=/ad.jxnews.com.cn/127.0.0.1	
 address=/adv.jxnews.com.cn/127.0.0.1	
 address=/ad.beihai365.com/127.0.0.1	

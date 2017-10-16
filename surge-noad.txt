@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=20171016 200
+#version=201710161349
 #url=https://github.com/vokins/yhosts
 localhost = 127.0.0.1	
 ip6-localhost = ::1	
@@ -10465,6 +10465,8 @@ info.downsave.com = 127.0.0.1
 mini.jijiplayer.com = 127.0.0.1	
 txtad.jijiplayer.com = 127.0.0.1	
 hub5btmain.sandai.net = 127.0.0.1	
+hub5emu.sandai.net = 127.0.0.1	
+upgrade.xl9.xunlei.com = 127.0.0.1	
 ad.jxnews.com.cn = 127.0.0.1	
 adv.jxnews.com.cn = 127.0.0.1	
 ad.beihai365.com = 127.0.0.1	
