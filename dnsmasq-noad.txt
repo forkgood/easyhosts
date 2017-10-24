@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201710241955
+#version=201710242016
 #url=https://github.com/vokins/yhosts
 address=/localhost/127.0.0.1	
 address=/ip6-localhost/::1	
@@ -15443,6 +15443,7 @@ address=/xpj3.net/127.0.0.1
 address=/xpj4.net/127.0.0.1	
 address=/xpj8088.com/127.0.0.1	
 address=/xpjkf888.com/127.0.0.1	
+address=/xx.popo.6615871.com/127.0.0.1	
 address=/xz.ercfh.com/127.0.0.1	
 address=/bkmcgi.play.cp81.ott.cibntv.net/127.0.0.1	
 address=/bksdkconfig.play.cp81.ott.cibntv.net/127.0.0.1	
