@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201710262307
+#version=20171028 756
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -10346,6 +10346,8 @@ iflow.uczzd.com = 127.0.0.1
 iflow.uczzd.com.cn = 127.0.0.1	
 iflow.uczzd.net = 127.0.0.1	
 image.zzd.sm.cn = 127.0.0.1	
+api.open.uc.cn = 127.0.0.1	
+g.aligames.com = 127.0.0.1	
 #2344.com
 bdjs.2344.com = 127.0.0.1	
 #com2us
