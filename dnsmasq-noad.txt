@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201710282258
+#version=201710291352
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -9658,15 +9658,18 @@ address=/www.meizu.com/127.0.0.1
 address=/www.baihe.com/127.0.0.1	
 address=/www.jiayuan.com/127.0.0.1	
 #cant del account
-address=/www.qbao.com/127.0.0.1	
+address=/a.qbao.com/127.0.0.1	
 address=/agent.qbao.com/127.0.0.1	
 address=/bc.qbao.com/127.0.0.1	
 address=/detail.qbao.com/127.0.0.1	
 address=/enterprise.qbao.com/127.0.0.1	
 address=/events.qbao.com/127.0.0.1	
+address=/m.qbao.com/127.0.0.1	
 address=/qhb.qbao.com/127.0.0.1	
+address=/qn-act.qbcdn.com/127.0.0.1	
 address=/store.qbao.com/127.0.0.1	
 address=/vc.qbao.com/127.0.0.1	
+address=/www.qbao.com/127.0.0.1	
 address=/www.dlingspace.com/127.0.0.1	
 address=/www.youpiaole.com/127.0.0.1	
 address=/www.zhongmin.cn/127.0.0.1	
@@ -16283,7 +16286,6 @@ address=/cdn.app.liuxingyul.cn/127.0.0.1
 address=/cdn.holdlakh.com/127.0.0.1	
 address=/cdn.img.kachapt.cn/127.0.0.1	
 address=/cdn.img.liuxingyul.cn/127.0.0.1	
-address=/cdn.staticfile.org/127.0.0.1	
 address=/cdn.wwwpromoter.com/127.0.0.1	
 address=/cdn1.njjlg.com/127.0.0.1	
 address=/cl.xzqxzs.com/127.0.0.1	
