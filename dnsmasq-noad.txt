@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=20171030 150
+#version=201710301557
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8626,6 +8626,8 @@ address=/static.ts.360.com/127.0.0.1
 address=/s7.qhres.com/127.0.0.1	
 address=/js.passport.qihucdn.com/127.0.0.1	
 address=/jspassport.ssl.qhimg.com/127.0.0.1	
+address=/click.stat.hao.360.cn/127.0.0.1	
+address=/top.h.qhmsg.com/127.0.0.1	
 #alicdn
 address=/afp.alicdn.com/127.0.0.1	
 address=/afpmm.alicdn.com/127.0.0.1	
@@ -9219,11 +9221,13 @@ address=/material.mediav.com/127.0.0.1
 address=/max-l.mediav.com/127.0.0.1	
 address=/max.mediav.com/127.0.0.1	
 address=/mvp.mediav.com/127.0.0.1	
+address=/pages-juxiao.mediav.com/127.0.0.1	
 address=/pages.juxiao.mediav.com/127.0.0.1	
 address=/pv.mediav.com/127.0.0.1	
 address=/s3m.mediav.com/127.0.0.1	
 address=/sdk.mediav.com/127.0.0.1	
 address=/secure.mediav.com/127.0.0.1	
+address=/show-3.mediav.com/127.0.0.1	
 address=/show-g.mediav.com/127.0.0.1	
 address=/show-m.mediav.com/127.0.0.1	
 address=/show-s.mediav.com/127.0.0.1	
