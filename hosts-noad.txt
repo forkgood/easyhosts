@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201710302108
+#version=201710302128
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -12293,8 +12293,10 @@
 127.0.0.1 e.e708.net
 127.0.0.1 e.ejiakm.net
 127.0.0.1 e.farwx.com
+127.0.0.1 e.gitpw.com
 127.0.0.1 e.gjshcn.com
 127.0.0.1 e.gythsg.com
+127.0.0.1 e.hfyxdl.com
 127.0.0.1 e.hurnt.com
 127.0.0.1 e.iorgb.com
 127.0.0.1 e.jkangfu.com
@@ -12367,6 +12369,7 @@
 127.0.0.1 ge.dezfu.com
 127.0.0.1 ge.xcbmwx.com
 127.0.0.1 ge.zizcy.com
+127.0.0.1 gfh.ahfzly.com
 127.0.0.1 gg.amblrgg.live
 127.0.0.1 gg.btnk024.com
 127.0.0.1 gggo.xmbhj.com
@@ -12705,6 +12708,7 @@
 127.0.0.1 m.csmdzj.com
 127.0.0.1 m.csyueye.com
 127.0.0.1 m.czdqhyo1.net
+127.0.0.1 m.czlhgz.com
 127.0.0.1 m.ddhuangchao.com
 127.0.0.1 m.detuns.com
 127.0.0.1 m.dierqingchun.com
@@ -12714,10 +12718,12 @@
 127.0.0.1 m.fengwanwl.com
 127.0.0.1 m.flowcodeapp.com
 127.0.0.1 m.gdyyyg.net
+127.0.0.1 m.gitpw.com
 127.0.0.1 m.gjshcn.com
 127.0.0.1 m.gtnde.com
 127.0.0.1 m.haowj.com.cn
 127.0.0.1 m.hascosafety.com
+127.0.0.1 m.hfyxdl.com
 127.0.0.1 m.hhllyt.com
 127.0.0.1 m.hmyangshengji.com
 127.0.0.1 m.hsbkr.com
@@ -12781,6 +12787,7 @@
 127.0.0.1 m.uerzyr.cn
 127.0.0.1 m.umyai.com
 127.0.0.1 m.uzpmrbek.com
+127.0.0.1 m.verpt.com
 127.0.0.1 m.vers80.com
 127.0.0.1 m.vichc.com
 127.0.0.1 m.weboser.com
@@ -12847,6 +12854,7 @@
 127.0.0.1 nobody.happyweixin.cn
 127.0.0.1 oask.xulizui6.com
 127.0.0.1 oe.zbttxs.com
+127.0.0.1 ov.qdttzk.com
 127.0.0.1 p.99mssj.com
 127.0.0.1 p.bnuni.com
 127.0.0.1 p.dandan19.top
@@ -13021,6 +13029,7 @@
 127.0.0.1 shen.zgfszs.com
 127.0.0.1 shi.tsrc8.com
 127.0.0.1 shi.xacqp.com
+127.0.0.1 shi.xcdzsw.com
 127.0.0.1 shixunjs.th21333.com
 127.0.0.1 show.niqiu99.org
 127.0.0.1 shu.thxnr.com
@@ -13375,6 +13384,7 @@
 127.0.0.1 www.ttcdn.cn
 127.0.0.1 www.tui1999.com
 127.0.0.1 www.whcrdz.com
+127.0.0.1 www.wshufa.com
 127.0.0.1 www.wtcpm.com
 127.0.0.1 www.xbzzzx.com
 127.0.0.1 www.xiacai.com
@@ -13465,6 +13475,7 @@
 127.0.0.1 zjjgtz.com
 127.0.0.1 zl8206.huliangongyu.com
 127.0.0.1 zz12x.net
+127.0.0.1 zzcw.office-mall.net
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy1.mipujia.com
 127.0.0.1 zzz7.52896368.com
