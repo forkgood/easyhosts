@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201711012153
+#version=201711021318
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -10874,10 +10874,6 @@
 #http://www.jjvod.com/
 127.0.0.1 mini.jijiplayer.com
 127.0.0.1 txtad.jijiplayer.com
-#xunlei
-127.0.0.1 hub5btmain.sandai.net
-127.0.0.1 hub5emu.sandai.net
-127.0.0.1 upgrade.xl9.xunlei.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
