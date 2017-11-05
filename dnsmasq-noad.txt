@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=20171105 936
+#version=20171105 954
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -13596,7 +13596,6 @@ address=/disp1.titan.mgtv.com/127.0.0.1
 address=/imgaliyun.res.mgtv.com/127.0.0.1	
 address=/mobaliyun.res.mgtv.com/127.0.0.1	
 address=/mobile.da.mgtv.com/127.0.0.1	
-address=/pc.bz.mgtv.com/127.0.0.1	
 address=/pc.da.mgtv.com/127.0.0.1	
 address=/pc1.da.mgtv.com/127.0.0.1	
 address=/pcvideoaliyun.titan.mgtv.com/127.0.0.1	
@@ -13607,9 +13606,6 @@ address=/py.da.mgtv.com/127.0.0.1
 address=/v1-play.log.mgtv.com/127.0.0.1	
 address=/v2.da.mgtv.com/127.0.0.1	
 address=/v2.log.mgtv.com/127.0.0.1	
-address=/web-disp.titan.mgtv.com/127.0.0.1	
-address=/web-disp1.titan.mgtv.com/127.0.0.1	
-address=/web-disp2.titan.mgtv.com/127.0.0.1	
 address=/web.da.mgtv.com/127.0.0.1	
 address=/x.da.mgtv.com/127.0.0.1	
 address=/y.da.mgtv.com/127.0.0.1	
