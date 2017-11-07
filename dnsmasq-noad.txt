@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711061857
+#version=20171108 109
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -10955,6 +10955,9 @@ address=/tmc.biquge.com/127.0.0.1
 #m.biqugego.com
 address=/ow.biqugego.com/127.0.0.1	
 address=/owin.biqugego.com/127.0.0.1	
+#m.biquguo.com
+address=/7a57a5a743894a0e.m.biquguo.com/127.0.0.1	
+address=/7f8d3ee6b2525320.m.biquguo.com/127.0.0.1	
 #m.bmwen.com
 address=/a.bmwen.com/127.0.0.1	
 address=/b.bmwen.com/127.0.0.1	
@@ -12867,6 +12870,7 @@ address=/nl.wodhid.com/127.0.0.1
 address=/nnd.xyssp.com/127.0.0.1	
 address=/nobody.happyweixin.cn/127.0.0.1	
 address=/oask.xulizui6.com/127.0.0.1	
+address=/odfd.nixiclothing.com/127.0.0.1	
 address=/oe.zbttxs.com/127.0.0.1	
 address=/ov.qdttzk.com/127.0.0.1	
 address=/p.99mssj.com/127.0.0.1	
@@ -12954,6 +12958,7 @@ address=/rfv.ws7j.com/127.0.0.1
 address=/ri.zywhjd.com/127.0.0.1	
 address=/rj.huajingfood.cn/127.0.0.1	
 address=/rjs.niuxgame77.com/127.0.0.1	
+address=/rsas.szzek.com/127.0.0.1	
 address=/s.272xb.com/127.0.0.1	
 address=/s.3333309.cn/127.0.0.1	
 address=/s.456juhd.com/127.0.0.1	
@@ -13369,6 +13374,7 @@ address=/www.ooniu.com/127.0.0.1
 address=/www.pasco.cc/127.0.0.1	
 address=/www.pintour.com/127.0.0.1	
 address=/www.pj550077.com/127.0.0.1	
+address=/www.pjbjzf.com/127.0.0.1	
 address=/www.poctd.com/127.0.0.1	
 address=/www.predictivadvertising.com/127.0.0.1	
 address=/www.punuomisi.cn/127.0.0.1	
