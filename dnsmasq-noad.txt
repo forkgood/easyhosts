@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711081831
+#version=201711081858
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -9206,6 +9206,8 @@ address=/www.googletagmanager.com/127.0.0.1
 address=/bdsp.x.jd.com/127.0.0.1	
 address=/ccc-x.jd.com/127.0.0.1	
 address=/cm.jd.com/127.0.0.1	
+address=/d.jd.com/127.0.0.1	
+address=/gia.jd.com/127.0.0.1	
 address=/im-x.jd.com/127.0.0.1	
 address=/img-x.jd.com/127.0.0.1	
 address=/u.x.jd.com/127.0.0.1	
@@ -9264,6 +9266,9 @@ address=/oth.update.mdt.qq.com/127.0.0.1
 address=/pingma.qq.com/127.0.0.1	
 address=/sngmta.qq.com/127.0.0.1	
 address=/strategy.beacon.qq.com/127.0.0.1	
+#qq-1
+address=/dp3.qq.com/127.0.0.1	
+address=/imc.l.qq.com/127.0.0.1	
 #qq-ad
 address=/ad.qq.com/127.0.0.1	
 address=/ad.qun.qq.com/127.0.0.1	
@@ -10636,6 +10641,8 @@ address=/pmir.3g.qq.com/127.0.0.1
 #http://weixin.qq.com/
 address=/variety.tc.qq.com/127.0.0.1	
 address=/wxsnsdy.tc.qq.com/127.0.0.1	
+address=/mfm.video.qq.com/127.0.0.1	
+address=/vlive.qqvideo.tc.qq.com/127.0.0.1	
 address=/union.video.qq.com/127.0.0.1	
 address=/wxsnsdy.video.qq.com/127.0.0.1	
 #http://yixin.im/
@@ -12064,6 +12071,7 @@ address=/adrunnr.com/127.0.0.1
 address=/ads.passiontimes.hk/127.0.0.1	
 address=/adsin.zhangyoubao.com/127.0.0.1	
 address=/aec.shjk123.net/127.0.0.1	
+address=/aes01.com/127.0.0.1	
 address=/afesd.zjytyz.com/127.0.0.1	
 address=/affiliategroove.com/127.0.0.1	
 address=/ai.xinju.cc/127.0.0.1	

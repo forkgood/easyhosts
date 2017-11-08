@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201711081831
+#version=201711081858
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -9206,6 +9206,8 @@
 127.0.0.1 bdsp.x.jd.com
 127.0.0.1 ccc-x.jd.com
 127.0.0.1 cm.jd.com
+127.0.0.1 d.jd.com
+127.0.0.1 gia.jd.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 img-x.jd.com
 127.0.0.1 u.x.jd.com
@@ -9264,6 +9266,9 @@
 127.0.0.1 pingma.qq.com
 127.0.0.1 sngmta.qq.com
 127.0.0.1 strategy.beacon.qq.com
+#qq-1
+127.0.0.1 dp3.qq.com
+127.0.0.1 imc.l.qq.com
 #qq-ad
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com
@@ -10636,6 +10641,8 @@
 #http://weixin.qq.com/
 127.0.0.1 variety.tc.qq.com
 127.0.0.1 wxsnsdy.tc.qq.com
+127.0.0.1 mfm.video.qq.com
+127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 union.video.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 #http://yixin.im/
@@ -12064,6 +12071,7 @@
 127.0.0.1 ads.passiontimes.hk
 127.0.0.1 adsin.zhangyoubao.com
 127.0.0.1 aec.shjk123.net
+127.0.0.1 aes01.com
 127.0.0.1 afesd.zjytyz.com
 127.0.0.1 affiliategroove.com
 127.0.0.1 ai.xinju.cc
