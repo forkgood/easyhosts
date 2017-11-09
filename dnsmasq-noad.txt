@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711082206
+#version=20171110 739
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8670,6 +8670,7 @@ address=/cdn.tanx.com/127.0.0.1
 address=/cms.tanx.com/127.0.0.1	
 address=/df.tanx.com/127.0.0.1	
 address=/ecpm.tanx.com/127.0.0.1	
+address=/ef-dongfeng.tanx.com/127.0.0.1	
 address=/p.tanx.com/127.0.0.1	
 address=/pcookie.tanx.com/127.0.0.1	
 address=/phs.tanx.com/127.0.0.1	
