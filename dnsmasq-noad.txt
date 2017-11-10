@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=20171110 739
+#version=201711101410
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8537,6 +8537,9 @@ address=/dbregistration.cuteftp.com/127.0.0.1
 #cyberlink
 address=/activation.cyberlink.com/127.0.0.1	
 address=/cap.cyberlink.com/127.0.0.1	
+#easeus data recovery
+address=/activation.easeus.com/127.0.0.1	
+address=/track.easeus.com/127.0.0.1	
 #faronicslabs-deepfreeze
 address=/upd.faronicslabs.com/127.0.0.1	
 #lumion3d
@@ -12020,6 +12023,7 @@ address=/1.qwedcfv.com/127.0.0.1
 address=/1.xytom.com/127.0.0.1	
 address=/114.duoermawj.cn/127.0.0.1	
 address=/1178.shucong.com/127.0.0.1	
+address=/1234.jjxgly.com/127.0.0.1	
 address=/1234xm.com/127.0.0.1	
 address=/13pic.jdlhg.com/127.0.0.1	
 address=/1495039.com/127.0.0.1	
@@ -12330,6 +12334,7 @@ address=/e.gythsg.com/127.0.0.1
 address=/e.hfyxdl.com/127.0.0.1	
 address=/e.hurnt.com/127.0.0.1	
 address=/e.iorgb.com/127.0.0.1	
+address=/e.jdgsgl.com/127.0.0.1	
 address=/e.jkangfu.com/127.0.0.1	
 address=/e.jxxiangchu.com/127.0.0.1	
 address=/e.kimgfvz.com/127.0.0.1	
@@ -12576,6 +12581,7 @@ address=/ji.zgsxhx.com/127.0.0.1
 address=/jie.mnxtu.com/127.0.0.1	
 address=/jin.hesxz.com/127.0.0.1	
 address=/jin.tajxgs.com/127.0.0.1	
+address=/jin.xcdzsw.com/127.0.0.1	
 address=/jin.xnjzsn.com/127.0.0.1	
 address=/jin.zzsno1.com/127.0.0.1	
 address=/jiu.nchte.com/127.0.0.1	
@@ -12725,6 +12731,7 @@ address=/m.3kw.cc/127.0.0.1
 address=/m.77vcd.com/127.0.0.1	
 address=/m.96mob.com/127.0.0.1	
 address=/m.anzhuotan.com/127.0.0.1	
+address=/m.aomde.com/127.0.0.1	
 address=/m.apmengxin.com/127.0.0.1	
 address=/m.aqiudaohang.com/127.0.0.1	
 address=/m.axiba66.com/127.0.0.1	
@@ -12771,6 +12778,7 @@ address=/m.huananb.com/127.0.0.1
 address=/m.internerl.com/127.0.0.1	
 address=/m.iorgb.com/127.0.0.1	
 address=/m.itskonka.com/127.0.0.1	
+address=/m.jdgsgl.com/127.0.0.1	
 address=/m.jifeidandar.com/127.0.0.1	
 address=/m.jsqinvest.com/127.0.0.1	
 address=/m.kooyum.com/127.0.0.1	
@@ -13266,6 +13274,7 @@ address=/wapssl.ff113300.com/127.0.0.1
 address=/wazero.online/127.0.0.1	
 address=/wei.cdcsjs.com/127.0.0.1	
 address=/weixinssp.14684.com/127.0.0.1	
+address=/weld830.uunice.com/127.0.0.1	
 address=/weldc1.021ye.com/127.0.0.1	
 address=/wff.wgnmp.com/127.0.0.1	
 address=/whn.star-media.cn/127.0.0.1	
