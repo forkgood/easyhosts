@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201711101410
+#version=201711101906
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -10132,6 +10132,9 @@ snap.snapmobile.asia = 127.0.0.1
 static.snapmobile.asia = 127.0.0.1	
 #www.dcfever.com
 adx.adxglobal.com = 127.0.0.1	
+#www.epinv.com
+a.epinv.com = 127.0.0.1	
+b.epinv.com = 127.0.0.1	
 ads.gionee.com = 127.0.0.1	
 pdl.gionee.com = 127.0.0.1	
 adres.myaora.net = 127.0.0.1	
