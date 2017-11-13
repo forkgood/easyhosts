@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201711112208
+#version=201711131844
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -9933,6 +9933,11 @@ s1.s8tu.com = 127.0.0.1
 img.tan5858.com = 127.0.0.1	
 img1.tan5858.com = 127.0.0.1	
 maccms.tan5858.com = 127.0.0.1	
+#51cto.com
+gg.51cto.com = 127.0.0.1	
+gg2.51cto.com = 127.0.0.1	
+gg3.51cto.com = 127.0.0.1	
+logs.51cto.com = 127.0.0.1	
 #admin5.com
 100.admin5.com = 127.0.0.1	
 #android.18183.com
@@ -10060,8 +10065,7 @@ pv.zdnet.com.cn = 127.0.0.1
 stat.zdnet.com.cn = 127.0.0.1	
 #zol.com.cn
 api.zol.com = 127.0.0.1	
-afp.zol-img.com.cn = 127.0.0.1	
-pic.zol-img.com.cn = 127.0.0.1	
+cpro.zol.com.cn = 127.0.0.1	
 dynamic.zol.com.cn = 127.0.0.1	
 imp.zol.com.cn = 127.0.0.1	
 pv.zol.com.cn = 127.0.0.1	
@@ -10070,6 +10074,9 @@ pvm.zol.com.cn = 127.0.0.1
 pvmsite.zol.com.cn = 127.0.0.1	
 pvsite.zol.com.cn = 127.0.0.1	
 stat.zol.com.cn = 127.0.0.1	
+ydjs.zol.com.cn = 127.0.0.1	
+afp.zol-img.com.cn = 127.0.0.1	
+pic.zol-img.com.cn = 127.0.0.1	
 ca.w8.com.cn = 127.0.0.1	
 zdw.w8.com.cn = 127.0.0.1	
 #www.asqql.com
@@ -12201,6 +12208,7 @@ cache.xw126.com = 127.0.0.1
 can.hbttcc.com = 127.0.0.1	
 cao.tc600.com = 127.0.0.1	
 cb.h5.coffeedak.cn = 127.0.0.1	
+cc.idasui.cn = 127.0.0.1	
 cc.st123.info = 127.0.0.1	
 cc.xaepgyy.com = 127.0.0.1	
 cc.yfi052.pw = 127.0.0.1	
@@ -13171,6 +13179,7 @@ statics.9669.com = 127.0.0.1
 stats.cn.ronghub.com = 127.0.0.1	
 sub.alisinak.com = 127.0.0.1	
 sube.puwangkj.com = 127.0.0.1	
+suixingfu.guluw.com = 127.0.0.1	
 sv719.dreamdays.cn = 127.0.0.1	
 sva88.czjiuding.cn = 127.0.0.1	
 swappdl.duoyi.com = 127.0.0.1	
@@ -13549,6 +13558,7 @@ xy.shijialianzuishuai.com = 127.0.0.1
 y.5125129.com = 127.0.0.1	
 y.97kuaixiu.com = 127.0.0.1	
 y.dali517.com = 127.0.0.1	
+y.fm6w.com = 127.0.0.1	
 y.gwylm.com = 127.0.0.1	
 y.gyhzr.com = 127.0.0.1	
 y.nvrentao8.com = 127.0.0.1	

@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711112208
+#version=201711131844
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -9932,6 +9932,11 @@ address=/s1.s8tu.com/127.0.0.1
 address=/img.tan5858.com/127.0.0.1	
 address=/img1.tan5858.com/127.0.0.1	
 address=/maccms.tan5858.com/127.0.0.1	
+#51cto.com
+address=/gg.51cto.com/127.0.0.1	
+address=/gg2.51cto.com/127.0.0.1	
+address=/gg3.51cto.com/127.0.0.1	
+address=/logs.51cto.com/127.0.0.1	
 #admin5.com
 address=/100.admin5.com/127.0.0.1	
 #android.18183.com
@@ -10059,8 +10064,7 @@ address=/pv.zdnet.com.cn/127.0.0.1
 address=/stat.zdnet.com.cn/127.0.0.1	
 #zol.com.cn
 address=/api.zol.com/127.0.0.1	
-address=/afp.zol-img.com.cn/127.0.0.1	
-address=/pic.zol-img.com.cn/127.0.0.1	
+address=/cpro.zol.com.cn/127.0.0.1	
 address=/dynamic.zol.com.cn/127.0.0.1	
 address=/imp.zol.com.cn/127.0.0.1	
 address=/pv.zol.com.cn/127.0.0.1	
@@ -10069,6 +10073,9 @@ address=/pvm.zol.com.cn/127.0.0.1
 address=/pvmsite.zol.com.cn/127.0.0.1	
 address=/pvsite.zol.com.cn/127.0.0.1	
 address=/stat.zol.com.cn/127.0.0.1	
+address=/ydjs.zol.com.cn/127.0.0.1	
+address=/afp.zol-img.com.cn/127.0.0.1	
+address=/pic.zol-img.com.cn/127.0.0.1	
 address=/ca.w8.com.cn/127.0.0.1	
 address=/zdw.w8.com.cn/127.0.0.1	
 #www.asqql.com
@@ -12200,6 +12207,7 @@ address=/cache.xw126.com/127.0.0.1
 address=/can.hbttcc.com/127.0.0.1	
 address=/cao.tc600.com/127.0.0.1	
 address=/cb.h5.coffeedak.cn/127.0.0.1	
+address=/cc.idasui.cn/127.0.0.1	
 address=/cc.st123.info/127.0.0.1	
 address=/cc.xaepgyy.com/127.0.0.1	
 address=/cc.yfi052.pw/127.0.0.1	
@@ -13170,6 +13178,7 @@ address=/statics.9669.com/127.0.0.1
 address=/stats.cn.ronghub.com/127.0.0.1	
 address=/sub.alisinak.com/127.0.0.1	
 address=/sube.puwangkj.com/127.0.0.1	
+address=/suixingfu.guluw.com/127.0.0.1	
 address=/sv719.dreamdays.cn/127.0.0.1	
 address=/sva88.czjiuding.cn/127.0.0.1	
 address=/swappdl.duoyi.com/127.0.0.1	
@@ -13548,6 +13557,7 @@ address=/xy.shijialianzuishuai.com/127.0.0.1
 address=/y.5125129.com/127.0.0.1	
 address=/y.97kuaixiu.com/127.0.0.1	
 address=/y.dali517.com/127.0.0.1	
+address=/y.fm6w.com/127.0.0.1	
 address=/y.gwylm.com/127.0.0.1	
 address=/y.gyhzr.com/127.0.0.1	
 address=/y.nvrentao8.com/127.0.0.1	
