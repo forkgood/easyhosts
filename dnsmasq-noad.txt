@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711141919
+#version=201711142304
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -11285,6 +11285,9 @@ address=/ads.house365.com/127.0.0.1
 address=/a.yjbys.com/127.0.0.1	
 address=/abc.yjbys.com/127.0.0.1	
 address=/d.yjbys.com/127.0.0.1	
+#baike.com
+address=/ehd.baike.com/127.0.0.1	
+address=/ll.hudong.com/127.0.0.1	
 #edu.jobui.com
 address=/bd2.jobui.com/127.0.0.1	
 address=/bd3.jobui.com/127.0.0.1	
@@ -12760,6 +12763,7 @@ address=/li.anyysz.com/127.0.0.1
 address=/li.fszhxd.com/127.0.0.1	
 address=/lin.internetofthings-china.com/127.0.0.1	
 address=/link.yida558.com/127.0.0.1	
+address=/lkme.cc/127.0.0.1	
 address=/log.kuaigeng.com/127.0.0.1	
 address=/lol.pnhfc.com/127.0.0.1	
 address=/love.66san.com/127.0.0.1	
@@ -13134,6 +13138,7 @@ address=/sc.sczxy.com/127.0.0.1
 address=/sccdn.f2zd.com/127.0.0.1	
 address=/sdk.appadhoc.com/127.0.0.1	
 address=/seen.h01ce.cn/127.0.0.1	
+address=/seen.ttfgames.cn/127.0.0.1	
 address=/sese.chmae.com/127.0.0.1	
 address=/sha.hnasd.com/127.0.0.1	
 address=/sha.qjjtc.com/127.0.0.1	
@@ -13343,6 +13348,7 @@ address=/wei.cdcsjs.com/127.0.0.1
 address=/weixinssp.14684.com/127.0.0.1	
 address=/weld830.uunice.com/127.0.0.1	
 address=/weldc1.021ye.com/127.0.0.1	
+address=/wen.jshbyn.com/127.0.0.1	
 address=/wff.wgnmp.com/127.0.0.1	
 address=/whn.star-media.cn/127.0.0.1	
 address=/wm.20150.net/127.0.0.1	

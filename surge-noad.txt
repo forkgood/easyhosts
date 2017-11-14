@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201711141919
+#version=201711142304
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -11286,6 +11286,9 @@ ads.house365.com = 127.0.0.1
 a.yjbys.com = 127.0.0.1	
 abc.yjbys.com = 127.0.0.1	
 d.yjbys.com = 127.0.0.1	
+#baike.com
+ehd.baike.com = 127.0.0.1	
+ll.hudong.com = 127.0.0.1	
 #edu.jobui.com
 bd2.jobui.com = 127.0.0.1	
 bd3.jobui.com = 127.0.0.1	
@@ -12761,6 +12764,7 @@ li.anyysz.com = 127.0.0.1
 li.fszhxd.com = 127.0.0.1	
 lin.internetofthings-china.com = 127.0.0.1	
 link.yida558.com = 127.0.0.1	
+lkme.cc = 127.0.0.1	
 log.kuaigeng.com = 127.0.0.1	
 lol.pnhfc.com = 127.0.0.1	
 love.66san.com = 127.0.0.1	
@@ -13135,6 +13139,7 @@ sc.sczxy.com = 127.0.0.1
 sccdn.f2zd.com = 127.0.0.1	
 sdk.appadhoc.com = 127.0.0.1	
 seen.h01ce.cn = 127.0.0.1	
+seen.ttfgames.cn = 127.0.0.1	
 sese.chmae.com = 127.0.0.1	
 sha.hnasd.com = 127.0.0.1	
 sha.qjjtc.com = 127.0.0.1	
@@ -13344,6 +13349,7 @@ wei.cdcsjs.com = 127.0.0.1
 weixinssp.14684.com = 127.0.0.1	
 weld830.uunice.com = 127.0.0.1	
 weldc1.021ye.com = 127.0.0.1	
+wen.jshbyn.com = 127.0.0.1	
 wff.wgnmp.com = 127.0.0.1	
 whn.star-media.cn = 127.0.0.1	
 wm.20150.net = 127.0.0.1	
