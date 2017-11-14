@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201711141405
+#version=201711141919
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -13012,6 +13012,7 @@ pp.268mob.com = 127.0.0.1
 pp2.dhzw.org = 127.0.0.1	
 ppco.trwba.com = 127.0.0.1	
 ppoi.org = 127.0.0.1	
+ppx.hgo7r.cn = 127.0.0.1	
 psma02.com = 127.0.0.1	
 ptxzw.yigolds.com = 127.0.0.1	
 pv.cpc163.com = 127.0.0.1	
@@ -13512,6 +13513,7 @@ www.tjhuajiantang.com = 127.0.0.1
 www.trafficbaike1.com = 127.0.0.1	
 www.ttcdn.cn = 127.0.0.1	
 www.tui1999.com = 127.0.0.1	
+www.wcnmd.top = 127.0.0.1	
 www.whcrdz.com = 127.0.0.1	
 www.wshufa.com = 127.0.0.1	
 www.wtcpm.com = 127.0.0.1	

@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711141405
+#version=201711141919
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -13011,6 +13011,7 @@ address=/pp.268mob.com/127.0.0.1
 address=/pp2.dhzw.org/127.0.0.1	
 address=/ppco.trwba.com/127.0.0.1	
 address=/ppoi.org/127.0.0.1	
+address=/ppx.hgo7r.cn/127.0.0.1	
 address=/psma02.com/127.0.0.1	
 address=/ptxzw.yigolds.com/127.0.0.1	
 address=/pv.cpc163.com/127.0.0.1	
@@ -13511,6 +13512,7 @@ address=/www.tjhuajiantang.com/127.0.0.1
 address=/www.trafficbaike1.com/127.0.0.1	
 address=/www.ttcdn.cn/127.0.0.1	
 address=/www.tui1999.com/127.0.0.1	
+address=/www.wcnmd.top/127.0.0.1	
 address=/www.whcrdz.com/127.0.0.1	
 address=/www.wshufa.com/127.0.0.1	
 address=/www.wtcpm.com/127.0.0.1	
