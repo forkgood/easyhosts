@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201711142304
+#version=201711142319
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -12380,6 +12380,7 @@
 127.0.0.1 e.qiyunmuye.com
 127.0.0.1 e.qxfly.com
 127.0.0.1 e.ricpt.com
+127.0.0.1 e.tiantianedu.net
 127.0.0.1 e.tommysdream.net
 127.0.0.1 e.vwws6.net
 127.0.0.1 e.wevvt.com
@@ -12478,6 +12479,7 @@
 127.0.0.1 huan.szrk3.com
 127.0.0.1 huan.yxhxs.com
 127.0.0.1 huhu.jzm81.com
+127.0.0.1 husp.cccccd.com
 127.0.0.1 hxgccl.cn
 127.0.0.1 hyfh.benbaisteel.com
 127.0.0.1 i.9le.net
@@ -12884,6 +12886,7 @@
 127.0.0.1 m.symaw.cn
 127.0.0.1 m.syofew6o.net
 127.0.0.1 m.tccti.com
+127.0.0.1 m.tiantianedu.net
 127.0.0.1 m.tommysdream.net
 127.0.0.1 m.tuadong.com
 127.0.0.1 m.twldmx.com
@@ -13074,6 +13077,7 @@
 127.0.0.1 s.esyzdb.com
 127.0.0.1 s.ffhtek.com
 127.0.0.1 s.fjxyo.com
+127.0.0.1 s.fm6w.com
 127.0.0.1 s.fytza.cn
 127.0.0.1 s.gg0376.com
 127.0.0.1 s.glasszz.com
