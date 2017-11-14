@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711141341
+#version=201711141405
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -10638,6 +10638,8 @@ address=/ark.cp21.ott.cibntv.net/127.0.0.1
 address=/dc.cp21.ott.cibntv.net/127.0.0.1	
 address=/s.de123.net/127.0.0.1	
 address=/dc.vmoters.com/127.0.0.1	
+#rrys
+address=/pat.farvd.com/127.0.0.1	
 #halolauncher
 address=/h5.holalauncher.com/127.0.0.1	
 address=/i.holalauncher.com/127.0.0.1	
@@ -10843,6 +10845,7 @@ address=/api-shoulei-ssl.xunlei.com/127.0.0.1
 address=/biz.live.xunlei.com/127.0.0.1	
 address=/ct.niu.xunlei.com/127.0.0.1	
 address=/mou.niu.xunlei.com/127.0.0.1	
+address=/sdksitter.m.sjzhushou.com/127.0.0.1	
 address=/static.m.sjzhushou.com/127.0.0.1	
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 address=/ads.rubiconproject.com/127.0.0.1	

@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201711141341
+#version=201711141405
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -10639,6 +10639,8 @@ ark.cp21.ott.cibntv.net = 127.0.0.1
 dc.cp21.ott.cibntv.net = 127.0.0.1	
 s.de123.net = 127.0.0.1	
 dc.vmoters.com = 127.0.0.1	
+#rrys
+pat.farvd.com = 127.0.0.1	
 #halolauncher
 h5.holalauncher.com = 127.0.0.1	
 i.holalauncher.com = 127.0.0.1	
@@ -10844,6 +10846,7 @@ api-shoulei-ssl.xunlei.com = 127.0.0.1
 biz.live.xunlei.com = 127.0.0.1	
 ct.niu.xunlei.com = 127.0.0.1	
 mou.niu.xunlei.com = 127.0.0.1	
+sdksitter.m.sjzhushou.com = 127.0.0.1	
 static.m.sjzhushou.com = 127.0.0.1	
 #https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 ads.rubiconproject.com = 127.0.0.1	
