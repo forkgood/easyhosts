@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201711142319
+#version=201711151430
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -12596,6 +12596,7 @@ j.bjlanjin.com = 127.0.0.1
 j.bjyikao.org = 127.0.0.1	
 j.dotimg.cn = 127.0.0.1	
 j.fzjycj.com = 127.0.0.1	
+j.jimeilm.com = 127.0.0.1	
 j.jqbee.com = 127.0.0.1	
 j.klsdmr.com = 127.0.0.1	
 j.mvywgw.cn = 127.0.0.1	
@@ -13469,6 +13470,7 @@ www.legozu.com = 127.0.0.1
 www.lessplay.com = 127.0.0.1	
 www.lhafy.com = 127.0.0.1	
 www.lhzgqc.com = 127.0.0.1	
+www.liangao.com = 127.0.0.1	
 www.liangao.com = 127.0.0.1	
 www.lovfp.com = 127.0.0.1	
 www.lx167.com = 127.0.0.1	
@@ -15228,9 +15230,11 @@ update.sdk.jiguang.cn = 127.0.0.1
 #jointreport-switch.com
 demo.jointreport-switch.com = 127.0.0.1	
 lg2.jointreport-switch.com = 127.0.0.1	
+lg4.jointreport-switch.com = 127.0.0.1	
 media-static.jointreport-switch.com = 127.0.0.1	
 media.jointreport-switch.com = 127.0.0.1	
 popup.jointreport-switch.com = 127.0.0.1	
+safe-aisle.jointreport-switch.com = 127.0.0.1	
 static.jointreport-switch.com = 127.0.0.1	
 #jpush
 www.jpush.cn = 127.0.0.1	

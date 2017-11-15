@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711142319
+#version=201711151430
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -12595,6 +12595,7 @@ address=/j.bjlanjin.com/127.0.0.1
 address=/j.bjyikao.org/127.0.0.1	
 address=/j.dotimg.cn/127.0.0.1	
 address=/j.fzjycj.com/127.0.0.1	
+address=/j.jimeilm.com/127.0.0.1	
 address=/j.jqbee.com/127.0.0.1	
 address=/j.klsdmr.com/127.0.0.1	
 address=/j.mvywgw.cn/127.0.0.1	
@@ -13468,6 +13469,7 @@ address=/www.legozu.com/127.0.0.1
 address=/www.lessplay.com/127.0.0.1	
 address=/www.lhafy.com/127.0.0.1	
 address=/www.lhzgqc.com/127.0.0.1	
+address=/www.liangao.com/127.0.0.1	
 address=/www.liangao.com/127.0.0.1	
 address=/www.lovfp.com/127.0.0.1	
 address=/www.lx167.com/127.0.0.1	
@@ -15227,9 +15229,11 @@ address=/update.sdk.jiguang.cn/127.0.0.1
 #jointreport-switch.com
 address=/demo.jointreport-switch.com/127.0.0.1	
 address=/lg2.jointreport-switch.com/127.0.0.1	
+address=/lg4.jointreport-switch.com/127.0.0.1	
 address=/media-static.jointreport-switch.com/127.0.0.1	
 address=/media.jointreport-switch.com/127.0.0.1	
 address=/popup.jointreport-switch.com/127.0.0.1	
+address=/safe-aisle.jointreport-switch.com/127.0.0.1	
 address=/static.jointreport-switch.com/127.0.0.1	
 #jpush
 address=/www.jpush.cn/127.0.0.1	
