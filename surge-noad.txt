@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201711191547
+#version=201711191630
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -10913,6 +10913,10 @@ cdn2.moji002.com = 127.0.0.1
 #http://www.zuimeitianqi.com/
 ad.zuimeitianqi.com = 127.0.0.1	
 stat.zuimeitianqi.com = 127.0.0.1	
+renren2.maoyun.tv = 127.0.0.1	
+app.xysryh.com = 127.0.0.1	
+qp.yunanfuwuqi.com = 127.0.0.1	
+a.ecook.cn = 127.0.0.1	
 #gan-jxnews.com.cn
 ad.jxnews.com.cn = 127.0.0.1	
 adv.jxnews.com.cn = 127.0.0.1	

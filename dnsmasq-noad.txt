@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201711191547
+#version=201711191630
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -10912,6 +10912,10 @@ address=/cdn2.moji002.com/127.0.0.1
 #http://www.zuimeitianqi.com/
 address=/ad.zuimeitianqi.com/127.0.0.1	
 address=/stat.zuimeitianqi.com/127.0.0.1	
+address=/renren2.maoyun.tv/127.0.0.1	
+address=/app.xysryh.com/127.0.0.1	
+address=/qp.yunanfuwuqi.com/127.0.0.1	
+address=/a.ecook.cn/127.0.0.1	
 #gan-jxnews.com.cn
 address=/ad.jxnews.com.cn/127.0.0.1	
 address=/adv.jxnews.com.cn/127.0.0.1	
