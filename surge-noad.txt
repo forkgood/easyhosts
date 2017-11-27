@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201711252052
+#version=201711272226
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -10433,7 +10433,6 @@ iflow.uczzd.com = 127.0.0.1
 iflow.uczzd.com.cn = 127.0.0.1	
 iflow.uczzd.net = 127.0.0.1	
 image.zzd.sm.cn = 127.0.0.1	
-api.open.uc.cn = 127.0.0.1	
 g.aligames.com = 127.0.0.1	
 #2344.com
 bdjs.2344.com = 127.0.0.1	
@@ -11368,6 +11367,10 @@ h.gszbba.cn = 127.0.0.1
 js412.0937jyg.com = 127.0.0.1	
 mad.kuuad.com = 127.0.0.1	
 pic2016.5442.com = 127.0.0.1	
+e.xkanf.com = 127.0.0.1	
+m.quldu.com = 127.0.0.1	
+m.xkanf.com = 127.0.0.1	
+y.hzht666.com = 127.0.0.1	
 #www.chinadaily.com.cn
 same.chinadaily.com.cn = 127.0.0.1	
 usercollection.chinadaily.com.cn = 127.0.0.1	
