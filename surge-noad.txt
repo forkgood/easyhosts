@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201712041646
+#version=201712042138
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -10184,6 +10184,8 @@ tongji.meizu.com = 127.0.0.1
 aider-res.meizu.com = 127.0.0.1	
 #itunes-radio
 iadctest.qwapi.com = 127.0.0.1	
+#unknow
+r.myadx.net = 127.0.0.1	
 #http://mac.xunlei.com/
 liveupdate.mac.sandai.net = 127.0.0.1	
 #cm-adfuture
