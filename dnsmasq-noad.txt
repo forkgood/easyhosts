@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201712042138
+#version=20171205 903
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -10917,6 +10917,13 @@ address=/renren2.maoyun.tv/127.0.0.1
 address=/app.xysryh.com/127.0.0.1	
 address=/qp.yunanfuwuqi.com/127.0.0.1	
 address=/a.ecook.cn/127.0.0.1	
+address=/s.hzht666.com/127.0.0.1	
+address=/vip.qqxwf.com/127.0.0.1	
+address=/s1.521daixiao.com/127.0.0.1	
+address=/ad.lqalm.com/127.0.0.1	
+address=/js.feitian001.com/127.0.0.1	
+address=/ss.swagger1.com/127.0.0.1	
+address=/xs.swagger1.com/127.0.0.1	
 #gan-jxnews.com.cn
 address=/ad.jxnews.com.cn/127.0.0.1	
 address=/adv.jxnews.com.cn/127.0.0.1	
@@ -11398,9 +11405,7 @@ address=/wo.bjzcbx.com/127.0.0.1
 address=/y.dingdianzw.com/127.0.0.1	
 address=/xin.ygqczh.com/127.0.0.1	
 address=/www.jx5m.com/127.0.0.1	
-address=/s.hzht666.com/127.0.0.1	
-address=/vip.qqxwf.com/127.0.0.1	
-address=/s1.521daixiao.com/127.0.0.1	
+address=/www.wancai.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
@@ -15746,6 +15751,7 @@ address=/d.yoyi.com.cn/127.0.0.1
 address=/databank.air.yoyi.com.cn/127.0.0.1	
 address=/databank.yoyi.com.cn/127.0.0.1	
 address=/g.rs.yoyi.com.cn/127.0.0.1	
+address=/h.sora.yoyi.com.cn/127.0.0.1	
 address=/log2.air.yoyi.com.cn/127.0.0.1	
 address=/m.yoyi.com.cn/127.0.0.1	
 address=/mapping.yoyi.com.cn/127.0.0.1	
@@ -15782,6 +15788,7 @@ address=/s7.addthis.com/127.0.0.1
 address=/su.addthis.com/127.0.0.1	
 #adinall.com
 address=/ads.adinall.com/127.0.0.1	
+address=/app-tj.adinall.com/127.0.0.1	
 address=/cdn.adinall.com/127.0.0.1	
 address=/pmp.adinall.com/127.0.0.1	
 #adjust.com
