@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201712142304
+#version=201712151354
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -8882,7 +8882,6 @@ eclick.baidu.com = 127.0.0.1
 eiv.baidu.com = 127.0.0.1	
 entry.baidu.com = 127.0.0.1	
 hm.baidu.com = 127.0.0.1	
-hmma.baidu.com = 127.0.0.1	
 idm-su.baidu.com = 127.0.0.1	
 idm.bce.baidu.com = 127.0.0.1	
 mobads-logs.baidu.com = 127.0.0.1	
@@ -8915,7 +8914,6 @@ zz.bdstatic.com = 127.0.0.1
 bdplus.baidu.com = 127.0.0.1	
 btlaunch.baidu.com = 127.0.0.1	
 datax.baidu.com = 127.0.0.1	
-dxp.baidu.com = 127.0.0.1	
 openrcv.baidu.com = 127.0.0.1	
 tipsdk.baidu.com = 127.0.0.1	
 #baidu-news
@@ -8923,8 +8921,6 @@ cpu.baidu.com = 127.0.0.1
 cpu-admin.baidu.com = 127.0.0.1	
 hpd.baidu.com = 127.0.0.1	
 feed.baidu.com = 127.0.0.1	
-#http://pan.baidu.com/
-appc.baidu.com = 127.0.0.1	
 #http://tieba.baidu.com/
 bj.bcebos.com = 127.0.0.1	
 tob-cms.bj.bcebos.com = 127.0.0.1	

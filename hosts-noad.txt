@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201712142304
+#version=201712151354
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -8881,7 +8881,6 @@
 127.0.0.1 eiv.baidu.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 hm.baidu.com
-127.0.0.1 hmma.baidu.com
 127.0.0.1 idm-su.baidu.com
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 mobads-logs.baidu.com
@@ -8914,7 +8913,6 @@
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 btlaunch.baidu.com
 127.0.0.1 datax.baidu.com
-127.0.0.1 dxp.baidu.com
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 tipsdk.baidu.com
 #baidu-news
@@ -8922,8 +8920,6 @@
 127.0.0.1 cpu-admin.baidu.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 feed.baidu.com
-#http://pan.baidu.com/
-127.0.0.1 appc.baidu.com
 #http://tieba.baidu.com/
 127.0.0.1 bj.bcebos.com
 127.0.0.1 tob-cms.bj.bcebos.com

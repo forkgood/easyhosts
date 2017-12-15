@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201712142304
+#version=201712151354
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8881,7 +8881,6 @@ address=/eclick.baidu.com/127.0.0.1
 address=/eiv.baidu.com/127.0.0.1	
 address=/entry.baidu.com/127.0.0.1	
 address=/hm.baidu.com/127.0.0.1	
-address=/hmma.baidu.com/127.0.0.1	
 address=/idm-su.baidu.com/127.0.0.1	
 address=/idm.bce.baidu.com/127.0.0.1	
 address=/mobads-logs.baidu.com/127.0.0.1	
@@ -8914,7 +8913,6 @@ address=/zz.bdstatic.com/127.0.0.1
 address=/bdplus.baidu.com/127.0.0.1	
 address=/btlaunch.baidu.com/127.0.0.1	
 address=/datax.baidu.com/127.0.0.1	
-address=/dxp.baidu.com/127.0.0.1	
 address=/openrcv.baidu.com/127.0.0.1	
 address=/tipsdk.baidu.com/127.0.0.1	
 #baidu-news
@@ -8922,8 +8920,6 @@ address=/cpu.baidu.com/127.0.0.1
 address=/cpu-admin.baidu.com/127.0.0.1	
 address=/hpd.baidu.com/127.0.0.1	
 address=/feed.baidu.com/127.0.0.1	
-#http://pan.baidu.com/
-address=/appc.baidu.com/127.0.0.1	
 #http://tieba.baidu.com/
 address=/bj.bcebos.com/127.0.0.1	
 address=/tob-cms.bj.bcebos.com/127.0.0.1	
