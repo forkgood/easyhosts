@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201712151354
+#version=201712172032
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -9660,6 +9660,7 @@ address=/www.360clg.cn/127.0.0.1
 address=/www.cubcc.com/127.0.0.1	
 address=/www.yiqixiu.com/127.0.0.1	
 address=/m.ishangtong.com/127.0.0.1	
+address=/www.taoev.com/127.0.0.1	
 #buy
 address=/yhd.com/127.0.0.1	
 address=/www.yhd.com/127.0.0.1	
@@ -10992,6 +10993,14 @@ address=/dfc1.benbaisteel.com/127.0.0.1
 address=/hyfh.benbaisteel.com/127.0.0.1	
 address=/bdjs.58news.org/127.0.0.1	
 address=/bddm.58news.org/127.0.0.1	
+address=/jian1.juqingba.cn/127.0.0.1	
+address=/wuliao.juqingba.cn/127.0.0.1	
+address=/bd1.flfgw.cn/127.0.0.1	
+address=/bd2.flfgw.cn/127.0.0.1	
+address=/bd1.home8080.cn/127.0.0.1	
+address=/bd2.home8080.cn/127.0.0.1	
+address=/js.daxueshengqiandai.com/127.0.0.1	
+address=/ssp.daxueshengqiandai.com/127.0.0.1	
 #m.69shuwu.com
 address=/c.69shuwu.com/127.0.0.1	
 address=/s.69shuwu.com/127.0.0.1	
@@ -11440,6 +11449,19 @@ address=/m.wshufa.com/127.0.0.1
 address=/s.bjgtsh.com/127.0.0.1	
 address=/sui.cdgjxt.com/127.0.0.1	
 address=/uqum.52shouyou.com.cn/127.0.0.1	
+address=/js6878.bjyikao.org/127.0.0.1	
+address=/v.szpaopao.com/127.0.0.1	
+address=/e.diogv.com/127.0.0.1	
+address=/e.jingonghuanbao.com/127.0.0.1	
+address=/img.kanuxian.cn/127.0.0.1	
+address=/m.diogv.com/127.0.0.1	
+address=/m.jingonghuanbao.com/127.0.0.1	
+address=/m.qusub.com/127.0.0.1	
+address=/p.ynjczy.net/127.0.0.1	
+address=/chjxzk.1555110.cn/127.0.0.1	
+address=/f1.luoshenbest.cn/127.0.0.1	
+address=/lm.souid.com/127.0.0.1	
+address=/nai.cpxkvc.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
