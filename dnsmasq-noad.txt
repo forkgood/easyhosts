@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201712172032
+#version=201712211755
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -11462,6 +11462,11 @@ address=/chjxzk.1555110.cn/127.0.0.1
 address=/f1.luoshenbest.cn/127.0.0.1	
 address=/lm.souid.com/127.0.0.1	
 address=/nai.cpxkvc.com/127.0.0.1	
+address=/code1f.m.shushu8.com/127.0.0.1	
+address=/e.resmv.com/127.0.0.1	
+address=/edu.www.dingdianzw.com/127.0.0.1	
+address=/d.danangmo.cn/127.0.0.1	
+address=/jbflil.cn/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
@@ -16770,6 +16775,17 @@ address=/xpj8088.com/127.0.0.1
 address=/xpjkf888.com/127.0.0.1	
 address=/xx.popo.6615871.com/127.0.0.1	
 address=/xz.ercfh.com/127.0.0.1	
+address=/index.woai310.com/127.0.0.1	
+address=/splog.ccvfast.top/127.0.0.1	
+address=/www.iiewl.com/127.0.0.1	
+address=/www.jj123.com.cn/127.0.0.1	
+address=/u.raidmedia.com.cn/127.0.0.1	
+address=/update.bainv.net/127.0.0.1	
+address=/u.yizuya.com/127.0.0.1	
+address=/p.raidmedia.com.cn/127.0.0.1	
+address=/tactics.bainv.net/127.0.0.1	
+address=/p.yizuya.com/127.0.0.1	
+address=/c2.58toto.net/127.0.0.1	
 #cibn-vst
 address=/bkmcgi.play.cp81.ott.cibntv.net/127.0.0.1	
 address=/bksdkconfig.play.cp81.ott.cibntv.net/127.0.0.1	
