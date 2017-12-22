@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201712222308
+#version=20171223 037
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -11001,6 +11001,8 @@ bd1.home8080.cn = 127.0.0.1
 bd2.home8080.cn = 127.0.0.1	
 js.daxueshengqiandai.com = 127.0.0.1	
 ssp.daxueshengqiandai.com = 127.0.0.1	
+d520m.gzcl999.cn = 127.0.0.1	
+j520s.gzcl999.cn = 127.0.0.1	
 #m.69shuwu.com
 c.69shuwu.com = 127.0.0.1	
 s.69shuwu.com = 127.0.0.1	
