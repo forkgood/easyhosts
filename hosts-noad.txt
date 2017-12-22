@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201712222121
+#version=201712222239
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -8865,7 +8865,6 @@
 127.0.0.1 msnclick.wrating.com
 127.0.0.1 s.wrating.com
 127.0.0.1 sohu.wrating.com
-
 127.0.0.1 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 #baidu
 127.0.0.1 afd.baidu.com
@@ -9383,6 +9382,7 @@
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
 127.0.0.1 sax.sina.com.cn
+127.0.0.1 saxn.sina.com.cn
 127.0.0.1 sax1.sina.com.cn
 127.0.0.1 sax2.sina.com.cn
 127.0.0.1 sax3.sina.com.cn
@@ -9472,12 +9472,14 @@
 127.0.0.1 ssl-cdn.media.innity.net
 #sohu
 127.0.0.1 3rd.t.sohu.com
+127.0.0.1 888.tv.sohu.com
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 ad.sohu.com
 127.0.0.1 corp.sohu.com
 127.0.0.1 cpc.sohu.com
-127.0.0.1 suvset.sohu.com
 127.0.0.1 images.sohu.com
+127.0.0.1 suvset.sohu.com
+127.0.0.1 t.ads.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 i.go.sohu.com
 127.0.0.1 imp.go.sohu.com
@@ -9582,6 +9584,11 @@
 127.0.0.1 img.wan.sogou.com
 127.0.0.1 iwan.sogou.com
 127.0.0.1 wan.sogou.com
+#shuzilm.cn
+127.0.0.1 api.shuzilm.cn
+127.0.0.1 daa.shuzilm.cn
+127.0.0.1 dai.shuzilm.cn
+127.0.0.1 stream.shuzilm.cn
 @cps-union
 #emar
 127.0.0.1 eavs02.eqifa.com
@@ -10225,6 +10232,7 @@
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
+127.0.0.1 test.zeus.ad.xiaomi.com
 #miui-stat
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
@@ -10600,6 +10608,10 @@
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 plt.data.pplive.com
 127.0.0.1 web.data.pplive.com
+127.0.0.1 apm.suning.cn
+127.0.0.1 click.suning.cn
+127.0.0.1 dfp.suning.com
+127.0.0.1 ssac.suning.com
 #http://yn.voole.com/app
 127.0.0.1 adinf.voole.com
 127.0.0.1 apkinfo.voole.com
@@ -10741,11 +10753,17 @@
 127.0.0.1 api.iapps.ifeng.com
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 exp.3g.ifeng.com
+127.0.0.1 ifengad.3g.ifeng.com
+127.0.0.1 stadig.ifeng.com
+127.0.0.1 stadig0.ifeng.com
+127.0.0.1 dmpclick.deliver.ifeng.com
+127.0.0.1 dol.deliver.ifeng.com
+127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 ids.deliver.ifeng.com
+127.0.0.1 ids1.deliver.ifeng.com
 127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 iis3g.deliver.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 stadig.ifeng.com
-127.0.0.1 stadig0.ifeng.com
 127.0.0.1 c0.ifengimg.com
 127.0.0.1 c1.ifengimg.com
 127.0.0.1 js.51taifu.com
@@ -10768,8 +10786,12 @@
 127.0.0.1 imgad.thepaper.cn
 #http://m.toutiao.com/
 127.0.0.1 ad.toutiao.com
-127.0.0.1 temai.snssdk.com
+127.0.0.1 dm.toutiao.com
 127.0.0.1 analytics.snssdk.com
+127.0.0.1 ib.snssdk.com
+127.0.0.1 temai.snssdk.com
+127.0.0.1 dm.bytedance.com
+127.0.0.1 dm.pstatp.com
 127.0.0.1 pb3.pstatp.com
 #http://m.yuedu.163.com/
 127.0.0.1 wr.da.netease.com
@@ -12083,11 +12105,6 @@
 127.0.0.1 rank.hit.china.com
 127.0.0.1 sssvd.china.com
 127.0.0.1 track.china.com
-#www.ifeng.com
-127.0.0.1 dol.deliver.ifeng.com
-127.0.0.1 dolphin.deliver.ifeng.com
-127.0.0.1 ids.deliver.ifeng.com
-127.0.0.1 ifengad.3g.ifeng.com
 #www.tom.com
 127.0.0.1 adserve2.tom.com
 127.0.0.1 js.pub.tom.com
@@ -13762,6 +13779,7 @@
 127.0.0.1 breeze.olclient.baofeng.com
 127.0.0.1 co.dtech.baofeng.com
 127.0.0.1 coop.pop.baofeng.com
+127.0.0.1 androidlog.shouji.baofeng.com
 127.0.0.1 dailylog.storm.baofeng.com
 127.0.0.1 duration.logger.baofeng.com
 127.0.0.1 eventlog.hd.baofeng.com
@@ -13772,7 +13790,6 @@
 127.0.0.1 log.vdinfo.baofeng.com
 127.0.0.1 logger.treexml.baofeng.com
 127.0.0.1 midinfo.baofeng.com
-127.0.0.1 newapi.shouji.baofeng.com
 127.0.0.1 p2pmid.baofeng.com
 127.0.0.1 pvlog.hd.baofeng.com
 127.0.0.1 sclog.moviebox.baofeng.com
@@ -15447,6 +15464,7 @@
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 js.miaozhen.com
+127.0.0.1 letv-mipdx.cn.miaozhen.com
 127.0.0.1 letv.ipdx.cn.miaozhen.com
 127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 miaozhen.com
@@ -15539,6 +15557,8 @@
 127.0.0.1 www.qchannel01.cn
 127.0.0.1 www.qchannel02.cn
 127.0.0.1 www.qchannel03.cn
+127.0.0.1 b.qchannel03.cn
+127.0.0.1 fd.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
 #qtmojo
 127.0.0.1 1.qtmojo.cn
