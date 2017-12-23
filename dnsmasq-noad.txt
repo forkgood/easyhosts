@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=20171223 037
+#version=201712232029
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8567,6 +8567,8 @@ address=/platform.wondershare.com/127.0.0.1
 #163-news
 address=/e-p4p.163.com/127.0.0.1	
 address=/nex.163.com/127.0.0.1	
+#163-music
+address=/iadmat.nosdn.127.net/127.0.0.1	
 #youdao
 address=/gorgon.youdao.com/127.0.0.1	
 address=/impservice.dictapp.youdao.com/127.0.0.1	
@@ -11472,6 +11474,8 @@ address=/m.yingchengtou.com/127.0.0.1
 address=/e.yingchengtou.com/127.0.0.1	
 address=/ne.1rtb.com/127.0.0.1	
 address=/ssp.1rtb.com/127.0.0.1	
+address=/de.dzribao.com/127.0.0.1	
+address=/wwwokzyzy.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
