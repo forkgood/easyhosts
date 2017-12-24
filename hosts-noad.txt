@@ -8476,7 +8476,7 @@
 223.197.123.65 r4---sn-p5qs7n7s.googlevideo.com
 223.197.123.65 r6---sn-p5qs7n7s.googlevideo.com
 
-#version=201712232029
+#version=201712242144
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -10922,6 +10922,7 @@
 127.0.0.1 js.feitian001.com
 127.0.0.1 ss.swagger1.com
 127.0.0.1 xs.swagger1.com
+127.0.0.1 hoisin.coocaatv.com
 #gan-jxnews.com.cn
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 adv.jxnews.com.cn
@@ -11476,6 +11477,7 @@
 127.0.0.1 ssp.1rtb.com
 127.0.0.1 de.dzribao.com
 127.0.0.1 wwwokzyzy.com
+127.0.0.1 www.yqjxzw.com
 #www.chinadaily.com.cn
 127.0.0.1 same.chinadaily.com.cn
 127.0.0.1 usercollection.chinadaily.com.cn
