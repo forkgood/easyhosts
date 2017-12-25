@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201712252134
+#version=201712252145
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -11004,6 +11004,10 @@ address=/js.daxueshengqiandai.com/127.0.0.1
 address=/ssp.daxueshengqiandai.com/127.0.0.1	
 address=/d520m.gzcl999.cn/127.0.0.1	
 address=/j520s.gzcl999.cn/127.0.0.1	
+address=/bdd.hainan.net/127.0.0.1	
+address=/bds.hainan.net/127.0.0.1	
+address=/script-bd.baixing.net/127.0.0.1	
+address=/tu.baixing.com/127.0.0.1	
 #m.69shuwu.com
 address=/c.69shuwu.com/127.0.0.1	
 address=/s.69shuwu.com/127.0.0.1	
@@ -11477,6 +11481,10 @@ address=/ssp.1rtb.com/127.0.0.1
 address=/de.dzribao.com/127.0.0.1	
 address=/wwwokzyzy.com/127.0.0.1	
 address=/www.yqjxzw.com/127.0.0.1	
+address=/ssp.kxly360.com/127.0.0.1	
+address=/src.duanxin520.com/127.0.0.1	
+address=/ssp.zf313.com/127.0.0.1	
+address=/img.butanian.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
@@ -12127,6 +12135,7 @@ address=/data.adserve2.tomoimg.cn/127.0.0.1
 #bbs.gxsky.com
 address=/ll.gxsky.com/127.0.0.1	
 #bbs.tianya.cn
+address=/801.tianya.cn/127.0.0.1	
 address=/803.tianya.cn/127.0.0.1	
 address=/dol.tianya.cn/127.0.0.1	
 address=/click.tianyaui.com/127.0.0.1	
