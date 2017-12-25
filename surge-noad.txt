@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201712242144
+#version=201712252134
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -9310,7 +9310,6 @@ video.ureport.push.qq.com = 127.0.0.1
 video.wap.mpush.qq.com = 127.0.0.1	
 wap.mpush.qq.com = 127.0.0.1	
 #qq-t
-pingtcss.qq.com = 127.0.0.1	
 ta.qq.com = 127.0.0.1	
 tajs.qq.com = 127.0.0.1	
 tcss.qq.com = 127.0.0.1	
