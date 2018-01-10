@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201801101131
+#version=201801101235
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8648,6 +8648,7 @@ address=/afpssp.alimama.com/127.0.0.1
 address=/promotion.aliyun.com/127.0.0.1	
 #aliyuncs
 address=/adash.man.aliyuncs.com/127.0.0.1	
+address=/cdn-ads.oss-cn-shanghai.aliyuncs.com/127.0.0.1	
 address=/dressimage.img-cn-beijing.aliyuncs.com/127.0.0.1	
 address=/fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com/127.0.0.1	
 address=/img-dsp.oss-cn-beijing.aliyuncs.com/127.0.0.1	
@@ -8658,7 +8659,9 @@ address=/ttjx-online.cn-hangzhou.log.aliyuncs.com/127.0.0.1
 address=/xz-development.oss-cn-beijing.aliyuncs.com/127.0.0.1	
 #ipinyou
 address=/cm.ipinyou.com/127.0.0.1	
+address=/fms.ipinyou.com/127.0.0.1	
 address=/optimus.ipinyou.com/127.0.0.1	
+address=/vt.ipinyou.com/127.0.0.1	
 #mct01
 address=/a.mct01.com/127.0.0.1	
 address=/static.mct01.com/127.0.0.1	
@@ -14488,6 +14491,16 @@ address=/extmoney.i1608.com/127.0.0.1
 address=/yun.lvehaisen.com/127.0.0.1	
 address=/api.bailingjiankang.com/127.0.0.1	
 address=/m.bailingjiankang.com/127.0.0.1	
+address=/cl.he9630.com/127.0.0.1	
+address=/md.he9630.com/127.0.0.1	
+address=/ss.he9630.com/127.0.0.1	
+address=/xs.he9630.com/127.0.0.1	
+address=/bcjjg.bugsevent.com/127.0.0.1	
+address=/bcjxf.bugsevent.com/127.0.0.1	
+address=/ad.dqwjzm.com/127.0.0.1	
+address=/cs.dqwjzm.com/127.0.0.1	
+address=/fanli.1668g.com/127.0.0.1	
+address=/md.sh5e.com/127.0.0.1	
 address=//@hijack/x-router	
 address=/info.yitsoftware.com/127.0.0.1	
 address=//@popup	
@@ -15629,8 +15642,6 @@ address=/cm.qtmojo.com/127.0.0.1
 address=/mmae.qtmojo.com/127.0.0.1	
 address=/snim.qtmojo.com/127.0.0.1	
 address=/wmdeal.qtmojo.com/127.0.0.1	
-address=/mon.xtgreat.com/127.0.0.1	
-address=/www.xtgreat.com/127.0.0.1	
 #qucaigg.com
 address=/2018.qucaigg.com/127.0.0.1	
 address=/2tu.qucaigg.com/127.0.0.1	
@@ -15792,9 +15803,12 @@ address=/pg.xdrig.com/127.0.0.1
 address=/xdrig.com/127.0.0.1	
 #xtgreat.com
 address=/cc.xtgreat.com/127.0.0.1	
+address=/e.x.cn.xtgreat.com/127.0.0.1	
 address=/g.x.cn.xtgreat.com/127.0.0.1	
 address=/js.xtgreat.com/127.0.0.1	
 address=/s.x.cn.xtgreat.com/127.0.0.1	
+address=/mon.xtgreat.com/127.0.0.1	
+address=/www.xtgreat.com/127.0.0.1	
 #xunfei
 address=/iflyad.bj.openstorage.cn/127.0.0.1	
 address=/ads.voiceads.cn/127.0.0.1	

@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201801101131
+#version=201801101235
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -8649,6 +8649,7 @@ afpssp.alimama.com = 127.0.0.1
 promotion.aliyun.com = 127.0.0.1	
 #aliyuncs
 adash.man.aliyuncs.com = 127.0.0.1	
+cdn-ads.oss-cn-shanghai.aliyuncs.com = 127.0.0.1	
 dressimage.img-cn-beijing.aliyuncs.com = 127.0.0.1	
 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com = 127.0.0.1	
 img-dsp.oss-cn-beijing.aliyuncs.com = 127.0.0.1	
@@ -8659,7 +8660,9 @@ ttjx-online.cn-hangzhou.log.aliyuncs.com = 127.0.0.1
 xz-development.oss-cn-beijing.aliyuncs.com = 127.0.0.1	
 #ipinyou
 cm.ipinyou.com = 127.0.0.1	
+fms.ipinyou.com = 127.0.0.1	
 optimus.ipinyou.com = 127.0.0.1	
+vt.ipinyou.com = 127.0.0.1	
 #mct01
 a.mct01.com = 127.0.0.1	
 static.mct01.com = 127.0.0.1	
@@ -14489,6 +14492,16 @@ extmoney.i1608.com = 127.0.0.1
 yun.lvehaisen.com = 127.0.0.1	
 api.bailingjiankang.com = 127.0.0.1	
 m.bailingjiankang.com = 127.0.0.1	
+cl.he9630.com = 127.0.0.1	
+md.he9630.com = 127.0.0.1	
+ss.he9630.com = 127.0.0.1	
+xs.he9630.com = 127.0.0.1	
+bcjjg.bugsevent.com = 127.0.0.1	
+bcjxf.bugsevent.com = 127.0.0.1	
+ad.dqwjzm.com = 127.0.0.1	
+cs.dqwjzm.com = 127.0.0.1	
+fanli.1668g.com = 127.0.0.1	
+md.sh5e.com = 127.0.0.1	
  = @hijack/x-router	
 info.yitsoftware.com = 127.0.0.1	
  = @popup	
@@ -15630,8 +15643,6 @@ cm.qtmojo.com = 127.0.0.1
 mmae.qtmojo.com = 127.0.0.1	
 snim.qtmojo.com = 127.0.0.1	
 wmdeal.qtmojo.com = 127.0.0.1	
-mon.xtgreat.com = 127.0.0.1	
-www.xtgreat.com = 127.0.0.1	
 #qucaigg.com
 2018.qucaigg.com = 127.0.0.1	
 2tu.qucaigg.com = 127.0.0.1	
@@ -15793,9 +15804,12 @@ pg.xdrig.com = 127.0.0.1
 xdrig.com = 127.0.0.1	
 #xtgreat.com
 cc.xtgreat.com = 127.0.0.1	
+e.x.cn.xtgreat.com = 127.0.0.1	
 g.x.cn.xtgreat.com = 127.0.0.1	
 js.xtgreat.com = 127.0.0.1	
 s.x.cn.xtgreat.com = 127.0.0.1	
+mon.xtgreat.com = 127.0.0.1	
+www.xtgreat.com = 127.0.0.1	
 #xunfei
 iflyad.bj.openstorage.cn = 127.0.0.1	
 ads.voiceads.cn = 127.0.0.1	
