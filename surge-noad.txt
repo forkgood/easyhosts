@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201801061010
+#version=20180110 829
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -10924,6 +10924,7 @@ ss.swagger1.com = 127.0.0.1
 xs.swagger1.com = 127.0.0.1	
 hoisin.coocaatv.com = 127.0.0.1	
 kovjo.com = 127.0.0.1	
+fzz.cloud.1234507.com = 127.0.0.1	
 #gan-jxnews.com.cn
 ad.jxnews.com.cn = 127.0.0.1	
 adv.jxnews.com.cn = 127.0.0.1	
@@ -11324,6 +11325,8 @@ ll.hudong.com = 127.0.0.1
 #edu.jobui.com
 bd2.jobui.com = 127.0.0.1	
 bd3.jobui.com = 127.0.0.1	
+#muchong.com
+z1hihu.xmcimg.com = 127.0.0.1	
 #m.gushiwen.org
 bai3.gushiwen.org = 127.0.0.1	
 #m.liuxiaoer.com
@@ -11508,6 +11511,10 @@ src.duanxin520.com = 127.0.0.1
 ssp.zf313.com = 127.0.0.1	
 img.butanian.com = 127.0.0.1	
 www.tujidao.com = 127.0.0.1	
+www.ynwqls.com = 127.0.0.1	
+e.nduop.com = 127.0.0.1	
+s.maipubao.cn = 127.0.0.1	
+in.djhbxz.com = 127.0.0.1	
 #www.chinadaily.com.cn
 same.chinadaily.com.cn = 127.0.0.1	
 usercollection.chinadaily.com.cn = 127.0.0.1	
