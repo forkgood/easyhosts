@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201801101235
+#version=201801112114
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -11526,6 +11526,10 @@ in.djhbxz.com = 127.0.0.1
 mini.eastday.com = 127.0.0.1	
 toutiao.jxnews.com.cn = 127.0.0.1	
 tongji.wlongchina.com = 127.0.0.1	
+img.wuben56.com = 127.0.0.1	
+et.ganyite.com = 127.0.0.1	
+czf.cchfjz.com = 127.0.0.1	
+
 #www.chinadaily.com.cn
 same.chinadaily.com.cn = 127.0.0.1	
 usercollection.chinadaily.com.cn = 127.0.0.1	
