@@ -8477,7 +8477,7 @@ r5---sn-p5qs7n7s.googlevideo.com = 223.197.123.65
 r4---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 r6---sn-p5qs7n7s.googlevideo.com = 223.197.123.65	
 
-#version=201801112114
+#version=201801141040
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -10162,9 +10162,25 @@ adx.adxglobal.com = 127.0.0.1
 #www.epinv.com
 a.epinv.com = 127.0.0.1	
 b.epinv.com = 127.0.0.1	
+#ali-yunos
+osfota.cdn.aliyun.com = 127.0.0.1	
+osupdateservice.yunos.com = 127.0.0.1	
+tvupgrade.yunos.com = 127.0.0.1	
+uuidapi.yunos.com = 127.0.0.1	
+#gionee-amigo
 ads.gionee.com = 127.0.0.1	
 pdl.gionee.com = 127.0.0.1	
 adres.myaora.net = 127.0.0.1	
+#mokee
+stats.mokeedev.com = 127.0.0.1	
+#oppo-ads
+adsfs.oppomobile.com = 127.0.0.1	
+adx.ads.oppomobile.com = 127.0.0.1	
+bdapi.ads.oppomobile.com = 127.0.0.1	
+data.ads.oppomobile.com = 127.0.0.1	
+httpdns.push.oppomobile.com = 127.0.0.1	
+#xgimi
+analytics.xgimi.com = 127.0.0.1	
 #flyme-ads
 api-flow.flyme.cn = 127.0.0.1	
 bro.flyme.cn = 127.0.0.1	
@@ -10283,25 +10299,6 @@ dvb.pandora.xiaomi.com = 127.0.0.1
 jellyfish.pandora.xiaomi.com = 127.0.0.1	
 stat.pandora.xiaomi.com = 127.0.0.1	
 irs01.com = 127.0.0.1	
-stats.mokeedev.com = 127.0.0.1	
-#oppo-ads
-adsfs.oppomobile.com = 127.0.0.1	
-adx.ads.oppomobile.com = 127.0.0.1	
-bdapi.ads.oppomobile.com = 127.0.0.1	
-data.ads.oppomobile.com = 127.0.0.1	
-httpdns.push.oppomobile.com = 127.0.0.1	
-#oppo-browser
-i.flow.browser.oppomobile.com = 127.0.0.1	
-imagzine.oppomobile.com = 127.0.0.1	
-fs.uc.nearme.com.cn = 127.0.0.1	
-i.stat.nearme.com.cn = 127.0.0.1	
-kv.stat.nearme.com.cn = 127.0.0.1	
-stat.browser.nearme.com.cn = 127.0.0.1	
-oppo.yidianzixun.com = 127.0.0.1	
-i1.go2yd.com = 127.0.0.1	
-rl.go2yd.com = 127.0.0.1	
-s.go2yd.com = 127.0.0.1	
-web-track.go2yd.com = 127.0.0.1	
 #http://www.bitcomet.com/
 inside.bitcomet.com = 127.0.0.1	
 #http://player.gomlab.com/
@@ -10330,11 +10327,6 @@ info.downsave.com = 127.0.0.1
 #http://www.jjvod.com/
 mini.jijiplayer.com = 127.0.0.1	
 txtad.jijiplayer.com = 127.0.0.1	
-analytics.xgimi.com = 127.0.0.1	
-osfota.cdn.aliyun.com = 127.0.0.1	
-osupdateservice.yunos.com = 127.0.0.1	
-tvupgrade.yunos.com = 127.0.0.1	
-uuidapi.yunos.com = 127.0.0.1	
 #lenovo-ads
 adcore.lenovomm.com = 127.0.0.1	
 pushapi.lenovomm.com = 127.0.0.1	
@@ -11019,6 +11011,8 @@ bdd.hainan.net = 127.0.0.1
 bds.hainan.net = 127.0.0.1	
 script-bd.baixing.net = 127.0.0.1	
 tu.baixing.com = 127.0.0.1	
+abc.sundxs.com = 127.0.0.1	
+b.sundxs.com = 127.0.0.1	
 #m.69shuwu.com
 c.69shuwu.com = 127.0.0.1	
 s.69shuwu.com = 127.0.0.1	
@@ -11529,7 +11523,16 @@ tongji.wlongchina.com = 127.0.0.1
 img.wuben56.com = 127.0.0.1	
 et.ganyite.com = 127.0.0.1	
 czf.cchfjz.com = 127.0.0.1	
-
+c.mkmp365.com = 127.0.0.1	
+img3.qekun.com = 127.0.0.1	
+s.sqwscy.com = 127.0.0.1	
+mwa.xingyimin.com = 127.0.0.1	
+e.wnxcg.com = 127.0.0.1	
+m.ksttwz.com = 127.0.0.1	
+m.kewro.com = 127.0.0.1	
+e.ksttwz.com = 127.0.0.1	
+code.laojiayoufang.com = 127.0.0.1	
+items.bingdiantao.com = 127.0.0.1	
 #www.chinadaily.com.cn
 same.chinadaily.com.cn = 127.0.0.1	
 usercollection.chinadaily.com.cn = 127.0.0.1	
