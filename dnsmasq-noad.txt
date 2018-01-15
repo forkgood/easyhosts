@@ -8476,7 +8476,7 @@ address=/r5---sn-p5qs7n7s.googlevideo.com/223.197.123.65
 address=/r4---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 address=/r6---sn-p5qs7n7s.googlevideo.com/223.197.123.65	
 
-#version=201801141040
+#version=20180115 957
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -10924,6 +10924,10 @@ address=/xs.swagger1.com/127.0.0.1
 address=/hoisin.coocaatv.com/127.0.0.1	
 address=/kovjo.com/127.0.0.1	
 address=/fzz.cloud.1234507.com/127.0.0.1	
+#dygang.com
+address=/ad.adhouyi.cn/127.0.0.1	
+address=/ad.wang502.com/127.0.0.1	
+address=/pb.wang502.com/127.0.0.1	
 #gan-jxnews.com.cn
 address=/ad.jxnews.com.cn/127.0.0.1	
 address=/adv.jxnews.com.cn/127.0.0.1	
@@ -11532,6 +11536,9 @@ address=/m.kewro.com/127.0.0.1
 address=/e.ksttwz.com/127.0.0.1	
 address=/code.laojiayoufang.com/127.0.0.1	
 address=/items.bingdiantao.com/127.0.0.1	
+address=/maw.wnbfw.com/127.0.0.1	
+address=/m.laojiayoufang.com/127.0.0.1	
+address=/58lm.vip/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
