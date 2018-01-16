@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201801152130
+#version=201801161649
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8345,6 +8345,44 @@ address=/xpcy.m.gxwztv.com/127.0.0.1
 address=/xx.m.gxwztv.com/127.0.0.1	
 address=/yfcode.m.gxwztv.com/127.0.0.1	
 address=/yfxpcode.m.gxwztv.com/127.0.0.1	
+address=/a.m.shuhuangge.org/127.0.0.1	
+address=/ow.s1.shuhuangge.org/127.0.0.1	
+address=/ow.s2.shuhuangge.org/127.0.0.1	
+address=/c.panqis.cn/127.0.0.1	
+address=/c.wantxt.com/127.0.0.1	
+address=/cdn.sp.rizhao9.com/127.0.0.1	
+address=/ddkkrrla.m.qxs.la/127.0.0.1	
+address=/ddrrccck.m.qxs.la/127.0.0.1	
+address=/dfx.vnnv777.cn/127.0.0.1	
+address=/dxprla.m.qxs.la/127.0.0.1	
+address=/e.aomde.com/127.0.0.1	
+address=/j.hongyangpai.com/127.0.0.1	
+address=/js.adm.cnzz.net/127.0.0.1	
+address=/js.jybeijia.com/127.0.0.1	
+address=/js1654.dupinpu.com/127.0.0.1	
+address=/js6882.mengchengbao.com/127.0.0.1	
+address=/js7004.hnfpgm.com/127.0.0.1	
+address=/js739.lygshgj.com/127.0.0.1	
+address=/ksr.juuhe.com/127.0.0.1	
+address=/lm.xiashu.la/127.0.0.1	
+address=/m.assigned.cn/127.0.0.1	
+address=/m.cimzc.com/127.0.0.1	
+address=/m.fxbga.com/127.0.0.1	
+address=/m.guanren5.com/127.0.0.1	
+address=/m.hulemedia.com/127.0.0.1	
+address=/m.rhcapass.com/127.0.0.1	
+address=/mp.wghsu.cn/127.0.0.1	
+address=/oss-asq-static.11222.cn/127.0.0.1	
+address=/ow.m.wenxue6.com/127.0.0.1	
+address=/p2s.m.uuxs.net/127.0.0.1	
+address=/pics.cuowog.cn/127.0.0.1	
+address=/report.vodtw.com/127.0.0.1	
+address=/rfir2.50w.me/127.0.0.1	
+address=/www.hzxfmc.com/127.0.0.1	
+address=/www.womenbaby.com/127.0.0.1	
+address=/xsw.shayugg.com/127.0.0.1	
+address=/yyffeicd.m.qxs.la/127.0.0.1	
+address=/zbz.m.qxs.la/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
