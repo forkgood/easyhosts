@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201801192254
+#version=201801212005
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8285,6 +8285,29 @@ address=/m.jlkja.com/127.0.0.1
 address=/m.mrtuo.com/127.0.0.1	
 address=/m.xberu.com/127.0.0.1	
 address=/www.webkooo.com/127.0.0.1	
+address=/272829.cc/127.0.0.1	
+address=/a.m.gxwztv.com/127.0.0.1	
+address=/a.wlfnb.com/127.0.0.1	
+address=/api.ireai.cn/127.0.0.1	
+address=/ba.fqzds.com/127.0.0.1	
+address=/c.gzsanxiaomingshi.cn/127.0.0.1	
+address=/c.sxzmj.cn/127.0.0.1	
+address=/cc.1515788.net/127.0.0.1	
+address=/code.wantaico.com/127.0.0.1	
+address=/h.sxzmj.cn/127.0.0.1	
+address=/html.sunday8.com/127.0.0.1	
+address=/html.yuntzs.com/127.0.0.1	
+address=/j.12306media.com/127.0.0.1	
+address=/li.anyysz.com/127.0.0.1	
+address=/lkf1.m.sanhao3.com/127.0.0.1	
+address=/mjs.csyymp4.com/127.0.0.1	
+address=/p2s.m.uuxs.la/127.0.0.1	
+address=/rc.fthcz.com/127.0.0.1	
+address=/soft.chaomeng8.com/127.0.0.1	
+address=/ss.sysad.cn/127.0.0.1	
+address=/tongji.ads.yxdown.com/127.0.0.1	
+address=/w.sxzmj.cn/127.0.0.1	
+address=/xin.ygqczh.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
@@ -10591,6 +10614,16 @@ address=/ad.dqwjzm.com/127.0.0.1
 address=/cs.dqwjzm.com/127.0.0.1	
 address=/fanli.1668g.com/127.0.0.1	
 address=/md.sh5e.com/127.0.0.1	
+address=/adx3.iq39.com/127.0.0.1	
+address=/bds.soarfi.cn/127.0.0.1	
+address=/ds.missyougame.cn/127.0.0.1	
+address=/m.cudaojia.com/127.0.0.1	
+address=/sss.soarfi.cn/127.0.0.1	
+address=/uns.soarfi.cn/127.0.0.1	
+address=/web.kuaisouwifi.com/127.0.0.1	
+address=/wy.ce22d.cn/127.0.0.1	
+address=/yun.sifuhe.cn/127.0.0.1	
+address=/yun.tuisnake.com/127.0.0.1	
 address=//@hijack/x-router	
 address=/info.yitsoftware.com/127.0.0.1	
 address=//@popup	
