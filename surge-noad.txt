@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201801231822
+#version=201801232336
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -11670,6 +11670,7 @@ stm-cdn.cn.miaozhen.com = 127.0.0.1
 stm-collect.cn.miaozhen.com = 127.0.0.1	
 survey.miaozhen.com = 127.0.0.1	
 t.pg.cn.miaozhen.com = 127.0.0.1	
+tencent-dtv.m.cn.miaozhen.com = 127.0.0.1	
 tyaqy.m.cn.miaozhen.com = 127.0.0.1	
 tytx.m.cn.miaozhen.com = 127.0.0.1	
 wisem-cm.cn.miaozhen.com = 127.0.0.1	
@@ -11677,6 +11678,7 @@ xiangchaokankan.m.cn.miaozhen.com = 127.0.0.1
 yktd.ads.cn.miaozhen.com = 127.0.0.1	
 yktd.cm.cn.miaozhen.com = 127.0.0.1	
 yktd.m.cn.miaozhen.com = 127.0.0.1	
+youku-dtv.m.cn.miaozhen.com = 127.0.0.1	
 www.millwardbrownacsr.com = 127.0.0.1	
 #microad-cn
 d-cache.microad-cn.com = 127.0.0.1	
