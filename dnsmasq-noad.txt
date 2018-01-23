@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201801212005
+#version=201801231822
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -6446,6 +6446,8 @@ address=/www.youpiaole.com/127.0.0.1
 address=/www.zhongmin.cn/127.0.0.1	
 address=/www.aihuishou.com/127.0.0.1	
 address=/www.gome.com.cn/127.0.0.1	
+address=/maimai.cn/127.0.0.1	
+address=/acc.maimai.cn/127.0.0.1	
 address=//@down	
 #down-2345
 address=/dl.2345.com/127.0.0.1	
@@ -8308,6 +8310,13 @@ address=/ss.sysad.cn/127.0.0.1
 address=/tongji.ads.yxdown.com/127.0.0.1	
 address=/w.sxzmj.cn/127.0.0.1	
 address=/xin.ygqczh.com/127.0.0.1	
+address=/ardmall.com/127.0.0.1	
+address=/dd.mangofortune.net/127.0.0.1	
+address=/m.gameyun907.net/127.0.0.1	
+address=/m.symac.cn/127.0.0.1	
+address=/ms.qaqact.cn/127.0.0.1	
+address=/o.08jm.cn/127.0.0.1	
+address=/zyf.fzdfwy.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
