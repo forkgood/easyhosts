@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201801272343
+#version=201801291821
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -7635,7 +7635,8 @@ address=/trafficfactory.biz/127.0.0.1
 address=/ad.adhouyi.cn/127.0.0.1	
 address=/ad.wang502.com/127.0.0.1	
 address=/pb.wang502.com/127.0.0.1	
-#gan-jxnews.com.cn
+address=/m.symaj.cn/127.0.0.1	
+address=/symaj.cn#gan-jxnews.com.cn/127.0.0.1	
 address=/ad.jxnews.com.cn/127.0.0.1	
 address=/adv.jxnews.com.cn/127.0.0.1	
 #gui-beihai365.com
@@ -8341,6 +8342,15 @@ address=/s.hnhgw.cn/127.0.0.1
 address=/s.zmyuer.com/127.0.0.1	
 address=/static.ppliuliang.com/127.0.0.1	
 address=/www.8269996.com/127.0.0.1	
+address=/app.hytdsm.com/127.0.0.1	
+address=/app.juwang.com/127.0.0.1	
+address=/drsw.m.yuyouge.com/127.0.0.1	
+address=/kbsdsd.ibangzhu.org/127.0.0.1	
+address=/koy8y.haiwon.com.cn/127.0.0.1	
+address=/mc.allxin.com/127.0.0.1	
+address=/nryiou.cn/127.0.0.1	
+address=/wxb.wxbdfm.com/127.0.0.1	
+address=/zx.baosmx.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
@@ -10657,6 +10667,7 @@ address=/web.kuaisouwifi.com/127.0.0.1
 address=/wy.ce22d.cn/127.0.0.1	
 address=/yun.sifuhe.cn/127.0.0.1	
 address=/yun.tuisnake.com/127.0.0.1	
+address=/cz01016102.ms758.com/127.0.0.1	
 address=//@hijack/x-router	
 address=/info.yitsoftware.com/127.0.0.1	
 address=//@popup	
