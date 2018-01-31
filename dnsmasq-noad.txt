@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201801291821
+#version=201801311938
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -5314,7 +5314,9 @@ address=/e-p4p.163.com/127.0.0.1
 address=/nex.163.com/127.0.0.1	
 #163-music
 address=/iadmat.nosdn.127.net/127.0.0.1	
+address=/yt-adp.nosdn.127.net/127.0.0.1	
 #youdao
+address=/dsp-click.youdao.com/127.0.0.1	
 address=/gorgon.youdao.com/127.0.0.1	
 address=/impservice.dictapp.youdao.com/127.0.0.1	
 address=/log.yex.youdao.com/127.0.0.1	
@@ -8351,6 +8353,12 @@ address=/mc.allxin.com/127.0.0.1
 address=/nryiou.cn/127.0.0.1	
 address=/wxb.wxbdfm.com/127.0.0.1	
 address=/zx.baosmx.com/127.0.0.1	
+address=/material.mtty.xin/127.0.0.1	
+address=/mtty-cdn.mtty.xin/127.0.0.1	
+address=/ds-pc.admsger.com/127.0.0.1	
+address=/stats.dmp.ghac.cn/127.0.0.1	
+address=/tj.tongjiwo.com/127.0.0.1	
+address=/weyyae.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
@@ -8818,6 +8826,7 @@ address=/click.tianyaui.com/127.0.0.1
 address=/pf.pchome.net/127.0.0.1	
 address=/pf-2.pchome.net/127.0.0.1	
 #www.douban.com
+address=/ad.doubanio.com/127.0.0.1	
 address=/erebor.douban.com/127.0.0.1	
 #www.hupu.com
 address=/cc.dace.hupu.com/127.0.0.1	
@@ -10545,8 +10554,6 @@ address=/o.minisplat.cn/127.0.0.1
 address=/u0.s.minisplat.cn/127.0.0.1	
 address=/u1.s.minisplat.cn/127.0.0.1	
 address=/u2.s.minisplat.cn/127.0.0.1	
-address=/mm.dopa.com.cn/127.0.0.1	
-address=/pd.dopa.com.cn/127.0.0.1	
 address=/api.dreamfull.cn/127.0.0.1	
 address=/i.dreamfull.cn/127.0.0.1	
 address=/144.dragonparking.com/127.0.0.1	
@@ -10563,7 +10570,14 @@ address=/ad.jsnbrynb.com/127.0.0.1
 address=/apppic.yingyongbei.com/127.0.0.1	
 address=/809.ok365.com/127.0.0.1	
 address=/818.ok365.com/127.0.0.1	
+address=/817.dopa.com/127.0.0.1	
+address=/818.dopa.com/127.0.0.1	
+address=/bd1.dopa.com/127.0.0.1	
+address=/bd2.dopa.com/127.0.0.1	
+address=/cloudcdn.dopa.com/127.0.0.1	
 address=/cloudcdn.dopa.com.cn/127.0.0.1	
+address=/mm.dopa.com.cn/127.0.0.1	
+address=/pd.dopa.com.cn/127.0.0.1	
 address=/pd.ok365.com/127.0.0.1	
 address=/www.ok365.com/127.0.0.1	
 address=/engine.tuia.cn/127.0.0.1	
