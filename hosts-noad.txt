@@ -5221,7 +5221,7 @@
 
 # Modified Hosts End
 
-#version=201802011726
+#version=20180202 031
 #url=https://github.com/vokins/yhosts
 @direct/1os
 #ios
@@ -6450,6 +6450,7 @@
 127.0.0.1 www.gome.com.cn
 127.0.0.1 maimai.cn
 127.0.0.1 acc.maimai.cn
+127.0.0.1 www.qianshengqian.com
 @down
 #down-2345
 127.0.0.1 dl.2345.com

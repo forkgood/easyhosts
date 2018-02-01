@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201802011726
+#version=20180202 031
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -6451,6 +6451,7 @@ www.aihuishou.com = 127.0.0.1
 www.gome.com.cn = 127.0.0.1	
 maimai.cn = 127.0.0.1	
 acc.maimai.cn = 127.0.0.1	
+www.qianshengqian.com = 127.0.0.1	
  = @down	
 #down-2345
 dl.2345.com = 127.0.0.1	

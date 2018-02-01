@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201802011726
+#version=20180202 031
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -6450,6 +6450,7 @@ address=/www.aihuishou.com/127.0.0.1
 address=/www.gome.com.cn/127.0.0.1	
 address=/maimai.cn/127.0.0.1	
 address=/acc.maimai.cn/127.0.0.1	
+address=/www.qianshengqian.com/127.0.0.1	
 address=//@down	
 #down-2345
 address=/dl.2345.com/127.0.0.1	
