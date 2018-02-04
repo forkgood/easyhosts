@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=20180202 031
+#version=201802042250
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8367,6 +8367,22 @@ address=/jumpe.58xmgys.com/127.0.0.1
 address=/m.miiuv.com/127.0.0.1	
 address=/e.miiuv.com/127.0.0.1	
 address=/fbc.ffychb.com/127.0.0.1	
+address=/e.bvoer.com/127.0.0.1	
+address=/m.bvoer.com/127.0.0.1	
+address=/m.icyrd.com/127.0.0.1	
+address=/e.icyrd.com/127.0.0.1	
+address=/e.xetvb.com/127.0.0.1	
+address=/m.xetvb.com/127.0.0.1	
+address=/m.lfdydk.com/127.0.0.1	
+address=/e.lfdydk.com/127.0.0.1	
+address=/c.bjtrh.net/127.0.0.1	
+address=/dsaewq.2039sw.org/127.0.0.1	
+address=/kn.qzdaren.com/127.0.0.1	
+address=/lpldpf.cnssdai.cn/127.0.0.1	
+address=/m.4z5o27.cn/127.0.0.1	
+address=/mass.mall044.com/127.0.0.1	
+address=/www.51dql.com/127.0.0.1	
+address=/www.kaitongyewu.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
@@ -10690,6 +10706,9 @@ address=/wy.ce22d.cn/127.0.0.1
 address=/yun.sifuhe.cn/127.0.0.1	
 address=/yun.tuisnake.com/127.0.0.1	
 address=/cz01016102.ms758.com/127.0.0.1	
+address=/js.ywsem.com/127.0.0.1	
+address=/c.ywsem.com/127.0.0.1	
+address=/s.051352.com/127.0.0.1	
 address=//@hijack/x-router	
 address=/info.yitsoftware.com/127.0.0.1	
 address=//@popup	
