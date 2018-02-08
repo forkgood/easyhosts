@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201802062113
+#version=201802081225
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8386,6 +8386,11 @@ address=/www.kaitongyewu.com/127.0.0.1
 address=/fxc.aiquxs.com/127.0.0.1	
 address=/pwj.biqugezw.com/127.0.0.1	
 address=/vmzqwz.cn/127.0.0.1	
+address=/e.tdtsd.com/127.0.0.1	
+address=/imgs.aiquxs.com/127.0.0.1	
+address=/imgs.biqugezw.com/127.0.0.1	
+address=/m.symag.cn/127.0.0.1	
+address=/www.geiyujieda.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
