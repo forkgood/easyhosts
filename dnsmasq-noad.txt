@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201802081225
+#version=201802091134
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -6686,7 +6686,6 @@ address=/gg.51cto.com/127.0.0.1
 address=/gg2.51cto.com/127.0.0.1	
 address=/gg3.51cto.com/127.0.0.1	
 address=/logs.51cto.com/127.0.0.1	
-#admin5.com
 #android.18183.com
 address=/eezdx.erc.18183.com/127.0.0.1	
 #anquan
@@ -6732,6 +6731,9 @@ address=/counter.csdn.net/127.0.0.1
 address=/dc.csdn.net/127.0.0.1	
 address=/dc2.csdn.net/127.0.0.1	
 address=/img.ads.csdn.net/127.0.0.1	
+address=/medal.blog.csdn.net/127.0.0.1	
+address=/cee1.iteye.com/127.0.0.1	
+address=/cee2.iteye.com/127.0.0.1	
 address=/mpb1.iteye.com/127.0.0.1	
 address=/mpb2.iteye.com/127.0.0.1	
 #dedecms.com
@@ -7009,6 +7011,9 @@ address=/up.cm.ksmobile.com/127.0.0.1
 address=/wtradv.market.xiaomi.com/127.0.0.1	
 #miui-wps
 address=/cloudservice13.kingsoft-office-service.com/127.0.0.1	
+address=/cloudservice22.kingsoft-office-service.com/127.0.0.1	
+address=/mo.res.wpscdn.cn/127.0.0.1	
+address=/mostat.wps.cn/127.0.0.1	
 address=/counter.kingsoft.com/127.0.0.1	
 address=/event.ksosoft.com/127.0.0.1	
 address=/uid.ksosoft.com/127.0.0.1	
@@ -8391,6 +8396,12 @@ address=/imgs.aiquxs.com/127.0.0.1
 address=/imgs.biqugezw.com/127.0.0.1	
 address=/m.symag.cn/127.0.0.1	
 address=/www.geiyujieda.com/127.0.0.1	
+address=/e.nwxzs.com/127.0.0.1	
+address=/js7129.dlkjgjmy.com/127.0.0.1	
+address=/m.nwxzs.com/127.0.0.1	
+address=/p.saozhu1.top/127.0.0.1	
+address=/www.qzgjprj.com/127.0.0.1	
+address=/www.szshouzhai.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
