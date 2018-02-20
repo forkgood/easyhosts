@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=20180219 930
+#version=20180220 926
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -6416,6 +6416,10 @@ address=/www.gome.com.cn/127.0.0.1
 address=/maimai.cn/127.0.0.1	
 address=/acc.maimai.cn/127.0.0.1	
 address=/www.qianshengqian.com/127.0.0.1	
+address=/s.tantanapp.com/127.0.0.1	
+address=/lp.tantanapp.com/127.0.0.1	
+address=/apk-ssl.tancdn.com/127.0.0.1	
+address=/tantanapp.com/127.0.0.1	
 address=//@down	
 #down-2345
 address=/dl.2345.com/127.0.0.1	
@@ -6756,11 +6760,6 @@ address=/count.pcpop.com/127.0.0.1
 address=/all.rising.com.cn/127.0.0.1	
 address=/game.rising.cn/127.0.0.1	
 address=/wan.rising.cn/127.0.0.1	
-#ruanmei
-address=/d.ruanmei.com/127.0.0.1	
-address=/down.ruanmei.com/127.0.0.1	
-address=/go.ruanmei.com/127.0.0.1	
-address=/m.ruanmei.com/127.0.0.1	
 #safedog.cn
 address=/404.safedog.cn/127.0.0.1	
 #www.2cto.com
@@ -8365,6 +8364,35 @@ address=/sa.woynet.com/127.0.0.1
 address=/tqd.ntpddq.com/127.0.0.1	
 address=/kn.barnfps.com/127.0.0.1	
 address=/c.ytvbn.cn/127.0.0.1	
+address=/a.m.gxwztv.com/127.0.0.1	
+address=/a.wlfnb.com/127.0.0.1	
+address=/api.ireai.cn/127.0.0.1	
+address=/api.rideraid.net/127.0.0.1	
+address=/ba.fqzds.com/127.0.0.1	
+address=/c.gzsanxiaomingshi.cn/127.0.0.1	
+address=/code.wantaico.com/127.0.0.1	
+address=/e.027blzs.com/127.0.0.1	
+address=/e.gglay.com/127.0.0.1	
+address=/e.jxxiangchu.com/127.0.0.1	
+address=/e.mrsasharingspace.com/127.0.0.1	
+address=/e.qvxyz.com/127.0.0.1	
+address=/e.yidulive.net/127.0.0.1	
+address=/html.yuntzs.com/127.0.0.1	
+address=/j.12306media.com/127.0.0.1	
+address=/js.adm.cnzz.net/127.0.0.1	
+address=/li.anyysz.com/127.0.0.1	
+address=/lkf1.m.sanhao3.com/127.0.0.1	
+address=/m.027blzs.com/127.0.0.1	
+address=/m.gglay.com/127.0.0.1	
+address=/m.sanjiangge.com/127.0.0.1	
+address=/mjs.csyymp4.com/127.0.0.1	
+address=/rc.fthcz.com/127.0.0.1	
+address=/rc.haodongkeji.cn/127.0.0.1	
+address=/soft.chaomeng8.com/127.0.0.1	
+address=/tongji.ads.yxdown.com/127.0.0.1	
+address=/www.zreder.com/127.0.0.1	
+address=/xin.ygqczh.com/127.0.0.1	
+address=/zx.baosmx.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
