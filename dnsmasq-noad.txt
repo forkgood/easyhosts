@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=20180221 937
+#version=201802241525
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -7317,6 +7317,8 @@ address=/s.de123.net/127.0.0.1
 address=/dc.vmoters.com/127.0.0.1	
 #rrys
 address=/pat.farvd.com/127.0.0.1	
+#adesk
+address=/service.ad.adesk.com/127.0.0.1	
 #halolauncher
 address=/h5.holalauncher.com/127.0.0.1	
 address=/i.holalauncher.com/127.0.0.1	
@@ -7621,6 +7623,8 @@ address=/ad.wang502.com/127.0.0.1
 address=/pb.wang502.com/127.0.0.1	
 address=/m.symaj.cn/127.0.0.1	
 address=/symaj.cn/127.0.0.1	
+#http://www.ttvdo.com
+address=/cndjs-1251973891.coshk.myqcloud.com/127.0.0.1	
 #gan-jxnews.com.cn
 address=/ad.jxnews.com.cn/127.0.0.1	
 address=/adv.jxnews.com.cn/127.0.0.1	
@@ -8395,6 +8399,14 @@ address=/xin.ygqczh.com/127.0.0.1
 address=/zx.baosmx.com/127.0.0.1	
 address=/1e2hyl3b.wq42211.com/127.0.0.1	
 address=/mc.allxin.com/127.0.0.1	
+address=/e.emgwq.com/127.0.0.1	
+address=/m.emgwq.com/127.0.0.1	
+address=/e.hellomingpian.com/127.0.0.1	
+address=/m.hellomingpian.com/127.0.0.1	
+address=/e.lzytt.com/127.0.0.1	
+address=/m.lzytt.com/127.0.0.1	
+address=/m.qvxyz.com/127.0.0.1	
+address=/e.ptrvc.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
