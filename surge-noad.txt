@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201802261102
+#version=201802271605
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -7626,6 +7626,8 @@ m.symaj.cn = 127.0.0.1
 symaj.cn = 127.0.0.1	
 #http://www.ttvdo.com
 cndjs-1251973891.coshk.myqcloud.com = 127.0.0.1	
+#jbzj.com
+jscode.jbzj.com = 127.0.0.1	
 #gan-jxnews.com.cn
 ad.jxnews.com.cn = 127.0.0.1	
 adv.jxnews.com.cn = 127.0.0.1	
@@ -8425,6 +8427,9 @@ c.ytbnm.cn = 127.0.0.1
 h1ng3lem8.m.lanseshuba.com = 127.0.0.1	
 m.kcooy.com = 127.0.0.1	
 pupu.xnhh120.com = 127.0.0.1	
+e.kcooy.com = 127.0.0.1	
+s.918jcw.com = 127.0.0.1	
+www.mengyuanwei.com = 127.0.0.1	
 #www.chinadaily.com.cn
 same.chinadaily.com.cn = 127.0.0.1	
 usercollection.chinadaily.com.cn = 127.0.0.1	

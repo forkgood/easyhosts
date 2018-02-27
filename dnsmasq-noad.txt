@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201802261102
+#version=201802271605
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -7625,6 +7625,8 @@ address=/m.symaj.cn/127.0.0.1
 address=/symaj.cn/127.0.0.1	
 #http://www.ttvdo.com
 address=/cndjs-1251973891.coshk.myqcloud.com/127.0.0.1	
+#jbzj.com
+address=/jscode.jbzj.com/127.0.0.1	
 #gan-jxnews.com.cn
 address=/ad.jxnews.com.cn/127.0.0.1	
 address=/adv.jxnews.com.cn/127.0.0.1	
@@ -8424,6 +8426,9 @@ address=/c.ytbnm.cn/127.0.0.1
 address=/h1ng3lem8.m.lanseshuba.com/127.0.0.1	
 address=/m.kcooy.com/127.0.0.1	
 address=/pupu.xnhh120.com/127.0.0.1	
+address=/e.kcooy.com/127.0.0.1	
+address=/s.918jcw.com/127.0.0.1	
+address=/www.mengyuanwei.com/127.0.0.1	
 #www.chinadaily.com.cn
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
