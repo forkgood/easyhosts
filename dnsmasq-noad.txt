@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201803061435
+#version=201803061709
 #url=https://github.com/vokins/yhosts
 address=//@direct/1os	
 #ios
@@ -8086,6 +8086,13 @@ address=/zzjs2.firefang.cn/127.0.0.1
 #www.xilu.com
 address=/1.xilu.com/127.0.0.1	
 address=/newspage.xilu.com/127.0.0.1	
+address=/e.lifuzhubao.com/127.0.0.1	
+address=/js2553.xjzyq.com/127.0.0.1	
+address=/kn.archrug.com/127.0.0.1	
+address=/m.dxmci.com/127.0.0.1	
+address=/m.lifuzhubao.com/127.0.0.1	
+address=/s.georgias.cn/127.0.0.1	
+address=/s.zgclmw.cn/127.0.0.1	
 address=/m.vvnna.com/127.0.0.1	
 address=/m.wxmg2016.com/127.0.0.1	
 address=/e.wxmg2016.com/127.0.0.1	
