@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201803061709
+#version=201803071357
 #url=https://github.com/vokins/yhosts
  = @direct/1os	
 #ios
@@ -7699,6 +7699,8 @@ symaj.cn = 127.0.0.1
 cndjs-1251973891.coshk.myqcloud.com = 127.0.0.1	
 #jbzj.com
 jscode.jbzj.com = 127.0.0.1	
+#m.babayu.com
+w.jscsd.cn = 127.0.0.1	
 #gan-jxnews.com.cn
 ad.jxnews.com.cn = 127.0.0.1	
 adv.jxnews.com.cn = 127.0.0.1	
@@ -8087,6 +8089,10 @@ zzjs2.firefang.cn = 127.0.0.1
 #www.xilu.com
 1.xilu.com = 127.0.0.1	
 newspage.xilu.com = 127.0.0.1	
+e.dxmci.com = 127.0.0.1	
+j.qijijs.top = 127.0.0.1	
+love.yy0555.com = 127.0.0.1	
+y.shuoshuocm.com = 127.0.0.1	
 e.lifuzhubao.com = 127.0.0.1	
 js2553.xjzyq.com = 127.0.0.1	
 kn.archrug.com = 127.0.0.1	
