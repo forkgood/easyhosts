@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=20180416 838
+#version=201804172310
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -5466,10 +5466,6 @@ temai.taobao.com = 127.0.0.1
 re.taobao.com = 127.0.0.1	
 re.m.taobao.com = 127.0.0.1	
 show.re.taobao.com = 127.0.0.1	
-g.click.taobao.com = 127.0.0.1	
-i.click.taobao.com = 127.0.0.1	
-s.click.taobao.com = 127.0.0.1	
-s.click.tmall.com = 127.0.0.1	
 click.mz.simba.taobao.com = 127.0.0.1	
 click.simba.taobao.com = 127.0.0.1	
 click.tz.simba.taobao.com = 127.0.0.1	
@@ -7503,6 +7499,12 @@ js.firefang.cn = 127.0.0.1
 zzjs2.firefang.cn = 127.0.0.1	
 1.xilu.com = 127.0.0.1	
 newspage.xilu.com = 127.0.0.1	
+c.wechat.jx.cn = 127.0.0.1	
+sy.jlhygy.com = 127.0.0.1	
+user.tiankongzudui.com = 127.0.0.1	
+www.57.com.cn = 127.0.0.1	
+www.588yw.com = 127.0.0.1	
+www.hunpingou.com = 127.0.0.1	
 ass.wkbmw.cn = 127.0.0.1	
 e.bbvjs.com = 127.0.0.1	
 e.focuscat.com = 127.0.0.1	

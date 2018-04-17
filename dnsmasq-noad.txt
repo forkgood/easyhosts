@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=20180416 838
+#version=201804172310
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5465,10 +5465,6 @@ address=/temai.taobao.com/127.0.0.1
 address=/re.taobao.com/127.0.0.1	
 address=/re.m.taobao.com/127.0.0.1	
 address=/show.re.taobao.com/127.0.0.1	
-address=/g.click.taobao.com/127.0.0.1	
-address=/i.click.taobao.com/127.0.0.1	
-address=/s.click.taobao.com/127.0.0.1	
-address=/s.click.tmall.com/127.0.0.1	
 address=/click.mz.simba.taobao.com/127.0.0.1	
 address=/click.simba.taobao.com/127.0.0.1	
 address=/click.tz.simba.taobao.com/127.0.0.1	
@@ -7502,6 +7498,12 @@ address=/js.firefang.cn/127.0.0.1
 address=/zzjs2.firefang.cn/127.0.0.1	
 address=/1.xilu.com/127.0.0.1	
 address=/newspage.xilu.com/127.0.0.1	
+address=/c.wechat.jx.cn/127.0.0.1	
+address=/sy.jlhygy.com/127.0.0.1	
+address=/user.tiankongzudui.com/127.0.0.1	
+address=/www.57.com.cn/127.0.0.1	
+address=/www.588yw.com/127.0.0.1	
+address=/www.hunpingou.com/127.0.0.1	
 address=/ass.wkbmw.cn/127.0.0.1	
 address=/e.bbvjs.com/127.0.0.1	
 address=/e.focuscat.com/127.0.0.1	
