@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=20180501 940
+#version=201805022317
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5455,6 +5455,7 @@ address=/ope.tanx.com/127.0.0.1
 address=/rdstat.tanx.com/127.0.0.1	
 address=/toruk.tanx.com/127.0.0.1	
 address=/agoodm.m.taobao.com/127.0.0.1	
+address=/agoodm.wapa.taobao.com/127.0.0.1	
 address=/apoll.m.taobao.com/127.0.0.1	
 address=/unitacs.m.taobao.com/127.0.0.1	
 address=/w.m.taobao.com/127.0.0.1	
@@ -12005,7 +12006,6 @@ address=/store.xl.api.3g.youku.com/127.0.0.1
 address=/urchin.lstat.youku.com/127.0.0.1	
 address=/valo.atm.youku.com/127.0.0.1	
 address=/wan.youku.com/127.0.0.1	
-address=/vali.cp31.ott.cibntv.net/127.0.0.1	
 address=/cms.laifeng.com/127.0.0.1	
 address=/ld.kuaigames.com/127.0.0.1	
 address=/rd.kuaigames.com/127.0.0.1	
