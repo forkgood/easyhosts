@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201805261931
+#version=201805262224
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5544,7 +5544,6 @@ address=/ecmb.bdimg.com/127.0.0.1
 address=/ecmc.bdimg.com/127.0.0.1	
 address=/su.bdimg.com/127.0.0.1	
 address=/ae.bdstatic.com/127.0.0.1	
-address=/b.bdstatic.com/127.0.0.1	
 address=/cpro.baidustatic.com/127.0.0.1	
 address=/cpro2.baidustatic.com/127.0.0.1	
 address=/dup.baidustatic.com/127.0.0.1	
