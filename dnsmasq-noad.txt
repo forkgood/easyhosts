@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201805261711
+#version=201805261849
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7274,6 +7274,10 @@ address=/abc.sundxs.com/127.0.0.1
 address=/b.sundxs.com/127.0.0.1	
 address=/lm.dawenxue.org/127.0.0.1	
 address=/img.dawenxue.org/127.0.0.1	
+address=/bd-s.baixing.net/127.0.0.1	
+address=/bd-js.baixing.net/127.0.0.1	
+address=/src.zf313.com/127.0.0.1	
+address=/ssp.kjwx8.com/127.0.0.1	
 address=/c.69shuwu.com/127.0.0.1	
 address=/s.69shuwu.com/127.0.0.1	
 address=/ow.biqugego.com/127.0.0.1	

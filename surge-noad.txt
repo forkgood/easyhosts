@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201805261711
+#version=201805261849
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -7275,6 +7275,10 @@ abc.sundxs.com = 127.0.0.1
 b.sundxs.com = 127.0.0.1	
 lm.dawenxue.org = 127.0.0.1	
 img.dawenxue.org = 127.0.0.1	
+bd-s.baixing.net = 127.0.0.1	
+bd-js.baixing.net = 127.0.0.1	
+src.zf313.com = 127.0.0.1	
+ssp.kjwx8.com = 127.0.0.1	
 c.69shuwu.com = 127.0.0.1	
 s.69shuwu.com = 127.0.0.1	
 ow.biqugego.com = 127.0.0.1	
