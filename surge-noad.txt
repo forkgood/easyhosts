@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201806042259
+#version=201806042332
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -7477,6 +7477,12 @@ js.firefang.cn = 127.0.0.1
 zzjs2.firefang.cn = 127.0.0.1	
 1.xilu.com = 127.0.0.1	
 newspage.xilu.com = 127.0.0.1	
+c.mightiger.net = 127.0.0.1	
+m.mightiger.net = 127.0.0.1	
+www.langjiyisheng.com = 127.0.0.1	
+xfo.monesyy.com = 127.0.0.1	
+www.somennew.com = 127.0.0.1	
+www.ytdksb.com = 127.0.0.1	
 druic.mytxt.cc = 127.0.0.1	
 druis.mytxt.cc = 127.0.0.1	
 e.0531mnk.net = 127.0.0.1	
