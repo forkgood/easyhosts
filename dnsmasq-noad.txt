@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201806131649
+#version=20180614 943
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5872,7 +5872,6 @@ address=/tran.mediav.com/127.0.0.1
 address=/view.mediav.com/127.0.0.1	
 address=/www.mediav.com/127.0.0.1	
 address=/xd.mediav.com/127.0.0.1	
-address=/c.bing.com/127.0.0.1	
 address=/c.msn.com/127.0.0.1	
 address=/otf.msn.com/127.0.0.1	
 address=/aeventlog.beacon.qq.com/127.0.0.1	
