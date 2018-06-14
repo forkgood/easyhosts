@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=20180614 943
+#version=201806141105
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5819,6 +5819,7 @@ address=/googleads.g.doubleclick.net/127.0.0.1
 address=/pubads.g.doubleclick.net/127.0.0.1	
 address=/securepubads.g.doubleclick.net/127.0.0.1	
 address=/static.doubleclick.net/127.0.0.1	
+address=/adservice.google.com/127.0.0.1	
 address=/pagead2.googlesyndication.com/127.0.0.1	
 address=/tpc.googlesyndication.com/127.0.0.1	
 address=/partner.googleadservices.com/127.0.0.1	
@@ -9908,7 +9909,7 @@ address=/www.youka.la/127.0.0.1
 address=/bixia.fymm.cn/127.0.0.1	
 address=/q1scv.vov0.com/127.0.0.1	
 address=/www.yiluup.com/127.0.0.1	
-address=/http://www.cqsta.com/cc/sh.js/127.0.0.1	
+address=/www.cqsta.com/127.0.0.1	
 address=/info.yitsoftware.com/127.0.0.1	
 address=/adgeo.163.com/127.0.0.1	
 address=/iad.g.163.com/127.0.0.1	
