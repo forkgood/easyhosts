@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201806251428
+#version=201806251509
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7468,6 +7468,16 @@ address=/js.firefang.cn/127.0.0.1
 address=/zzjs2.firefang.cn/127.0.0.1	
 address=/1.xilu.com/127.0.0.1	
 address=/newspage.xilu.com/127.0.0.1	
+address=/api.newbelden.com/127.0.0.1	
+address=/a6.bjdianyue.com/127.0.0.1	
+address=/a6.taobanapp.com/127.0.0.1	
+address=/c6.bjdianyue.com/127.0.0.1	
+address=/chaojilamei.cn/127.0.0.1	
+address=/js.saiqizhi.com/127.0.0.1	
+address=/m.ienkdago.cn/127.0.0.1	
+address=/m.wgewj.cn/127.0.0.1	
+address=/ms.sysapr.cn/127.0.0.1	
+address=/p.bjdianyue.com/127.0.0.1	
 address=/app.9yyg.cn/127.0.0.1	
 address=/ad.stsywl.com/127.0.0.1	
 address=/img.cxxyft.com/127.0.0.1	
