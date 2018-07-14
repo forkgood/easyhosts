@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201807102248
+#version=201807142101
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7515,6 +7515,13 @@ address=/js.firefang.cn/127.0.0.1
 address=/zzjs2.firefang.cn/127.0.0.1	
 address=/1.xilu.com/127.0.0.1	
 address=/newspage.xilu.com/127.0.0.1	
+address=/code1fa.m.shushu8.com/127.0.0.1	
+address=/dcw.hdswgc.com/127.0.0.1	
+address=/e.deimm.com/127.0.0.1	
+address=/e.zunss.com/127.0.0.1	
+address=/m.pieaa.com/127.0.0.1	
+address=/m.zaoss.com/127.0.0.1	
+address=/www.bewaycare.com/127.0.0.1	
 address=/c.zxyywdj.org/127.0.0.1	
 address=/e.dunmm.com/127.0.0.1	
 address=/e.pwjhg.com/127.0.0.1	
