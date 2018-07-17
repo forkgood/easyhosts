@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201807142101
+#version=201807171651
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5258,7 +5258,6 @@ address=/img2.126.net/127.0.0.1
 address=/img3.126.net/127.0.0.1	
 address=/pimg1.126.net/127.0.0.1	
 address=/acstatic-dun.126.net/127.0.0.1	
-address=/static.ws.126.net/127.0.0.1	
 address=/webstat.ws.126.net/127.0.0.1	
 address=/analytics.163.com/127.0.0.1	
 address=/e-p4p.163.com/127.0.0.1	
@@ -5273,9 +5272,7 @@ address=/gorgon.youdao.com/127.0.0.1
 address=/impservice.dictapp.youdao.com/127.0.0.1	
 address=/log.yex.youdao.com/127.0.0.1	
 address=/ydpushserver.youdao.com/127.0.0.1	
-address=/img4.cache.netease.com/127.0.0.1	
-address=/img6.cache.netease.com/127.0.0.1	
-address=/img5.cache.netease.com/127.0.0.1	
+
 address=/api.so.lianmeng.360.cn/127.0.0.1	
 address=/cm.lianmeng.360.cn/127.0.0.1	
 address=/s.lianmeng.360.cn/127.0.0.1	
@@ -7515,6 +7512,17 @@ address=/js.firefang.cn/127.0.0.1
 address=/zzjs2.firefang.cn/127.0.0.1	
 address=/1.xilu.com/127.0.0.1	
 address=/newspage.xilu.com/127.0.0.1	
+address=/e.cuomm.com/127.0.0.1	
+address=/e.wonwg.com/127.0.0.1	
+address=/e.xeihy.com/127.0.0.1	
+address=/m.cuoss.com/127.0.0.1	
+address=/m.mouaa.com/127.0.0.1	
+address=/m.wonwg.com/127.0.0.1	
+address=/m.xeihy.com/127.0.0.1	
+address=/qj.borsendental.com/127.0.0.1	
+address=/ssh.yezijizhang.com/127.0.0.1	
+address=/www.fccxgjg.com/127.0.0.1	
+address=/www.ydqzkj.com/127.0.0.1	
 address=/code1fa.m.shushu8.com/127.0.0.1	
 address=/dcw.hdswgc.com/127.0.0.1	
 address=/e.deimm.com/127.0.0.1	
