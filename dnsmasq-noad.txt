@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201807181406
+#version=201807181437
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -8011,7 +8011,6 @@ address=/qweqwe.mctvhp.cn/127.0.0.1
 address=/www.mpzw.com/127.0.0.1	
 address=/www.vangmobi.com/127.0.0.1	
 address=/xpe.cxaerp.com/127.0.0.1	
-address=/7xkfic.com2.z0.glb.qiniucdn.com/127.0.0.1	
 address=/mc.hujiang.com/127.0.0.1	
 address=/cpv-adv.ggytc.com/127.0.0.1	
 address=/s2.dnaxddnc.com/127.0.0.1	
