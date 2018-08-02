@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201808011243
+#version=201808021659
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -9260,6 +9260,26 @@ address=/zzy.mipujia.com/127.0.0.1
 address=/zzy1.mipujia.com/127.0.0.1	
 address=/zzz7.52896368.com/127.0.0.1	
 address=/zzzzz4.52896368.com/127.0.0.1	
+address=/6a4cc.leygv.com/127.0.0.1	
+address=/api.rideraid.net/127.0.0.1	
+address=/ba.fqzds.com/127.0.0.1	
+address=/e.danrs.com/127.0.0.1	
+address=/e.huaas.com/127.0.0.1	
+address=/e.xdkje.com/127.0.0.1	
+address=/e.yidulive.net/127.0.0.1	
+address=/f.yueyetiyu.com/127.0.0.1	
+address=/gpydym.cn/127.0.0.1	
+address=/ioc.mmakd.top/127.0.0.1	
+address=/li.anyysz.com/127.0.0.1	
+address=/m.cenrs.com/127.0.0.1	
+address=/m.couas.com/127.0.0.1	
+address=/sc.58mingtian.cn/127.0.0.1	
+address=/ssl.hyhzy.cn/127.0.0.1	
+address=/www.fjlqqc.com/127.0.0.1	
+address=/www.hzyuw.com/127.0.0.1	
+address=/xin.ygqczh.com/127.0.0.1	
+address=/yumcs.xiaohuau.xyz/127.0.0.1	
+address=/zx.baosmx.com/127.0.0.1	
 address=/same.chinadaily.com.cn/127.0.0.1	
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
 address=/me.afp.chinanews.com/127.0.0.1	
