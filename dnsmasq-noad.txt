@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201808242352
+#version=201808272143
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5552,6 +5552,7 @@ address=/river.zhidao.baidu.com/127.0.0.1
 address=/s.cpro.baidu.com/127.0.0.1	
 address=/wangmeng.baidu.com/127.0.0.1	
 address=/wn.pos.baidu.com/127.0.0.1	
+address=/yingxiao.baidu.com/127.0.0.1	
 address=/ecma.bdimg.com/127.0.0.1	
 address=/ecmb.bdimg.com/127.0.0.1	
 address=/ecmc.bdimg.com/127.0.0.1	
@@ -7185,6 +7186,11 @@ address=/sou.dkdlsj.com/127.0.0.1
 address=/vwkhdi.cn/127.0.0.1	
 address=/wzj.ywrjgzs.com/127.0.0.1	
 address=/yao.zzsdjq.com/127.0.0.1	
+address=/1.bashenghuo.com/127.0.0.1	
+address=/2.bashenghuo.com/127.0.0.1	
+address=/1.hslyqs.com/127.0.0.1	
+address=/01daa.luvbr.com/127.0.0.1	
+address=/6a4cc.luvbr.com/127.0.0.1	
 address=/a.tribalfusion.com/127.0.0.1	
 address=/acuityplatform.com/127.0.0.1	
 address=/ad-delivery.net/127.0.0.1	
