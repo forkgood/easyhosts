@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201808281558
+#version=201808312304
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5307,6 +5307,7 @@ address=/haostat.qihoo.com/127.0.0.1
 address=/s.sh.qihoo.com/127.0.0.1	
 address=/res.qhupdate.com/127.0.0.1	
 address=/tran.news.so.com/127.0.0.1	
+address=/spro.so.com/127.0.0.1	
 address=/u.api.look.360.cn/127.0.0.1	
 address=/ad.dev.360.cn/127.0.0.1	
 address=/ad.gamebox.360.cn/127.0.0.1	
@@ -7204,6 +7205,18 @@ address=/m.fbaix.com/127.0.0.1
 address=/m.casbanlly.com/127.0.0.1	
 address=/c.v4dwkcv.com/127.0.0.1	
 address=/j.sdqoi2d.com/127.0.0.1	
+address=/e.bsnnk.com/127.0.0.1	
+address=/e.coenr.com/127.0.0.1	
+address=/e.enjuk.com/127.0.0.1	
+address=/e.fbaix.com/127.0.0.1	
+address=/m.acaox.com/127.0.0.1	
+address=/m.bsnnk.com/127.0.0.1	
+address=/m.coenr.com/127.0.0.1	
+address=/m.enjuk.com/127.0.0.1	
+address=/m.fcuit.com/127.0.0.1	
+address=/m.vbinu.com/127.0.0.1	
+address=/xau.sxmutan.com/127.0.0.1	
+address=/e.acaox.com/127.0.0.1	
 address=/a.tribalfusion.com/127.0.0.1	
 address=/acuityplatform.com/127.0.0.1	
 address=/ad-delivery.net/127.0.0.1	
