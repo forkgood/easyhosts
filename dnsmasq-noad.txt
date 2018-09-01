@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201809012019
+#version=201809012134
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -6666,6 +6666,7 @@ address=/dvb.pandora.xiaomi.com/127.0.0.1
 address=/jellyfish.pandora.xiaomi.com/127.0.0.1	
 address=/stat.pandora.xiaomi.com/127.0.0.1	
 address=/irs01.com/127.0.0.1	
+address=/mivideo.g.mi.com/127.0.0.1	
 address=/inside.bitcomet.com/127.0.0.1	
 address=/info.gomlab.com/127.0.0.1	
 address=/playinfo.gomlab.com/127.0.0.1	
