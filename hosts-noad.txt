@@ -5221,7 +5221,7 @@
 
 # Modified Hosts End
 
-#version=201809122135
+#version=201809122230
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
