@@ -5221,7 +5221,7 @@
 
 # Modified Hosts End
 
-#version=201809111113
+#version=201809122135
 #url=https://github.com/vokins/yhosts
 127.0.0.1 activate.adobe.com
 127.0.0.1 ereg.adobe.com
@@ -7270,6 +7270,12 @@
 127.0.0.1 m.djhhy.com
 127.0.0.1 m.mqgpo.com
 127.0.0.1 m.xxkio.com
+127.0.0.1 kn.jzhrty.cn
+127.0.0.1 photo.shyexiang.cn
+127.0.0.1 u.qijipc.com
+127.0.0.1 www.fastcache.com.cn
+127.0.0.1 xiaoshuo.zhandao.net
+127.0.0.1 yxs.tymsyx.com
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-delivery.net
