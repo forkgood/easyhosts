@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201809271245
+#version=201809271738
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -6658,15 +6658,24 @@ address=/tracking.miui.com/127.0.0.1
 address=/beha.ksmobile.com/127.0.0.1	
 address=/up.cm.ksmobile.com/127.0.0.1	
 address=/wtradv.market.xiaomi.com/127.0.0.1	
+address=/cloudservice12.kingsoft-office-service.com/127.0.0.1	
 address=/cloudservice13.kingsoft-office-service.com/127.0.0.1	
 address=/cloudservice22.kingsoft-office-service.com/127.0.0.1	
+address=/cloudservice27.kingsoft-office-service.com/127.0.0.1	
+address=/moupdate1.kingsoft-office-service.com/127.0.0.1	
 address=/mo.res.wpscdn.cn/127.0.0.1	
+address=/crashes.mo.wps.cn/127.0.0.1	
+address=/ic.wps.cn/127.0.0.1	
 address=/mostat.wps.cn/127.0.0.1	
 address=/counter.kingsoft.com/127.0.0.1	
 address=/event.ksosoft.com/127.0.0.1	
+address=/haiwai-ic.ksosoft.com/127.0.0.1	
+address=/hoplink.ksosoft.com/127.0.0.1	
 address=/uid.ksosoft.com/127.0.0.1	
 address=/ups.ksmobile.net/127.0.0.1	
 address=/ws.ksmobile.net/127.0.0.1	
+address=/info.meihua.docer.com/127.0.0.1	
+address=/book.rdtuijian.com/127.0.0.1	
 address=/bss.pandora.xiaomi.com/127.0.0.1	
 address=/de.pandora.xiaomi.com/127.0.0.1	
 address=/dvb.pandora.xiaomi.com/127.0.0.1	
