@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201810131635
+#version=201810132319
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5233,6 +5233,7 @@ address=/na2m-pr.licenses.adobe.com/127.0.0.1
 address=/serial.alcohol-soft.com/127.0.0.1	
 address=/trial.alcohol-soft.com/127.0.0.1	
 address=/licenses.ashampoo.com/127.0.0.1	
+address=/activation.phaseone.com/127.0.0.1	
 address=/dbregistration.cuteftp.com/127.0.0.1	
 address=/activation.cyberlink.com/127.0.0.1	
 address=/cap.cyberlink.com/127.0.0.1	
