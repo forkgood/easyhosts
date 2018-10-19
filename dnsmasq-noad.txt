@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201810181818
+#version=201810191906
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -6059,7 +6059,6 @@ address=/saxs.sina.com.cn/127.0.0.1
 address=/sbeacon.sina.com.cn/127.0.0.1	
 address=/slog.sina.com.cn/127.0.0.1	
 address=/staticadm.leju.sina.com.cn/127.0.0.1	
-address=/woocall.sina.com.cn/127.0.0.1	
 address=/pfpip.sina.com/127.0.0.1	
 address=/2016.sina.cn/127.0.0.1	
 address=/adimg.mobile.sina.cn/127.0.0.1	
@@ -7270,6 +7269,15 @@ address=/kn.ylrca.cn/127.0.0.1
 address=/photo.headwell.cn/127.0.0.1	
 address=/sjs.jcshouhui.com/127.0.0.1	
 address=/ycy.hyjyjc.com/127.0.0.1	
+address=/i4.fuimg.com/127.0.0.1	
+address=/cgzu.b0lc.cn/127.0.0.1	
+address=/e.imiek.com/127.0.0.1	
+address=/e.uchij.com/127.0.0.1	
+address=/m.imiek.com/127.0.0.1	
+address=/m.tbinq.com/127.0.0.1	
+address=/m.uchij.com/127.0.0.1	
+address=/qm.iruik.com/127.0.0.1	
+address=/www.93vitoo.com/127.0.0.1	
 address=/a.tribalfusion.com/127.0.0.1	
 address=/acuityplatform.com/127.0.0.1	
 address=/ad-delivery.net/127.0.0.1	
