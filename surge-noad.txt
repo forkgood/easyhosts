@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201810191906
+#version=201810202216
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -5859,6 +5859,7 @@ pubads.g.doubleclick.net = 127.0.0.1
 securepubads.g.doubleclick.net = 127.0.0.1	
 static.doubleclick.net = 127.0.0.1	
 adservice.google.com = 127.0.0.1	
+ade.googlesyndication.com = 127.0.0.1	
 pagead2.googlesyndication.com = 127.0.0.1	
 tpc.googlesyndication.com = 127.0.0.1	
 partner.googleadservices.com = 127.0.0.1	
