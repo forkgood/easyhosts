@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201810251506
+#version=201810251534
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -6967,8 +6967,10 @@ address=/ads1.lfengmobile.com/127.0.0.1
 address=/shrek.6.cn/127.0.0.1	
 address=/sclick.6rooms.com/127.0.0.1	
 address=/ad.huajiao.com/127.0.0.1	
+address=/p2p.huya.com/127.0.0.1	
 address=/mlog.hiido.com/127.0.0.1	
 address=/ylog.hiido.com/127.0.0.1	
+address=/v.smtcdns.net/127.0.0.1	
 address=/jrlt.beacon.qq.com/127.0.0.1	
 address=/log.tbs.qq.com/127.0.0.1	
 address=/activeqq.3g.qq.com/127.0.0.1	
