@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201811012339
+#version=201811031930
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -7356,6 +7356,12 @@ c.xilongfuwu.com = 127.0.0.1
 e.ejuen.com = 127.0.0.1	
 s.uca6.com = 127.0.0.1	
 x.niuliyan.cn = 127.0.0.1	
+e.xkena.com = 127.0.0.1	
+htvh.vf5yb4.cn = 127.0.0.1	
+m.sbief.com = 127.0.0.1	
+m.xidexableact.cn = 127.0.0.1	
+m.xkena.com = 127.0.0.1	
+m.ybaoh.com = 127.0.0.1	
 m.ilancc.com = 127.0.0.1	
 y.ilancc.com = 127.0.0.1	
 a.tribalfusion.com = 127.0.0.1	
