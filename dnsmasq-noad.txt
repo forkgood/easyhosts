@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201811111505
+#version=201811121402
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7233,7 +7233,6 @@ address=/e.mbiek.com/127.0.0.1
 address=/e.scouc.com/127.0.0.1	
 address=/e.uzhaj.com/127.0.0.1	
 address=/h.txt2017.com/127.0.0.1	
-address=/m.fpzw.com/127.0.0.1	
 address=/m.mbiek.com/127.0.0.1	
 address=/m.mcaik.com/127.0.0.1	
 address=/m.scouc.com/127.0.0.1	

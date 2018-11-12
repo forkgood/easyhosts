@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201811111505
+#version=201811121402
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -7234,7 +7234,6 @@ e.mbiek.com = 127.0.0.1
 e.scouc.com = 127.0.0.1	
 e.uzhaj.com = 127.0.0.1	
 h.txt2017.com = 127.0.0.1	
-m.fpzw.com = 127.0.0.1	
 m.mbiek.com = 127.0.0.1	
 m.mcaik.com = 127.0.0.1	
 m.scouc.com = 127.0.0.1	
