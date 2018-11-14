@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201811141708
+#version=201811141734
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5868,7 +5868,6 @@ address=/ssl.google-analytics.com/127.0.0.1
 address=/www.google-analytics.com/127.0.0.1	
 address=/www.googletagservices.com/127.0.0.1	
 address=/bdsp.x.jd.com/127.0.0.1	
-address=/ccc-x.jd.com/127.0.0.1	
 address=/cm.jd.com/127.0.0.1	
 address=/gia.jd.com/127.0.0.1	
 address=/im-x.jd.com/127.0.0.1	
