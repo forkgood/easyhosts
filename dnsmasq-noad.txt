@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201811262220
+#version=201811281939
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -6088,7 +6088,6 @@ address=/beacon.sina.com.cn/127.0.0.1
 address=/count.video.sina.com.cn/127.0.0.1	
 address=/counter.sina.com.cn/127.0.0.1	
 address=/cre.mix.sina.com.cn/127.0.0.1	
-address=/current.sina.com.cn/127.0.0.1	
 address=/d0.sina.com.cn/127.0.0.1	
 address=/d00.sina.com.cn/127.0.0.1	
 address=/d1.sina.com.cn/127.0.0.1	
@@ -7256,6 +7255,15 @@ address=/stat.zuimeitianqi.com/127.0.0.1
 address=/business.inveno.com/127.0.0.1	
 address=/zuimeitianqi.inveno.com/127.0.0.1	
 address=/update.coolyun.com/127.0.0.1	
+address=/e.tchep.com/127.0.0.1	
+address=/e.xdunv.com/127.0.0.1	
+address=/m.iangp.com/127.0.0.1	
+address=/m.sfanf.com/127.0.0.1	
+address=/m.tchep.com/127.0.0.1	
+address=/m.whsjg.cn/127.0.0.1	
+address=/m.xdunv.com/127.0.0.1	
+address=/sypd.w13qh.cn/127.0.0.1	
+address=/y.unilz588.com/127.0.0.1	
 address=/m.ilancc.com/127.0.0.1	
 address=/y.ilancc.com/127.0.0.1	
 address=/x.dami66.cn/127.0.0.1	
