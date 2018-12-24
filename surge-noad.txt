@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201812241318
+#version=201812242028
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -5571,10 +5571,6 @@ bdplus.baidu.com = 127.0.0.1
 btlaunch.baidu.com = 127.0.0.1	
 datax.baidu.com = 127.0.0.1	
 openrcv.baidu.com = 127.0.0.1	
-cpu.baidu.com = 127.0.0.1	
-cpu-admin.baidu.com = 127.0.0.1	
-hpd.baidu.com = 127.0.0.1	
-feed.baidu.com = 127.0.0.1	
 bj.bcebos.com = 127.0.0.1	
 tob-cms.bj.bcebos.com = 127.0.0.1	
 wenku-cms.bj.bcebos.com = 127.0.0.1	
