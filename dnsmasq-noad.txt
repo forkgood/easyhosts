@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201812272301
+#version=201812301851
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7282,6 +7282,17 @@ address=/photo.jiaxiyuan.cn/127.0.0.1
 address=/rbbf.07kfh.cn/127.0.0.1	
 address=/x.9zt8hy.com/127.0.0.1	
 address=/xiny.yssbi.net/127.0.0.1	
+address=/e.zcaod.com/127.0.0.1	
+address=/m.vbinr.com/127.0.0.1	
+address=/m.zcaod.com/127.0.0.1	
+address=/photo.ofsja.cn/127.0.0.1	
+address=/e.glvej.com/127.0.0.1	
+address=/e.xcouv.com/127.0.0.1	
+address=/ixnj.8j24h.cn/127.0.0.1	
+address=/m.glvej.com/127.0.0.1	
+address=/m.izuis.com/127.0.0.1	
+address=/m.wbaoz.com/127.0.0.1	
+address=/m.xcouv.com/127.0.0.1	
 address=/a.tribalfusion.com/127.0.0.1	
 address=/acuityplatform.com/127.0.0.1	
 address=/ad-delivery.net/127.0.0.1	
@@ -9968,7 +9979,6 @@ address=/yumcs.xiaohuau.xyz/127.0.0.1
 address=/yunbofangbt.com/127.0.0.1	
 address=/yundingjiayuan.com/127.0.0.1	
 address=/yxs.tymsyx.com/127.0.0.1	
-address=/yyb.pc6.com/127.0.0.1	
 address=/yyffeicd.m.qxs.la/127.0.0.1	
 address=/yzh.jyjhkz.com/127.0.0.1	
 address=/z.moatads.com/127.0.0.1	
