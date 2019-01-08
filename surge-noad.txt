@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=201901061119
+#version=201901081332
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -7177,7 +7177,6 @@ news-img.51y5.net = 127.0.0.1
 news-log.51y5.net = 127.0.0.1	
 news.51y5.net = 127.0.0.1	
 push-dc.51y5.net = 127.0.0.1	
-wifiapi02.51y5.net = 127.0.0.1	
 c.wkanx.com = 127.0.0.1	
 c1.wkanx.com = 127.0.0.1	
 static.wkanx.com = 127.0.0.1	
@@ -7313,6 +7312,9 @@ m.enrogwm.cn = 127.0.0.1
 a.wanrenshe.com = 127.0.0.1	
 m.msujd.cn = 127.0.0.1	
 m.xcfwnhj.cn = 127.0.0.1	
+jyfght.cn = 127.0.0.1	
+qoub.rtslgov.cn = 127.0.0.1	
+www.nnnwwwe.com = 127.0.0.1	
 a.tribalfusion.com = 127.0.0.1	
 acuityplatform.com = 127.0.0.1	
 ad-delivery.net = 127.0.0.1	
