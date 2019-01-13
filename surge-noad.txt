@@ -5222,7 +5222,7 @@ r6---sn-npoeen7r.googlevideo.com = 209.85.229.252
 
 # Modified Hosts End
 
-#version=20190112 942
+#version=201901132335
 #url=https://github.com/vokins/yhosts
 activate.adobe.com = 127.0.0.1	
 ereg.adobe.com = 127.0.0.1	
@@ -7210,6 +7210,7 @@ stat.zuimeitianqi.com = 127.0.0.1
 business.inveno.com = 127.0.0.1	
 zuimeitianqi.inveno.com = 127.0.0.1	
 update.coolyun.com = 127.0.0.1	
+e.wdeie.com = 127.0.0.1	
 a.tribalfusion.com = 127.0.0.1	
 acuityplatform.com = 127.0.0.1	
 ad-delivery.net = 127.0.0.1	
