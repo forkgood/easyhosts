@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201901242255
+#version=20190127 931
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5537,6 +5537,7 @@ address=/cpro.baidu.com/127.0.0.1
 address=/crs.baidu.com/127.0.0.1	
 address=/eclick.baidu.com/127.0.0.1	
 address=/eiv.baidu.com/127.0.0.1	
+address=/em.baidu.com/127.0.0.1	
 address=/entry.baidu.com/127.0.0.1	
 address=/hm.baidu.com/127.0.0.1	
 address=/idm-su.baidu.com/127.0.0.1	
@@ -7210,6 +7211,18 @@ address=/stat.zuimeitianqi.com/127.0.0.1
 address=/business.inveno.com/127.0.0.1	
 address=/zuimeitianqi.inveno.com/127.0.0.1	
 address=/update.coolyun.com/127.0.0.1	
+address=/s1.leshi123.cc/127.0.0.1	
+address=/s2.leshi123.cc/127.0.0.1	
+address=/anhm.acv5e.cn/127.0.0.1	
+address=/e.ayues.com/127.0.0.1	
+address=/e.yjiaj.com/127.0.0.1	
+address=/m.ayues.com/127.0.0.1	
+address=/m.bkuax.com/127.0.0.1	
+address=/m.yjiaj.com/127.0.0.1	
+address=/photo.ccjxybj.cn/127.0.0.1	
+address=/www.chenyanjiao.cn/127.0.0.1	
+address=/www.hnh-hotel.com/127.0.0.1	
+address=/www.tj-cmys.com/127.0.0.1	
 address=/a.tribalfusion.com/127.0.0.1	
 address=/acuityplatform.com/127.0.0.1	
 address=/ad-delivery.net/127.0.0.1	
