@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201901281204
+#version=201901312210
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7224,6 +7224,16 @@ address=/www.chenyanjiao.cn/127.0.0.1
 address=/www.hnh-hotel.com/127.0.0.1	
 address=/www.tj-cmys.com/127.0.0.1	
 address=/rtnp.just9229.cn/127.0.0.1	
+address=/code.bianxianwu.com/127.0.0.1	
+address=/e.vkuay.com/127.0.0.1	
+address=/e.wdiur.com/127.0.0.1	
+address=/j2.979067.com/127.0.0.1	
+address=/m.hzuok.com/127.0.0.1	
+address=/m.qlaot.com/127.0.0.1	
+address=/m.vkuay.com/127.0.0.1	
+address=/s3.aishangcan.com/127.0.0.1	
+address=/static.img.imagecdn.cn/127.0.0.1	
+address=/ynud.heizundg.cn/127.0.0.1	
 address=/a.tribalfusion.com/127.0.0.1	
 address=/acuityplatform.com/127.0.0.1	
 address=/ad-delivery.net/127.0.0.1	
@@ -7661,6 +7671,8 @@ address=/same.chinadaily.com.cn/127.0.0.1
 address=/usercollection.chinadaily.com.cn/127.0.0.1	
 address=/me.afp.chinanews.com/127.0.0.1	
 address=/ad.gmw.cn/127.0.0.1	
+address=/17.huanqiu.com/127.0.0.1	
+address=/21.huanqiu.com/127.0.0.1	
 address=/boardx.huanqiu.com/127.0.0.1	
 address=/interactive.huanqiu.com/127.0.0.1	
 address=/ipengtai.huanqiu.com/127.0.0.1	
