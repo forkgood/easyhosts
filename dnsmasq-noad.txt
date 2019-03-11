@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201903071802
+#version=201903112224
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7586,6 +7586,19 @@ address=/m.vcuor.com/127.0.0.1
 address=/photo.backerbiotech.cn/127.0.0.1	
 address=/photo.hebhec.cn/127.0.0.1	
 address=/qi.wndlkj.com/127.0.0.1	
+address=/cwzx.dengfenzhang.cn/127.0.0.1	
+address=/e.vchiy.com/127.0.0.1	
+address=/e.xroun.com/127.0.0.1	
+address=/j3.dthznc.com/127.0.0.1	
+address=/kign.biluzhang.cn/127.0.0.1	
+address=/ldk.ruiyufangchan.cn/127.0.0.1	
+address=/m.exusr.com/127.0.0.1	
+address=/m.gcaih.com/127.0.0.1	
+address=/m.iangs.com/127.0.0.1	
+address=/m.pquea.com/127.0.0.1	
+address=/m.vchiy.com/127.0.0.1	
+address=/m.xroun.com/127.0.0.1	
+address=/www.gdlbdzkj.com/127.0.0.1	
 address=/a.tribalfusion.com/127.0.0.1	
 address=/acuityplatform.com/127.0.0.1	
 address=/ad-delivery.net/127.0.0.1	
@@ -12353,6 +12366,7 @@ address=/i.ssix.io/127.0.0.1
 address=/load77.exelator.com/127.0.0.1	
 address=/stags.bluekai.com/127.0.0.1	
 address=/sync.crwdcntrl.net/127.0.0.1	
+address=/server.exposebox.com/127.0.0.1	
 address=/fans.bestvogue.com/127.0.0.1	
 address=/code.hot-mob.com/127.0.0.1	
 address=/rad.reporo.net/127.0.0.1	
