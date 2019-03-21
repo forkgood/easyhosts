@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201903202315
+#version=201903211615
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -8140,6 +8140,7 @@ address=/sugar.zhihu.com/127.0.0.1
 address=/zhihu-web-analytics.zhihu.com/127.0.0.1	
 address=/a.77shw.com/127.0.0.1	
 address=/b.77shw.com/127.0.0.1	
+address=/ad.ettoday.net/127.0.0.1	
 address=/zhggw.dre8.com/127.0.0.1	
 address=/wxggtg.dre8.com/127.0.0.1	
 address=/adsame1.cnr.cn/127.0.0.1	
