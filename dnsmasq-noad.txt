@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201904071738
+#version=201904071806
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -11002,6 +11002,7 @@ address=/www.coinhive.com/127.0.0.1
 address=/activity.clotfun.xyz/127.0.0.1	
 address=/c.ningmengnm.cn/127.0.0.1	
 address=/4336wang.cn/127.0.0.1	
+address=/pic.bdyxzx.com/127.0.0.1	
 address=/info.yitsoftware.com/127.0.0.1	
 address=/adgeo.163.com/127.0.0.1	
 address=/iad.g.163.com/127.0.0.1	
