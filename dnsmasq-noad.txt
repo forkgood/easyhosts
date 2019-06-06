@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201906061359
+#version=201906061946
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -6712,7 +6712,6 @@ address=/gas.data.pplive.com/127.0.0.1
 address=/plt.data.pplive.com/127.0.0.1	
 address=/web.data.pplive.com/127.0.0.1	
 address=/apm.suning.cn/127.0.0.1	
-address=/click.suning.cn/127.0.0.1	
 address=/dfp.suning.com/127.0.0.1	
 address=/ssac.suning.com/127.0.0.1	
 address=/adinf.voole.com/127.0.0.1	
