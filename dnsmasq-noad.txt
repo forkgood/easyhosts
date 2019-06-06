@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201906051217
+#version=201906061359
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7326,6 +7326,20 @@ address=/photo.njlymyd.cn/127.0.0.1
 address=/setqre.cn/127.0.0.1	
 address=/ssl2.dottexpress.com/127.0.0.1	
 address=/www.isitone.com/127.0.0.1	
+address=/e.89bia.cn/127.0.0.1	
+address=/go.kshks5.site/127.0.0.1	
+address=/m.89bia.cn/127.0.0.1	
+address=/photo.ytmaksim.cn/127.0.0.1	
+address=/e.2v9ml.cn/127.0.0.1	
+address=/4gf.9tkl2d.cn/127.0.0.1	
+address=/e.6g53b.cn/127.0.0.1	
+address=/m.6g53b.cn/127.0.0.1	
+address=/m.61lvi.cn/127.0.0.1	
+address=/m.2v9ml.cn/127.0.0.1	
+address=/m.4qn1k.cn/127.0.0.1	
+address=/m.n83v0h.cn/127.0.0.1	
+address=/m.1qp9k.cn/127.0.0.1	
+address=/m.07seb.cn/127.0.0.1	
 address=/m.v76rk.cn/127.0.0.1	
 address=/m.nq37f.cn/127.0.0.1	
 address=/e.nq37f.cn/127.0.0.1	
@@ -10339,7 +10353,6 @@ address=/pic.pic-img.com/127.0.0.1
 address=/pic.pxstda.com/127.0.0.1	
 address=/pic1.59wd.com/127.0.0.1	
 address=/pic2016.5442.com/127.0.0.1	
-address=/pic2016.ytqmx.com/127.0.0.1	
 address=/ping.weiduofan.com/127.0.0.1	
 address=/pjogndc8ixoidna.360doc.cn/127.0.0.1	
 address=/plmkolp.m.58xs.tw/127.0.0.1	
