@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201906091654
+#version=201906141444
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7339,6 +7339,28 @@ address=/8bq898.73miqb.cn/127.0.0.1
 address=/e.8p30k.cn/127.0.0.1	
 address=/m.8p30k.cn/127.0.0.1	
 address=/www.kkdsdlc.com/127.0.0.1	
+address=/25w.0tzp8c.cn/127.0.0.1	
+address=/e.1i94f.cn/127.0.0.1	
+address=/e.35rqb.cn/127.0.0.1	
+address=/e.q047i.cn/127.0.0.1	
+address=/fgp.i8l7tg.cn/127.0.0.1	
+address=/jah.4py3oe.cn/127.0.0.1	
+address=/jnm.o41qed.cn/127.0.0.1	
+address=/m.1i94f.cn/127.0.0.1	
+address=/m.1p04f.cn/127.0.0.1	
+address=/m.35rqb.cn/127.0.0.1	
+address=/m.9n3ig.cn/127.0.0.1	
+address=/m.cdfdfq.cn/127.0.0.1	
+address=/m.jinhuizhibo.com/127.0.0.1	
+address=/m.q047i.cn/127.0.0.1	
+address=/photo.cjh9.cn/127.0.0.1	
+address=/ssl2.gdqifang.com/127.0.0.1	
+address=/tejia.gaibang.fun/127.0.0.1	
+address=/tz.70e.me/127.0.0.1	
+address=/m.srnoh.cn/127.0.0.1	
+address=/m.h24q5c.cn/127.0.0.1	
+address=/m.3r76q.cn/127.0.0.1	
+address=/m.96y5h.cn/127.0.0.1	
 address=/m.t528zl.cn/127.0.0.1	
 address=/m.43k5d.cn/127.0.0.1	
 address=/m.08jq9b.cn/127.0.0.1	
