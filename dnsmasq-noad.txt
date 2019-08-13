@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201908132253
+#version=201908132305
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -6789,7 +6789,6 @@ address=/adse.ximalaya.com/127.0.0.1
 address=/adeventtracker.spotify.com/127.0.0.1	
 address=/analytics.spotify.com/127.0.0.1	
 address=/log.spotify.com/127.0.0.1	
-address=/weblb-wg.gslb.spotify.com/127.0.0.1	
 address=/adxserver.ad.cmvideo.cn/127.0.0.1	
 address=/dspserver.ad.cmvideo.cn/127.0.0.1	
 address=/openstorage.ad.cmvideo.cn/127.0.0.1	
@@ -7213,6 +7212,8 @@ address=/cf.zaiyunli.cn/127.0.0.1
 address=/gp.zaiyunli.cn/127.0.0.1	
 address=/baidua1.cardbaobao.com/127.0.0.1	
 address=/baidua2.cardbaobao.com/127.0.0.1	
+address=/b1.0430.com/127.0.0.1	
+address=/b2.0430.com/127.0.0.1	
 address=/ad.egou.com/127.0.0.1	
 address=/a.dangdang.com/127.0.0.1	
 address=/click.dangdang.com/127.0.0.1	
