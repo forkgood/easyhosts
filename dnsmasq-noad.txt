@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201908132305
+#version=201908132330
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -5262,6 +5262,7 @@ address=/licensing.tableausoftware.com/127.0.0.1
 address=/activation.cloud.techsmith.com/127.0.0.1	
 address=/binaryage-leechgate.herokuapp.com/127.0.0.1	
 address=/updates-s3.binaryage.com/127.0.0.1	
+address=/reg.wisecleaner.com/127.0.0.1	
 address=/cbs.wondershare.com/127.0.0.1	
 address=/img1.126.net/127.0.0.1	
 address=/img2.126.net/127.0.0.1	
@@ -7214,6 +7215,8 @@ address=/baidua1.cardbaobao.com/127.0.0.1
 address=/baidua2.cardbaobao.com/127.0.0.1	
 address=/b1.0430.com/127.0.0.1	
 address=/b2.0430.com/127.0.0.1	
+address=/bdjs.guangyuanol.cn/127.0.0.1	
+address=/bdjsym.guangyuanol.cn/127.0.0.1	
 address=/ad.egou.com/127.0.0.1	
 address=/a.dangdang.com/127.0.0.1	
 address=/click.dangdang.com/127.0.0.1	
