@@ -5221,7 +5221,7 @@ address=/r6---sn-npoeen7r.googlevideo.com/209.85.229.252
 
 # Modified Hosts End
 
-#version=201910141701
+#version=201910192211
 #url=https://github.com/vokins/yhosts
 address=/activate.adobe.com/127.0.0.1	
 address=/ereg.adobe.com/127.0.0.1	
@@ -7259,6 +7259,27 @@ address=/v.xinshide.cn/127.0.0.1
 address=/c.j782e.cn/127.0.0.1	
 address=/m.wkm89.cn/127.0.0.1	
 address=/m.zkp53.cn/127.0.0.1	
+address=/api.csxsyp.cn/127.0.0.1	
+address=/e.0544yh.cn/127.0.0.1	
+address=/e.k079j.cn/127.0.0.1	
+address=/e.yl64a.cn/127.0.0.1	
+address=/e.zu08e.cn/127.0.0.1	
+address=/gmeng.625323.com/127.0.0.1	
+address=/go.sghjtc.xyz/127.0.0.1	
+address=/hanmiyong.com/127.0.0.1	
+address=/m.0544yh.cn/127.0.0.1	
+address=/m.62mao.com/127.0.0.1	
+address=/m.b1zju.cn/127.0.0.1	
+address=/m.k079j.cn/127.0.0.1	
+address=/m.shwedar.com.cn/127.0.0.1	
+address=/m.yl64a.cn/127.0.0.1	
+address=/m.zu08e.cn/127.0.0.1	
+address=/mldys.14yzc.cn/127.0.0.1	
+address=/nsxtob.cn/127.0.0.1	
+address=/ssl.yx4818.cn/127.0.0.1	
+address=/touy.deryakose.com/127.0.0.1	
+address=/uzixia.zwdu.com/127.0.0.1	
+address=/www.17bqg.top/127.0.0.1	
 address=/a.tribalfusion.com/127.0.0.1	
 address=/acuityplatform.com/127.0.0.1	
 address=/ad-delivery.net/127.0.0.1	
